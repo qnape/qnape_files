@@ -2,7 +2,7 @@
     "quotes_occasions":[
         {
             "date": "1 January",
-            "occasion_01":"",
+            "occasion_01":"Happy New Year",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -74,7 +74,7 @@
         },
         {
             "date": "9 January",
-            "occasion_01":"",
+            "occasion_01":"Pravasi Bharatiya Divas",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -101,9 +101,9 @@
         },
         {
             "date": "12 January",
-            "occasion_01":"",
+            "occasion_01":"National Youth Day",
             "occasion_01_img":"",
-            "occasion_02":"",
+            "occasion_02":"Vivekananda Jayanti",
             "occasion_02_img":"",
             "quote_01":"The first step is clearly defining what it is you're after, because without knowing that, you'll never get it.",
             "quote_02":"There is a vitality, a life force, an energy that is translated through you; and because there is only one of you in all of time, this expression is unique."
@@ -209,7 +209,7 @@
         },
         {
             "date": "24 January",
-            "occasion_01":"",
+            "occasion_01":"The International Day of Education",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -218,7 +218,7 @@
         },
         {
             "date": "25 January",
-            "occasion_01":"",
+            "occasion_01":"National Voters' Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -227,9 +227,9 @@
         },
         {
             "date": "26 January",
-            "occasion_01":"",
+            "occasion_01":"Republic Day",
             "occasion_01_img":"",
-            "occasion_02":"",
+            "occasion_02":"International Customs Day",
             "occasion_02_img":"",
             "quote_01":"You have to learn the rules to be able to know how to break them.",
             "quote_02":"There will come a time when you believe everything is finished. That will be the beginning."
@@ -263,7 +263,7 @@
         },
         {
             "date": "30 January",
-            "occasion_01":"",
+            "occasion_01":"Martyr's Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -272,7 +272,7 @@
         },
         {
             "date": "31 January",
-            "occasion_01":"",
+            "occasion_01":"World Leprosy Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -291,7 +291,7 @@
         },
         {
             "date": "2 February",
-            "occasion_01":"",
+            "occasion_01":"World Wetlands Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -309,7 +309,7 @@
         },
         {
             "date": "4 February",
-            "occasion_01":"",
+            "occasion_01":"World Cancer Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -390,9 +390,9 @@
         },
         {
             "date": "13 February",
-            "occasion_01":"",
+            "occasion_01":"World Radio Day",
             "occasion_01_img":"",
-            "occasion_02":"",
+            "occasion_02":"Sarojini Naidu Birth Anniversary",
             "occasion_02_img":"",
             "quote_01":"One person can make a difference, and everyone should try.",
             "quote_02":"Don’t wait. The time will never be just right."
@@ -525,7 +525,7 @@
         },
         {
             "date": "28 February",
-            "occasion_01":"",
+            "occasion_01":"National Science Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -562,9 +562,9 @@
         },
         {
             "date": "3 March",
-            "occasion_01":"",
+            "occasion_01":"World Wildlife Day",
             "occasion_01_img":"",
-            "occasion_02":"",
+            "occasion_02":"World Hearing Day",
             "occasion_02_img":"",
             "quote_01":"Use your fear... it can take you to the place where you store your courage.",
             "quote_02":"If I cannot do great things, I can do small things in a great way."
@@ -607,7 +607,7 @@
         },
         {
             "date": "8 March",
-            "occasion_01":"",
+            "occasion_01":"International Women's Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -670,7 +670,7 @@
         },
         {
             "date": "15 March",
-            "occasion_01":"",
+            "occasion_01":"World Consumer Rights Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -715,9 +715,9 @@
         },
         {
             "date": "20 March",
-            "occasion_01":"",
+            "occasion_01":"World Sparrow Day",
             "occasion_01_img":"",
-            "occasion_02":"",
+            "occasion_02":"International Day of Happiness",
             "occasion_02_img":"",
             "quote_01":"We should always have three friends in our lives-one who walks ahead who we look up to and follow; one who walks beside us, who is with us every step of our journey; and then, one who we reach back for and bring along after we've cleared the way.",
             "quote_02":"Simplify. Remove steps. Remove options. Remove instructions. Remove clutte."
@@ -733,7 +733,7 @@
         },
         {
             "date": "22 March",
-            "occasion_01":"",
+            "occasion_01":"World Water Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -751,7 +751,7 @@
         },
         {
             "date": "24 March",
-            "occasion_01":"",
+            "occasion_01":"World Tuberculosis (TB) Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -878,7 +878,7 @@
         },
         {
             "date": "7 April",
-            "occasion_01":"",
+            "occasion_01":"World Health Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -977,7 +977,7 @@
         },
         {
             "date": "18 April",
-            "occasion_01":"",
+            "occasion_01":"World Heritage Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -1013,9 +1013,9 @@
         },
         {
             "date": "22 April",
-            "occasion_01":"",
+            "occasion_01":"World Water Day",
             "occasion_01_img":"",
-            "occasion_02":"",
+            "occasion_02":"Earth Day",
             "occasion_02_img":"",
             "quote_01":"If you're too rigid in your thinking you may miss some wonderful opportunities for storytelling.",
             "quote_02":"A year from now you may wish you had started today."
@@ -1040,7 +1040,7 @@
         },
         {
             "date": "25 April",
-            "occasion_01":"",
+            "occasion_01":"World Malaria Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -1113,7 +1113,7 @@
         },
         {
             "date": "3 May",
-            "occasion_01":"",
+            "occasion_01":"Press Freedom Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -1122,7 +1122,7 @@
         },
         {
             "date": "4 May",
-            "occasion_01":"",
+            "occasion_01":"World Asthma Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -1131,7 +1131,7 @@
         },
         {
             "date": "5 May",
-            "occasion_01":"",
+            "occasion_01":"International Day of the Midwife",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -1158,7 +1158,7 @@
         },
         {
             "date": "8 May",
-            "occasion_01":"",
+            "occasion_01":"World Red Cross Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -1284,7 +1284,7 @@
         },
         {
             "date": "22 May",
-            "occasion_01":"",
+            "occasion_01":"International Day for Biological Diversity",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -1365,7 +1365,7 @@
         },
         {
             "date": "31 May",
-            "occasion_01":"",
+            "occasion_01":"World No-Tobacco Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -1411,7 +1411,7 @@
         },
         {
             "date": "5 June",
-            "occasion_01":"",
+            "occasion_01":"World Environment Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -1438,7 +1438,7 @@
         },
         {
             "date": "8 June",
-            "occasion_01":"",
+            "occasion_01":"World Oceans Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -1546,16 +1546,16 @@
         },
         {
             "date": "20 June",
-            "occasion_01":"",
+            "occasion_01":"World Refugee Day",
             "occasion_01_img":"",
-            "occasion_02":"",
+            "occasion_02":"World Humanist Day",
             "occasion_02_img":"",
             "quote_01":"Be passionate and bold. Always keep learning. You stop doing useful things if you don't learn.",
             "quote_02":"Expect nothing and appreciate everything."
         },
         {
             "date": "21 June",
-            "occasion_01":"",
+            "occasion_01":"International Yoga Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -1736,7 +1736,7 @@
         },
         {
             "date": "11 July",
-            "occasion_01":"",
+            "occasion_01":"World Population Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -1889,16 +1889,16 @@
         },
         {
             "date": "28 July",
-            "occasion_01":"",
+            "occasion_01":"World Hepatitis Day",
             "occasion_01_img":"",
-            "occasion_02":"",
+            "occasion_02":"World Nature Conservation Day",
             "occasion_02_img":"",
             "quote_01":"Set your goals high, and don't stop till you get there.",
             "quote_02":"In three words I can sum up everything I’ve learned about life: it goes on."
         },
         {
             "date": "29 July",
-            "occasion_01":"",
+            "occasion_01":"International Tiger Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -1926,16 +1926,16 @@
     
         {
             "date": "1 August",
-            "occasion_01":"",
+            "occasion_01":"World Breastfeeding Week",
             "occasion_01_img":"",
-            "occasion_02":"",
+            "occasion_02":"National Mountain Climbing",
             "occasion_02_img":"",
             "quote_01":"Never let anyone try and make you into something that you're not. Remember what it is that you want, and always stay strong in that.",
             "quote_02":"Life is like riding a bicycle. To keep your balance, you must keep moving."
         },
         {
             "date": "2 August",
-            "occasion_01":"",
+            "occasion_01":"World Breastfeeding Week",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -1944,7 +1944,7 @@
         },
         {
             "date": "3 August",
-            "occasion_01":"",
+            "occasion_01":"World Breastfeeding Week",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -1953,7 +1953,7 @@
         },
         {
             "date": "4 August",
-            "occasion_01":"",
+            "occasion_01":"World Breastfeeding Week",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -1962,7 +1962,7 @@
         },
         {
             "date": "5 August",
-            "occasion_01":"",
+            "occasion_01":"World Breastfeeding Week",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -1971,7 +1971,7 @@
         },
         {
             "date": "6 August",
-            "occasion_01":"",
+            "occasion_01":"World Breastfeeding Week",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -1980,7 +1980,7 @@
         },
         {
             "date": "7 August",
-            "occasion_01":"",
+            "occasion_01":"World Breastfeeding Week",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -2025,9 +2025,9 @@
         },
         {
             "date": "12 August",
-            "occasion_01":"",
+            "occasion_01":"World Elephant Day",
             "occasion_01_img":"",
-            "occasion_02":"",
+            "occasion_02":"International Youth Day",
             "occasion_02_img":"",
             "quote_01":"I'm so secretive that when someone asks me, Hey, can you keep a secret? I say, 'That's none of your business.'",
             "quote_02":"Life can only be understood backwards; but it must be lived forwards."
@@ -2242,9 +2242,9 @@
         },
         {
             "date": "5 September",
-            "occasion_01":"",
+            "occasion_01":"Teachers' Day",
             "occasion_01_img":"",
-            "occasion_02":"",
+            "occasion_02":"International Day of Charity",
             "occasion_02_img":"",
             "quote_01":"Once you replace negative thoughts with positive ones, you'll start having positive results.",
             "quote_02":"Celebrate the small things and our lives become bigger than ever."
@@ -2269,7 +2269,7 @@
         },
         {
             "date": "8 September",
-            "occasion_01":"",
+            "occasion_01":"International Literacy Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -2323,7 +2323,7 @@
         },
         {
             "date": "14 September",
-            "occasion_01":"",
+            "occasion_01":"Hindi Diwas",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -2341,7 +2341,7 @@
         },
         {
             "date": "16 September",
-            "occasion_01":"",
+            "occasion_01":"The United Nations' (UN) International Day for the Preservation of the Ozone Layer",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -2386,7 +2386,7 @@
         },
         {
             "date": "21 September",
-            "occasion_01":"",
+            "occasion_01":"International Day of Peace",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -2458,7 +2458,7 @@
         },
         {
             "date": "29 September",
-            "occasion_01":"",
+            "occasion_01":"World Heart Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -2477,7 +2477,7 @@
     
         {
             "date": "1 October",
-            "occasion_01":"",
+            "occasion_01":"World Vegetarian Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -2486,9 +2486,9 @@
         },
         {
             "date": "2 October",
-            "occasion_01":"",
+            "occasion_01":"Gandhi Jayanti",
             "occasion_01_img":"",
-            "occasion_02":"",
+            "occasion_02":"International Day of Non-Violence",
             "occasion_02_img":"",
             "quote_01":"God doesn't require us to succeed, he only requires that you try.",
             "quote_02":"I love who I’ve been, but I really love who I’m becoming."
@@ -2504,7 +2504,7 @@
         },
         {
             "date": "4 October",
-            "occasion_01":"",
+            "occasion_01":"World Animal Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -2513,7 +2513,7 @@
         },
         {
             "date": "5 October",
-            "occasion_01":"",
+            "occasion_01":"World Teachers' Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -2540,7 +2540,7 @@
         },
         {
             "date": "8 October",
-            "occasion_01":"",
+            "occasion_01":"Indian Air Force Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -2567,7 +2567,7 @@
         },
         {
             "date": "11 October",
-            "occasion_01":"",
+            "occasion_01":"International Day of the Girl Child",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -2603,7 +2603,7 @@
         },
         {
             "date": "15 October",
-            "occasion_01":"",
+            "occasion_01":"World Students' Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -2747,7 +2747,7 @@
         },
         {
             "date": "31 October",
-            "occasion_01":"",
+            "occasion_01":"National Unity Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -2811,7 +2811,7 @@
         },
         {
             "date": "7 November",
-            "occasion_01":"",
+            "occasion_01":"National Cancer Awareness Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -2847,7 +2847,7 @@
         },
         {
             "date": "11 November",
-            "occasion_01":"",
+            "occasion_01":"National Education Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -2856,9 +2856,9 @@
         },
         {
             "date": "12 November",
-            "occasion_01":"",
+            "occasion_01":"National Bird Day",
             "occasion_01_img":"",
-            "occasion_02":"",
+            "occasion_02":"World Pneumonia Day",
             "occasion_02_img":"",
             "quote_01":"Failure is not the opposite of success; it's part of success.",
             "quote_02":"There are those who give with joy, and that joy is their reward."
@@ -2870,15 +2870,14 @@
             "occasion_02":"",
             "occasion_02_img":"",
             "quote_01":"I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.",
-            
             "quote_02":""
     
         },
         {
             "date": "14 November",
-            "occasion_01":"",
+            "occasion_01":"Children's Day",
             "occasion_01_img":"",
-            "occasion_02":"",
+            "occasion_02":"World Diabetes Day",
             "occasion_02_img":"",
             "quote_01":"Comedy is the only weapon I have to battle totalitarianism.",
             "quote_02":"A heart full of joy is better than a hand full of coins."
@@ -2923,9 +2922,9 @@
         },
         {
             "date": "19 November",
-            "occasion_01":"",
+            "occasion_01":"World Toilet Day",
             "occasion_01_img":"",
-            "occasion_02":"",
+            "occasion_02":"International Men's Day",
             "occasion_02_img":"",
             "quote_01":"Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
             "quote_02":"There are far better things ahead than any we leave behind."
@@ -2986,7 +2985,7 @@
         },
         {
             "date": "26 November",
-            "occasion_01":"",
+            "occasion_01":"Constitution Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -3041,9 +3040,9 @@
         },
         {
             "date": "2 December",
-            "occasion_01":"",
+            "occasion_01":"World Computer Literacy Day",
             "occasion_01_img":"",
-            "occasion_02":"",
+            "occasion_02":"International Day for the Abolition of Slavery",
             "occasion_02_img":"",
             "quote_01":"Even when I was close to defeat I rose to my feet",
             "quote_02":"If there is no struggle, there is no progress."
@@ -3059,7 +3058,7 @@
         },
         {
             "date": "4 December",
-            "occasion_01":"",
+            "occasion_01":"Indian Navy Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -3068,9 +3067,9 @@
         },
         {
             "date": "5 December",
-            "occasion_01":"",
+            "occasion_01":"World Soil Day",
             "occasion_01_img":"",
-            "occasion_02":"",
+            "occasion_02":"International Volunteer Day",
             "occasion_02_img":"",
             "quote_01":"I practice my saxophone three hours a day. I'm not saying I'm particularly special, but if you do something three hours a day for forty years, you get pretty good at it.",
             "quote_02":"Relentlessly prune bullshit, don't wait to do things that matter, and savor the time you have. That's what you do when life is short."
@@ -3221,7 +3220,7 @@
         },
         {
             "date": "22 December",
-            "occasion_01":"",
+            "occasion_01":"National Mathematics Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
@@ -3248,7 +3247,7 @@
         },
         {
             "date": "25 December",
-            "occasion_01":"",
+            "occasion_01":"Good Governance Day",
             "occasion_01_img":"",
             "occasion_02":"",
             "occasion_02_img":"",
