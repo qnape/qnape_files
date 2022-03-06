@@ -42,8 +42,8 @@
         },
         {
             "id":"6",
-            "title":"7",
-            "icon":"QnA",
+            "title":"QnA",
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/dummy.png",
             "type":"listView_multiPage_scrollable",
             "activity_name":"QnaActivity.kt",
             "cta":""
