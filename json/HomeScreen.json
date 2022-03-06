@@ -1,0 +1,52 @@
+{
+    "qnape_home_screen":[
+        {
+            "id":"1",
+            "title":"Syllabus",
+            "icon":"",
+            "type":"listView_singlePage_scrollable_expandableView_downloadPdfOpt",
+            "activity_name":"SyllabusActivity.kt",
+            "cta":""
+        },
+        {
+            "id":"2",
+            "title":"Prev. Yr Questions",
+            "icon":"",
+            "type":"listView_multiPage_scrollable",
+            "activity_name":"PYQActivity.kt",
+            "cta":""
+        },
+        {
+            "id":"3",
+            "title":"NCERT Books",
+            "icon":"",
+            "type":"listView_multiPage_scrollable",
+            "activity_name":"NCERTBooksActivity.kt",
+            "cta":""
+        },
+        {
+            "id":"4",
+            "title":"Quiz",
+            "icon":"",
+            "type":"listView_multiPage_scrollable",
+            "activity_name":"QuizActivity.kt",
+            "cta":""
+        },
+        {
+            "id":"5",
+            "title":"Notes",
+            "icon":"",
+            "type":"listView_multiPage_scrollable",
+            "activity_name":"NotesActivity.kt",
+            "cta":""
+        },
+        {
+            "id":"6",
+            "title":"7",
+            "icon":"QnA",
+            "type":"listView_multiPage_scrollable",
+            "activity_name":"QnaActivity.kt",
+            "cta":""
+        }
+    ]
+}
