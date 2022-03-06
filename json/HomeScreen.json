@@ -3,7 +3,7 @@
         {
             "id":"1",
             "title":"Syllabus",
-            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/dummy.png",
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
             "type":"listView_singlePage_scrollable_expandableView_downloadPdfOpt",
             "activity_name":"SyllabusActivity.kt",
             "cta":""
@@ -11,7 +11,7 @@
         {
             "id":"2",
             "title":"Prev. Yr Questions",
-            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/dummy.png",
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/pyq-128.png",
             "type":"listView_multiPage_scrollable",
             "activity_name":"PYQActivity.kt",
             "cta":""
@@ -19,7 +19,7 @@
         {
             "id":"3",
             "title":"NCERT Books",
-            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/dummy.png",
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
             "type":"listView_multiPage_scrollable",
             "activity_name":"NCERTBooksActivity.kt",
             "cta":""
@@ -27,7 +27,7 @@
         {
             "id":"4",
             "title":"Quiz",
-            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/dummy.png",
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/quiz-128.png",
             "type":"listView_multiPage_scrollable",
             "activity_name":"QuizActivity.kt",
             "cta":""
@@ -35,7 +35,7 @@
         {
             "id":"5",
             "title":"Notes",
-            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/dummy.png",
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/notes-128.png",
             "type":"listView_multiPage_scrollable",
             "activity_name":"NotesActivity.kt",
             "cta":""
@@ -43,7 +43,7 @@
         {
             "id":"6",
             "title":"QnA",
-            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/dummy.png",
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/qna-128.png",
             "type":"listView_multiPage_scrollable",
             "activity_name":"QnaActivity.kt",
             "cta":""
