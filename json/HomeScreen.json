@@ -3,7 +3,7 @@
         {
             "id":"1",
             "title":"Syllabus",
-            "icon":"",
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/dummy.png",
             "type":"listView_singlePage_scrollable_expandableView_downloadPdfOpt",
             "activity_name":"SyllabusActivity.kt",
             "cta":""
@@ -11,7 +11,7 @@
         {
             "id":"2",
             "title":"Prev. Yr Questions",
-            "icon":"",
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/dummy.png",
             "type":"listView_multiPage_scrollable",
             "activity_name":"PYQActivity.kt",
             "cta":""
@@ -19,7 +19,7 @@
         {
             "id":"3",
             "title":"NCERT Books",
-            "icon":"",
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/dummy.png",
             "type":"listView_multiPage_scrollable",
             "activity_name":"NCERTBooksActivity.kt",
             "cta":""
@@ -27,7 +27,7 @@
         {
             "id":"4",
             "title":"Quiz",
-            "icon":"",
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/dummy.png",
             "type":"listView_multiPage_scrollable",
             "activity_name":"QuizActivity.kt",
             "cta":""
@@ -35,7 +35,7 @@
         {
             "id":"5",
             "title":"Notes",
-            "icon":"",
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/dummy.png",
             "type":"listView_multiPage_scrollable",
             "activity_name":"NotesActivity.kt",
             "cta":""
