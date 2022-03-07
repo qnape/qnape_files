@@ -7,7 +7,7 @@
             "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
             "type":"listView_singlePage_scrollable_expandableView_downloadPdfOpt",
             "activity_name":"SyllabusActivity.kt",
-            "cta":""
+            "cta":"syllabus_home"
         },
         {
             "id":"2",
