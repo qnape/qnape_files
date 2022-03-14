@@ -9,19 +9,19 @@
                     "id":"1",
                     "title":"Prelims",
                     "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/SyllabusItems/UPSC_CSE/UPSC_CSE_Prelims_Syllabus.pdf"
                 },
                 {
                     "id":"2",
                     "title":"Mains",
                     "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/SyllabusItems/UPSC_CSE/UPSC_CSE_Mains_Syllabus.pdf"
                 },
                 {
                     "id":"3",
                     "title":"Interview",
                     "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/SyllabusItems/UPSC_CSE/UPSC_CSE_Interview_Syllabus.pdf"
                 }
             ]
         },       
@@ -32,21 +32,9 @@
             "items":[
                 {
                     "id":"1",
-                    "title":"Prelims",
+                    "title":"Prelims & Mains",
                     "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                },
-                {
-                    "id":"2",
-                    "title":"Mains",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                },
-                {
-                    "id":"3",
-                    "title":"Interview",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/SyllabusItems/BPSC/BPSC_Syllabus.pdf"
                 }
             ]
         },

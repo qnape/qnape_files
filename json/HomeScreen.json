@@ -30,7 +30,7 @@
         },
         {
             "id":"5",
-            "title":"Notes",
+            "title":"Notes Builder",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/notes-128.png",
             "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Notes.png",
             "cta":"Notes"
@@ -41,6 +41,20 @@
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/qna-128.png",
             "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/QnA.png",
             "cta":"QnA"
+        },
+        {
+            "id":"7",
+            "title":"Short Notes",
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/short_notes-128.png",
+            "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/QnA.png",
+            "cta":"Short_Notes"
+        },
+        {
+            "id":"8",
+            "title":"Resume Builder",
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/resume_builder-128.png",
+            "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/QnA.png",
+            "cta":"Resume_Builder"
         }
     ]
 }
