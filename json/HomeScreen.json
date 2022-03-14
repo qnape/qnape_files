@@ -46,14 +46,14 @@
             "id":"7",
             "title":"Short Notes",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/short_notes-128.png",
-            "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/QnA.png",
+            "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Short_Notes.png",
             "cta":"Short_Notes"
         },
         {
             "id":"8",
             "title":"Resume Builder",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/resume_builder-128.png",
-            "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/QnA.png",
+            "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/ResumeBuilder.png",
             "cta":"Resume_Builder"
         }
     ]
