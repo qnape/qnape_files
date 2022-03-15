@@ -4,6 +4,7 @@
             "id":"1",
             "title":"UPSC CSE",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/pyq-128.png",
+            "show":"1",
             "year_list":[
                 {
                     "id":"1",
@@ -1958,6 +1959,7 @@
             "id":"2",
             "title":"BPSC",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/pyq-128.png",
+            "show":"0",
             "year_list":[
                 {
                     "id":"1",

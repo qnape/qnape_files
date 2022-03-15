@@ -5,6 +5,7 @@
             "title":"NCERT BOOKS",
             "sub_title":"(English Medium)",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+            "show":"1",
             "class_list":[
                 {
                     "id":"1",
@@ -13,117 +14,370 @@
                         {
                             "id":"1",
                             "title":"Mathematics",
-                            "book_list":""
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
                         },
                         {
                             "id":"2",
                             "title":"Physics",
-                            "book_list":""
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
                         },
                         {
                             "id":"3",
                             "title":"Accountancy",
-                            "book_list":""
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
                         },
                         {
                             "id":"4",
                             "title":"Sanskrit",
-                            "book_list":""
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
                         },
                         {
                             "id":"5",
                             "title":"Hindi",
-                            "book_list":""
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
                         },
                         {
                             "id":"6",
                             "title":"English",
-                            "book_list":""
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
                         },
                         {
                             "id":"7",
                             "title":"Biology",
-                            "book_list":""
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
                         },
                         {
                             "id":"8",
                             "title":"History",
-                            "book_list":""
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
                         },
                         {
                             "id":"9",
                             "title":"Geography",
-                            "book_list":""
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
                         },
                         {
                             "id":"10"
                             ,"title":"Psychology",
-                            "book_list":""
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
                         },
                         {
                             "id":"11",
                             "title":"Sociology",
-                            "book_list":""
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
                         },
                         {
                             "id":"12",
                             "title":"Chemistry",
-                            "book_list":""
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
                         },
                         {
                             "id":"13",
                             "title":"Political Science",
-                            "book_list":""
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
                         },
                         {
                             "id":"14",
                             "title":"Economics",
-                            "book_list":""
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
                         },
                         {
                             "id":"15",
                             "title":"Business Studies",
-                            "book_list":""
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
                         },
                         {
                             "id":"16"
                             ,"title":"Heritage Crafts",
-                            "book_list":""
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
                         },
                         {
                             "id":"17",
                             "title":"New Age Graphics Design",
-                            "book_list":""
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
                         },
                         {
                             "id":"18",
                             "title":"Home Science",
-                            "book_list":""
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
                         },
                         {
                             "id":"19",
                             "title":"Fine Arts",
-                            "book_list":""
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
                         },
                         {
                             "id":"20",
                             "title":"Computer Science",
-                            "book_list":""
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
                         },
                         {
                             "id":"21",
                             "title":"Information Practices",
-                            "book_list":""
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
                         },
                         {
                             "id":"22",
                             "title":"Physical Education",
-                            "book_list":""
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
                         },
                         {
                             "id":"23",
                             "title":"Applied Mathematics",
-                            "book_list":""
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -131,144 +385,1314 @@
                     "id":"2",
                     "title":"Class 11",
                     "subject_list":[
-                        {"id":"1","title":"Sanskrit"},
-                        {"id":"2","title":"Accountancy"},
-                        {"id":"3","title":"Chemistry"},
-                        {"id":"4","title":"Mathematics"},
-                        {"id":"5","title":"Statistics"},
-                        {"id":"6","title":"Biology"},
-                        {"id":"7","title":"Psychology"},
-                        {"id":"8","title":"Geography"},
-                        {"id":"9","title":"Physics"},
-                        {"id":"10","title":"Hindi"},
-                        {"id":"11","title":"Sociology"},
-                        {"id":"12","title":"English"},
-                        {"id":"13","title":"Political Science"},
-                        {"id":"14","title":"History"},
-                        {"id":"15","title":"Economics"},
-                        {"id":"16","title":"Business Studies"},
-                        {"id":"17","title":"Heritage Crafts"},
-                        {"id":"18","title":"Graphics Design"},
-                        {"id":"19","title":"CCT"},
-                        {"id":"20","title":"Home Science"},
-                        {"id":"21","title":"Creative Writing"},
-                        {"id":"22","title":"Fine Arts"},
-                        {"id":"23","title":"Information Practices"},
-                        {"id":"24","title":"Computer Science"},
-                        {"id":"25","title":"Biotechnology"},
-                        {"id":"26","title":"Physical Education"},
-                        {"id":"27","title":"Applied Mathematics"}
+                        {
+                            "id":"1",
+                            "title":"Sanskrit",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"2",
+                            "title":"Accountancy",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"3",
+                            "title":"Chemistry",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"4",
+                            "title":"Mathematics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"5",
+                            "title":"Statistics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"6",
+                            "title":"Biology",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"7",
+                            "title":"Psychology",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"8",
+                            "title":"Geography",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"9",
+                            "title":"Physics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"10",
+                            "title":"Hindi",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"11",
+                            "title":"Sociology",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"12",
+                            "title":"English",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"13",
+                            "title":"Political Science",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"14",
+                            "title":"History",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"15",
+                            "title":"Economics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"16",
+                            "title":"Business Studies",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"17",
+                            "title":"Heritage Crafts",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"18",
+                            "title":"Graphics Design",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"19",
+                            "title":"CCT",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"20",
+                            "title":"Home Science",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"21",
+                            "title":"Creative Writing",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"22",
+                            "title":"Fine Arts",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"23",
+                            "title":"Information Practices",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"24",
+                            "title":"Computer Science",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"25",
+                            "title":"Biotechnology",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"26",
+                            "title":"Physical Education",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"27",
+                            "title":"Applied Mathematics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        }
                     ]
                 },
                 {
                     "id":"3",
                     "title":"Class 10",
                     "subject_list":[
-                        {"id":"1","title":"Mathematics"},
-                        {"id":"2","title":"Science"},
-                        {"id":"3","title":"English"},
-                        {"id":"4","title":"Sanskrit"},
-                        {"id":"5","title":"Social Studies"},
-                        {"id":"6","title":"Hindi"},
-                        {"id":"7","title":"Physical Education"}
+                        {
+                            "id":"1",
+                            "title":"Mathematics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"2",
+                            "title":"Science",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"3",
+                            "title":"English",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"4",
+                            "title":"Sanskrit",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"5",
+                            "title":"Social Studies",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"6",
+                            "title":"Hindi",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"7",
+                            "title":"Physical Education",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        }
                     ]
                 },
                 {
                     "id":"4",
                     "title":"Class 9",
                     "subject_list":[
-                        {"id":"1","title":"Mathematics"},
-                        {"id":"2","title":"Science"},
-                        {"id":"3","title":"English"},
-                        {"id":"4","title":"Sanskrit"},
-                        {"id":"5","title":"Social Studies"},
-                        {"id":"6","title":"Hindi"},
-                        {"id":"7","title":"Information Technology"},
-                        {"id":"8","title":"Physical Education"}
+                        {
+                            "id":"1",
+                            "title":"Mathematics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"2",
+                            "title":"Science",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"3",
+                            "title":"English",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"4",
+                            "title":"Sanskrit",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"5",
+                            "title":"Social Studies",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"6",
+                            "title":"Hindi",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"7",
+                            "title":"Information Technology",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"8",
+                            "title":"Physical Education",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        }
                     ]
                 },
                 {
                     "id":"5",
                     "title":"Class 8",
                     "subject_list":[
-                        {"id":"1","title":"Mathematics"},
-                        {"id":"2","title":"Science"},
-                        {"id":"3","title":"English"},
-                        {"id":"4","title":"Sanskrit"},
-                        {"id":"5","title":"Social Studies"},
-                        {"id":"6","title":"Hindi"}
+                        {
+                            "id":"1",
+                            "title":"Mathematics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"2",
+                            "title":"Science",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"3",
+                            "title":"English",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"4",
+                            "title":"Sanskrit",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"5",
+                            "title":"Social Studies",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"6",
+                            "title":"Hindi",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        }
                     ]
                 },
                 {
                     "id":"6",
                     "title":"Class 7",
                     "subject_list":[
-                        {"id":"1","title":"Mathematics"},
-                        {"id":"2","title":"Science"},
-                        {"id":"3","title":"English"},
-                        {"id":"4","title":"Sanskrit"},
-                        {"id":"5","title":"Social Studies"},
-                        {"id":"6","title":"Hindi"}
+                        {
+                            "id":"1",
+                            "title":"Mathematics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"2",
+                            "title":"Science",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"3",
+                            "title":"English",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"4",
+                            "title":"Sanskrit",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"5",
+                            "title":"Social Studies",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"6",
+                            "title":"Hindi",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        }
                     ]
                 },
                 {
                     "id":"7",
                     "title":"Class 6",
                     "subject_list":[
-                        {"id":"1","title":"Mathematics"},
-                        {"id":"2","title":"Science"},
-                        {"id":"3","title":"English"},
-                        {"id":"4","title":"Sanskrit"},
-                        {"id":"5","title":"Social Studies"},
-                        {"id":"6","title":"Hindi"}
+                        {
+                            "id":"1",
+                            "title":"Mathematics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"2",
+                            "title":"Science",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"3",
+                            "title":"English",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"4",
+                            "title":"Sanskrit",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"5",
+                            "title":"Social Studies",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"6",
+                            "title":"Hindi",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        }
                     ]
                 },
                 {
                     "id":"8",
                     "title":"Class 5",
                     "subject_list":[
-                        {"id":"1","title":"Mathematics"},
-                        {"id":"2","title":"Environmental"},
-                        {"id":"3","title":"English"},
-                        {"id":"6","title":"Hindi"}
+                        {
+                            "id":"1",
+                            "title":"Mathematics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"2",
+                            "title":"Environmental",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"3",
+                            "title":"English",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"4",
+                            "title":"Hindi",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        }
                     ]
                 },
                 {
                     "id":"9",
                     "title":"Class 4",
                     "subject_list":[
-                        {"id":"1","title":"Mathematics"},
-                        {"id":"2","title":"Environmental"},
-                        {"id":"3","title":"English"},
-                        {"id":"6","title":"Hindi"}
+                        {
+                            "id":"1",
+                            "title":"Mathematics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"2",
+                            "title":"Environmental",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"3",
+                            "title":"English",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"6",
+                            "title":"Hindi",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        }
                     ]
                 },
                 {
                     "id":"10",
                     "title":"Class 3",
                     "subject_list":[
-                        {"id":"1","title":"Mathematics"},
-                        {"id":"2","title":"Environmental"},
-                        {"id":"3","title":"English"},
-                        {"id":"6","title":"Hindi"}
+                        {
+                            "id":"1",
+                            "title":"Mathematics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"2",
+                            "title":"Environmental",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"3",
+                            "title":"English",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"4",
+                            "title":"Hindi",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        }
                     ]
                 },
                 {
                     "id":"11",
                     "title":"Class 2",
                     "subject_list":[
-                        {"id":"1","title":"Mathematics"},
-                        {"id":"3","title":"English"},
-                        {"id":"6","title":"Hindi"}
+                        {
+                            "id":"1",
+                            "title":"Mathematics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"2",
+                            "title":"English",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"3",
+                            "title":"Hindi",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        }
                     ]
                 },
                 {
                     "id":"12",
                     "title":"Class 1",
                     "subject_list":[
-                        {"id":"1","title":"Mathematics"},
-                        {"id":"3","title":"English"},
-                        {"id":"6","title":"Hindi"}
+                        {
+                            "id":"1",
+                            "title":"Mathematics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"2",
+                            "title":"English",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"3",
+                            "title":"Hindi",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        }
                     ]
                 }
             ]
@@ -278,54 +1702,1695 @@
             "title":"NCERT किताबें",
             "sub_title":"(हिंदी मध्यम)",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+            "show":"1",
             "class_list":[
                 {
                     "id":"1",
-                    "title":"कक्षा 12"
+                    "title":"कक्षा 12",
+                    "subject_list":[
+                        {
+                            "id":"1",
+                            "title":"Mathematics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"2",
+                            "title":"Physics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"3",
+                            "title":"Accountancy",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"4",
+                            "title":"Sanskrit",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"5",
+                            "title":"Hindi",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"6",
+                            "title":"English",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"7",
+                            "title":"Biology",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"8",
+                            "title":"History",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"9",
+                            "title":"Geography",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"10"
+                            ,"title":"Psychology",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"11",
+                            "title":"Sociology",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"12",
+                            "title":"Chemistry",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"13",
+                            "title":"Political Science",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"14",
+                            "title":"Economics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"15",
+                            "title":"Business Studies",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"16"
+                            ,"title":"Heritage Crafts",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"17",
+                            "title":"New Age Graphics Design",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"18",
+                            "title":"Home Science",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"19",
+                            "title":"Fine Arts",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"20",
+                            "title":"Computer Science",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"21",
+                            "title":"Information Practices",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"22",
+                            "title":"Physical Education",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"23",
+                            "title":"Applied Mathematics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "id":"2",
-                    "title":"कक्षा 11"
+                    "title":"कक्षा 11",
+                    "subject_list":[
+                        {
+                            "id":"1",
+                            "title":"Sanskrit",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"2",
+                            "title":"Accountancy",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"3",
+                            "title":"Chemistry",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"4",
+                            "title":"Mathematics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"5",
+                            "title":"Statistics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"6",
+                            "title":"Biology",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"7",
+                            "title":"Psychology",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"8",
+                            "title":"Geography",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"9",
+                            "title":"Physics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"10",
+                            "title":"Hindi",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"11",
+                            "title":"Sociology",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"12",
+                            "title":"English",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"13",
+                            "title":"Political Science",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"14",
+                            "title":"History",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"15",
+                            "title":"Economics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"16",
+                            "title":"Business Studies",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"17",
+                            "title":"Heritage Crafts",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"18",
+                            "title":"Graphics Design",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"19",
+                            "title":"CCT",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"20",
+                            "title":"Home Science",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"21",
+                            "title":"Creative Writing",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"22",
+                            "title":"Fine Arts",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"23",
+                            "title":"Information Practices",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"24",
+                            "title":"Computer Science",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"25",
+                            "title":"Biotechnology",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"26",
+                            "title":"Physical Education",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"27",
+                            "title":"Applied Mathematics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "id":"3",
-                    "title":"कक्षा 10"
+                    "title":"कक्षा 10",
+                    "subject_list":[
+                        {
+                            "id":"1",
+                            "title":"Mathematics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"2",
+                            "title":"Science",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"3",
+                            "title":"English",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"4",
+                            "title":"Sanskrit",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"5",
+                            "title":"Social Studies",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"6",
+                            "title":"Hindi",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"7",
+                            "title":"Physical Education",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "id":"4",
-                    "title":"कक्षा 9"
+                    "title":"कक्षा 9",
+                    "subject_list":[
+                        {
+                            "id":"1",
+                            "title":"Mathematics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"2",
+                            "title":"Science",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"3",
+                            "title":"English",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"4",
+                            "title":"Sanskrit",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"5",
+                            "title":"Social Studies",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"6",
+                            "title":"Hindi",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"7",
+                            "title":"Information Technology",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"8",
+                            "title":"Physical Education",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "id":"5",
-                    "title":"कक्षा 8"
+                    "title":"कक्षा 8",
+                    "subject_list":[
+                        {
+                            "id":"1",
+                            "title":"Mathematics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"2",
+                            "title":"Science",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"3",
+                            "title":"English",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"4",
+                            "title":"Sanskrit",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"5",
+                            "title":"Social Studies",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"6",
+                            "title":"Hindi",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "id":"6",
-                    "title":"कक्षा 7"
+                    "title":"कक्षा 7",
+                    "subject_list":[
+                        {
+                            "id":"1",
+                            "title":"Mathematics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"2",
+                            "title":"Science",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"3",
+                            "title":"English",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"4",
+                            "title":"Sanskrit",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"5",
+                            "title":"Social Studies",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"6",
+                            "title":"Hindi",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "id":"7",
-                    "title":"कक्षा 6"
+                    "title":"कक्षा 6",
+                    "subject_list":[
+                        {
+                            "id":"1",
+                            "title":"Mathematics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"2",
+                            "title":"Science",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"3",
+                            "title":"English",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"4",
+                            "title":"Sanskrit",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"5",
+                            "title":"Social Studies",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"6",
+                            "title":"Hindi",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "id":"8",
-                    "title":"कक्षा 5"
+                    "title":"कक्षा 5",
+                    "subject_list":[
+                        {
+                            "id":"1",
+                            "title":"Mathematics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"2",
+                            "title":"Environmental",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"3",
+                            "title":"English",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"4",
+                            "title":"Hindi",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "id":"9",
-                    "title":"कक्षा 4"
+                    "title":"कक्षा 4",
+                    "subject_list":[
+                        {
+                            "id":"1",
+                            "title":"Mathematics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"2",
+                            "title":"Environmental",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"3",
+                            "title":"English",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"6",
+                            "title":"Hindi",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "id":"10",
-                    "title":"कक्षा 3"
+                    "title":"कक्षा 3",
+                    "subject_list":[
+                        {
+                            "id":"1",
+                            "title":"Mathematics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"2",
+                            "title":"Environmental",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"3",
+                            "title":"English",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"4",
+                            "title":"Hindi",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "id":"11",
-                    "title":"कक्षा 2"
+                    "title":"कक्षा 2",
+                    "subject_list":[
+                        {
+                            "id":"1",
+                            "title":"Mathematics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"2",
+                            "title":"English",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"3",
+                            "title":"Hindi",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "id":"12",
-                    "title":"कक्षा 1"
+                    "title":"कक्षा 1",
+                    "subject_list":[
+                        {
+                            "id":"1",
+                            "title":"Mathematics",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"2",
+                            "title":"English",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"3",
+                            "title":"Hindi",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 1",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                },
+                                {
+                                    "id":"1",
+                                    "title":"Dummy Book Part 2",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         }

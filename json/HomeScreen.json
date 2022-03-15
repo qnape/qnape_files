@@ -5,56 +5,64 @@
             "title":"Syllabus",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
             "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
-            "cta":"Syllabus"
+            "cta":"Syllabus",
+            "show":"1"
         },
         {
             "id":"2",
             "title":"Prev. Yr Questions",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/pyq-128.png",
             "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/PYQ.png",
-            "cta":"Previous_Year_Questions"
+            "cta":"Previous_Year_Questions",
+            "show":"1"
         },
         {
             "id":"3",
             "title":"NCERT Books",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
             "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/NCERT_Books.png",
-            "cta":"NCERT_Books"
+            "cta":"NCERT_Books",
+            "show":"1"
         },
         {
             "id":"4",
             "title":"Quiz",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/quiz-128.png",
             "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Quiz.png",
-            "cta":"Quiz"
+            "cta":"Quiz",
+            "show":"1"
         },
         {
             "id":"5",
             "title":"Notes Builder",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/notes-128.png",
             "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Notes.png",
-            "cta":"Notes"
+            "cta":"Notes",
+            "show":"1"
         },
         {
             "id":"6",
             "title":"QnA",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/qna-128.png",
             "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/QnA.png",
-            "cta":"QnA"
+            "cta":"QnA",
+            "show":"1"
         },
         {
             "id":"7",
             "title":"Short Notes",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/short_notes-128.png",
             "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Short_Notes.png",
-            "cta":"Short_Notes"
+            "cta":"Short_Notes",
+            "show":"1"
         },
         {
             "id":"8",
             "title":"Resume Builder",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/resume_builder-128.png",
             "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/ResumeBuilder.png",
-            "cta":"Resume_Builder"
+            "cta":"Resume_Builder",
+            "show":"1"
         }
     ]
 }
