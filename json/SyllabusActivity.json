@@ -4,7 +4,6 @@
             "id":"1",
             "title":"UPSC CSE",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-            "show":"1",
             "items":[
                 {
                     "id":"1",
@@ -30,7 +29,6 @@
             "id":"2",
             "title":"BPSC",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-            "show":"1",
             "items":[
                 {
                     "id":"1",
@@ -44,7 +42,6 @@
             "id":"3",
             "title":"Bihar Daroga",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-            "show":"1",
             "items":[
                 {
                     "id":"1",
@@ -70,7 +67,6 @@
             "id":"4",
             "title":"JPSC",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-            "show":"1",
             "items":[
                 {
                     "id":"1",
@@ -96,7 +92,6 @@
             "id":"5",
             "title":"RAS",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-            "show":"1",
             "items":[
                 {
                     "id":"1",
@@ -121,7 +116,6 @@
             "id":"6",
             "title":"RPSC",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-            "show":"1",
             "items":[
                 {
                     "id":"1",
@@ -147,7 +141,6 @@
             "id":"7",
             "title":"UPPCS",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-            "show":"1",
             "items":[
                 {
                     "id":"1",
@@ -173,7 +166,6 @@
             "id":"8",
             "title":"JKPCS",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-            "show":"1",
             "items":[
                 {
                     "id":"1",
@@ -199,7 +191,6 @@
             "id":"9",
             "title":"JKAS",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-            "show":"1",
             "items":[
                 {
                     "id":"1",
@@ -225,7 +216,6 @@
             "id":"10",
             "title":"MPPSC",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-            "show":"1",
             "items":[
                 {
                     "id":"1",
@@ -251,7 +241,6 @@
             "id":"11",
             "title":"HCS",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-            "show":"1",
             "items":[
                 {
                     "id":"1",
@@ -277,7 +266,6 @@
             "id":"12",
             "title":"UKPCS",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-            "show":"1",
             "items":[
                 {
                     "id":"1",
@@ -303,7 +291,6 @@
             "id":"13",
             "title":"WBCS",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-            "show":"1",
             "items":[
                 {
                     "id":"1",
@@ -329,7 +316,6 @@
             "id":"14",
             "title":"TNPSC",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-            "show":"1",
             "items":[
                 {
                     "id":"1",

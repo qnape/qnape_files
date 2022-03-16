@@ -5,7 +5,6 @@
             "title":"NCERT BOOKS",
             "sub_title":"(English Medium)",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
-            "show":"1",
             "class_list":[
                 {
                     "id":"1",
@@ -1702,7 +1701,6 @@
             "title":"NCERT किताबें",
             "sub_title":"(हिंदी मध्यम)",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
-            "show":"1",
             "class_list":[
                 {
                     "id":"1",
