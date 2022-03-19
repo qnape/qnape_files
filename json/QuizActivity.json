@@ -3,57 +3,343 @@
 		{
 			"title":"History",
             "category":"Subjective",
-            "cta":"History_Quiz"
+            "cta":"History_Quiz",
+            "quiz_list":[
+                {
+                    "title":"History Quiz 1",
+                    "total":"10",
+                    "level":"Normal",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_001_10.json"
+                },
+                {
+                    "title":"History Quiz 2",
+                    "total":"25",
+                    "level":"Medium",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_002_25.json"
+                },
+                {
+                    "title":"History Quiz 3",
+                    "total":"50",
+                    "level":"Moderate",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_003_50.json"
+                },
+                {
+                    "title":"History Quiz 4",
+                    "total":"100",
+                    "level":"Hard",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_004_100.json"
+                }
+            ]
 		},       
 		{
 			"title":"Polity",
             "category":"Subjective",
-            "cta":"Polity_Quiz"
+            "cta":"Polity_Quiz",
+            "quiz_list":[
+                {
+                    "title":"Polity Quiz 1",
+                    "total":"10",
+                    "level":"Normal",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_001_10.json"
+                },
+                {
+                    "title":"Polity Quiz 2",
+                    "total":"25",
+                    "level":"Medium",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_002_25.json"
+                },
+                {
+                    "title":"Polity Quiz 3",
+                    "total":"50",
+                    "level":"Moderate",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_003_50.json"
+                },
+                {
+                    "title":"Polity Quiz 4",
+                    "total":"100",
+                    "level":"Hard",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_004_100.json"
+                }
+            ]
 		},
         {
             "title":"Geography",
             "category":"Subjective",
-            "cta":"Geography_Quiz"
+            "cta":"Geography_Quiz",
+            "quiz_list":[
+                {
+                    "title":"Geography Quiz 1",
+                    "total":"10",
+                    "level":"Normal",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_001_10.json"
+                },
+                {
+                    "title":"Geography Quiz 2",
+                    "total":"25",
+                    "level":"Medium",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_002_25.json"
+                },
+                {
+                    "title":"Geography Quiz 3",
+                    "total":"50",
+                    "level":"Moderate",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_003_50.json"
+                },
+                {
+                    "title":"Geography Quiz 4",
+                    "total":"100",
+                    "level":"Hard",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_004_100.json"
+                }
+            ]
         },
         {
             "title":"Map",
             "category":"Subjective",
-            "cta":"Map_Quiz"
+            "cta":"Map_Quiz",
+            "quiz_list":[
+                {
+                    "title":"Map Quiz 1",
+                    "total":"10",
+                    "level":"Normal",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_001_10.json"
+                },
+                {
+                    "title":"Map Quiz 2",
+                    "total":"25",
+                    "level":"Medium",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_002_25.json"
+                },
+                {
+                    "title":"Map Quiz 3",
+                    "total":"50",
+                    "level":"Moderate",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_003_50.json"
+                },
+                {
+                    "title":"Map Quiz 4",
+                    "total":"100",
+                    "level":"Hard",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_004_100.json"
+                }
+            ]
         },
         {
             "title":"Economics",
             "category":"Subjective",
-            "cta":"Economics_Quiz"
+            "cta":"Economics_Quiz",
+            "quiz_list":[
+                {
+                    "title":"Economics Quiz 1",
+                    "total":"10",
+                    "level":"Normal",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_001_10.json"
+                },
+                {
+                    "title":"Economics Quiz 2",
+                    "total":"25",
+                    "level":"Medium",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_002_25.json"
+                },
+                {
+                    "title":"Economics Quiz 3",
+                    "total":"50",
+                    "level":"Moderate",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_003_50.json"
+                },
+                {
+                    "title":"Economics Quiz 4",
+                    "total":"100",
+                    "level":"Hard",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_004_100.json"
+                }
+            ]
         },
         {
             "title":"Current Affairs",
             "category":"Subjective",
-            "cta":"Current_Affairs_Quiz"
+            "cta":"Current_Affairs_Quiz",
+            "quiz_list":[
+                {
+                    "title":"Current Affairs Quiz 1",
+                    "total":"10",
+                    "level":"Normal",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_001_10.json"
+                },
+                {
+                    "title":"Current Affairs Quiz 2",
+                    "total":"25",
+                    "level":"Medium",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_002_25.json"
+                },
+                {
+                    "title":"Current Affairs Quiz 3",
+                    "total":"50",
+                    "level":"Moderate",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_003_50.json"
+                },
+                {
+                    "title":"Current Affairs Quiz 4",
+                    "total":"100",
+                    "level":"Hard",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_004_100.json"
+                }
+            ]
         },
         {
             "title":"UPSC Prelims",
             "category":"Examination",
-            "cta":"UPSC_Prelims_Quiz"
+            "cta":"UPSC_Prelims_Quiz",
+            "quiz_list":[
+                {
+                    "title":"UPSC Prelims Quiz 1",
+                    "total":"10",
+                    "level":"Normal",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_001_10.json"
+                },
+                {
+                    "title":"UPSC Prelims Quiz 2",
+                    "total":"25",
+                    "level":"Medium",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_002_25.json"
+                },
+                {
+                    "title":"UPSC Prelims Quiz 3",
+                    "total":"50",
+                    "level":"Moderate",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_003_50.json"
+                },
+                {
+                    "title":"UPSC Prelims Quiz 4",
+                    "total":"100",
+                    "level":"Hard",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_004_100.json"
+                }
+            ]
         },
         {
             "title":"BPSC Prelims",
             "category":"Examination",
-            "cta":"BPSC_Prelims_Quiz"
+            "cta":"BPSC_Prelims_Quiz",
+            "quiz_list":[
+                {
+                    "title":"BPSC Prelims Quiz 1",
+                    "total":"10",
+                    "level":"Normal",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_001_10.json"
+                },
+                {
+                    "title":"BPSC Prelims Quiz 2",
+                    "total":"25",
+                    "level":"Medium",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_002_25.json"
+                },
+                {
+                    "title":"BPSC Prelims Quiz 3",
+                    "total":"50",
+                    "level":"Moderate",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_003_50.json"
+                },
+                {
+                    "title":"BPSC Prelims Quiz 4",
+                    "total":"100",
+                    "level":"Hard",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_004_100.json"
+                }
+            ]
         },
         {
             "title":"JPSC Prelims",
             "category":"Examination",
-            "cta":"JPSC_Prelims_Quiz"
+            "cta":"JPSC_Prelims_Quiz",
+            "quiz_list":[
+                {
+                    "title":"JPSC Prelims Quiz 1",
+                    "total":"10",
+                    "level":"Normal",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_001_10.json"
+                },
+                {
+                    "title":"JPSC Prelims Quiz 2",
+                    "total":"25",
+                    "level":"Medium",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_002_25.json"
+                },
+                {
+                    "title":"JPSC Prelims Quiz 3",
+                    "total":"50",
+                    "level":"Moderate",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_003_50.json"
+                },
+                {
+                    "title":"JPSC Prelims Quiz 4",
+                    "total":"100",
+                    "level":"Hard",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_004_100.json"
+                }
+            ]
         },
         {
             "title":"UP PSC Prelims",
             "category":"Examination",
-            "cta":"UP_PSC_Prelims_Quiz"
+            "cta":"UP_PSC_Prelims_Quiz",
+            "quiz_list":[
+                {
+                    "title":"UP PSC Prelims Quiz 1",
+                    "total":"10",
+                    "level":"Normal",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_001_10.json"
+                },
+                {
+                    "title":"UP PSC Prelims Quiz 2",
+                    "total":"25",
+                    "level":"Medium",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_002_25.json"
+                },
+                {
+                    "title":"UP PSC Prelims Quiz 3",
+                    "total":"50",
+                    "level":"Moderate",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_003_50.json"
+                },
+                {
+                    "title":"UP PSC Prelims Quiz 4",
+                    "total":"100",
+                    "level":"Hard",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_004_100.json"
+                }
+            ]
         },
         {
             "title":"MP PSC Prelims",
             "category":"Examination",
-            "cta":"MP_PSC_Prelims_Quiz"
+            "cta":"MP_PSC_Prelims_Quiz",
+            "quiz_list":[
+                {
+                    "title":"MP PSC Prelims Quiz 1",
+                    "total":"10",
+                    "level":"Normal",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_001_10.json"
+                },
+                {
+                    "title":"MP PSC Prelims Quiz 2",
+                    "total":"25",
+                    "level":"Medium",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_002_25.json"
+                },
+                {
+                    "title":"MP PSC Prelims Quiz 3",
+                    "total":"50",
+                    "level":"Moderate",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_003_50.json"
+                },
+                {
+                    "title":"MP PSC Prelims Quiz 4",
+                    "total":"100",
+                    "level":"Hard",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_004_100.json"
+                }
+            ]
         }
 	]
 }
