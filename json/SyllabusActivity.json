@@ -40,24 +40,12 @@
         },
         {
             "id":"3",
-            "title":"Bihar Daroga",
+            "title":"JPSC",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
             "items":[
                 {
                     "id":"1",
-                    "title":"Prelims",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                },
-                {
-                    "id":"2",
-                    "title":"Mains",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                },
-                {
-                    "id":"3",
-                    "title":"Interview",
+                    "title":"Prelims & Mains",
                     "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
                     "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
                 }
@@ -65,7 +53,7 @@
         },
         {
             "id":"4",
-            "title":"JPSC",
+            "title":"RPSC/RAS",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
             "items":[
                 {
@@ -83,62 +71,12 @@
                 {
                     "id":"3",
                     "title":"Interview",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
                     "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
                 }
             ]
         },
         {
             "id":"5",
-            "title":"RAS",
-            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-            "items":[
-                {
-                    "id":"1",
-                    "title":"Prelims",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                },
-                {
-                    "id":"2",
-                    "title":"Mains",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                },
-                {
-                    "id":"3",
-                    "title":"Interview",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                }
-            ]
-        },
-        {
-            "id":"6",
-            "title":"RPSC",
-            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-            "items":[
-                {
-                    "id":"1",
-                    "title":"Prelims",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                },
-                {
-                    "id":"2",
-                    "title":"Mains",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                },
-                {
-                    "id":"3",
-                    "title":"Interview",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                }
-            ]
-        },
-        {
-            "id":"7",
             "title":"UPPCS",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
             "items":[
@@ -163,7 +101,7 @@
             ]
         },
         {
-            "id":"8",
+            "id":"6",
             "title":"JKPCS",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
             "items":[
@@ -188,7 +126,7 @@
             ]
         },
         {
-            "id":"9",
+            "id":"7",
             "title":"JKAS",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
             "items":[
@@ -213,7 +151,7 @@
             ]
         },
         {
-            "id":"10",
+            "id":"8",
             "title":"MPPSC",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
             "items":[
@@ -238,7 +176,7 @@
             ]
         },
         {
-            "id":"11",
+            "id":"9",
             "title":"HCS",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
             "items":[
@@ -263,7 +201,7 @@
             ]
         },
         {
-            "id":"12",
+            "id":"10",
             "title":"UKPCS",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
             "items":[
@@ -288,7 +226,7 @@
             ]
         },
         {
-            "id":"13",
+            "id":"11",
             "title":"WBCS",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
             "items":[
@@ -313,7 +251,7 @@
             ]
         },
         {
-            "id":"14",
+            "id":"12",
             "title":"TNPSC",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
             "items":[

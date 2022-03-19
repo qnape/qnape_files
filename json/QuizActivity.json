@@ -1,0 +1,59 @@
+{
+	"Quiz":[
+		{
+			"title":"History",
+            "category":"Subjective",
+            "cta":"History_Quiz"
+		},       
+		{
+			"title":"Polity",
+            "category":"Subjective",
+            "cta":"Polity_Quiz"
+		},
+        {
+            "title":"Geography",
+            "category":"Subjective",
+            "cta":"Geography_Quiz"
+        },
+        {
+            "title":"Map",
+            "category":"Subjective",
+            "cta":"Map_Quiz"
+        },
+        {
+            "title":"Economics",
+            "category":"Subjective",
+            "cta":"Economics_Quiz"
+        },
+        {
+            "title":"Current Affairs",
+            "category":"Subjective",
+            "cta":"Current_Affairs_Quiz"
+        },
+        {
+            "title":"UPSC Prelims",
+            "category":"Examination",
+            "cta":"UPSC_Prelims_Quiz"
+        },
+        {
+            "title":"BPSC Prelims",
+            "category":"Examination",
+            "cta":"BPSC_Prelims_Quiz"
+        },
+        {
+            "title":"JPSC Prelims",
+            "category":"Examination",
+            "cta":"JPSC_Prelims_Quiz"
+        },
+        {
+            "title":"UP PSC Prelims",
+            "category":"Examination",
+            "cta":"UP_PSC_Prelims_Quiz"
+        },
+        {
+            "title":"MP PSC Prelims",
+            "category":"Examination",
+            "cta":"MP_PSC_Prelims_Quiz"
+        }
+	]
+}

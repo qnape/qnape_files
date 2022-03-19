@@ -1,0 +1,123 @@
+{
+	"Short_Notes":[
+		{
+			"title":"History",
+			"list":[
+				{
+					"title":"Pre-Historical Period"
+				},
+				{
+					"title":"Proto-Historical Period"
+				},
+				{
+					"title":"Historical Period",
+					"list":[
+						{
+							"title":"Ancient History"
+						},
+						{
+							"title":"Medieval History"
+						},
+						{
+							"title":"Modern History"
+						},
+						{
+							"title":"Contemporary History"
+						}
+					]
+				},
+				{
+					"title":"World History"
+				}
+			]
+		},       
+		{
+			"title":"Polity",
+			"list":[
+				{
+					"title":"Schedules",
+					"list":[
+						{ "title":"Schedule 01: Name {State + UT} : {28 + 8}." },
+						{ "title":"Schedule 02: List of allowances, privileges, & emoluments." },
+						{ "title":"Schedule 03: Oath & Affirmation." },
+						{ "title":"Schedule 04: Seats for States & UT in Rajya Sabha" },
+						{ "title":"Schedule 05: Scheduled Area & Scheduled Tribe." },
+						{ "title":"Schedule 06: Administration of tribal areas in the state of Assam, Meghalaya, Tripura, & Mizoram." },
+						{ "title":"Schedule 07: 3 Legislative List {Union (100), State (66 to 61), & Concurrent (47 to 52)} + Empty (kept under union)." },
+						{ "title":"Schedule 08: 22 Official Language." },
+						{ "title":"Schedule 09: Land Reform & abolition of the Zamindari System." },
+						{ "title":"Schedule 10: Anti-defection (dal-badal)" },
+						{ "title":"Schedule 11: Panchayat." },
+						{ "title":"Schedule 12: Municipalities." }
+					]
+				},
+				{
+					"title":"Articles"
+				},
+				{
+					"title":"Amendments"
+				},
+				{
+					"title":"Case Studies"
+				},
+				{
+					"title":"Making of Indian Constitution"
+				},
+				{
+					"title":"International Relations"
+				}
+			]
+		},
+		{
+			"title":"Geography",
+			"list":[
+				{
+					"title":"Astronomy"
+				},
+				{
+					"title":"Topography"
+				},
+				{
+					"title":"Geology"
+				},
+				{
+					"title":"Indian Geography"
+				},
+				{
+					"title":"World Geography"
+				}
+			]
+		},
+		{
+			"title":"Map",
+			"list":[
+				{
+					"title":"World Map"
+				},
+				{
+					"title":"Indian Map"
+				}
+			]
+		},
+		{
+			"title":"Economics",
+			"list":[
+				{
+					"title":"Macro Economics"
+				},
+				{
+					"title":"Micro Economics"
+				},
+				{
+					"title":"Indian Economy"
+				},
+				{
+					"title":"Union Budget"
+				},
+				{
+					"title":"Economic Survey"
+				}
+			]
+		}
+	]
+}
