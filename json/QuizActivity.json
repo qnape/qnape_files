@@ -8,24 +8,36 @@
                 {
                     "title":"History Quiz 1",
                     "total":"10",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Normal",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_001_10.json"
                 },
                 {
                     "title":"History Quiz 2",
                     "total":"25",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Medium",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_002_25.json"
                 },
                 {
                     "title":"History Quiz 3",
                     "total":"50",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Moderate",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_003_50.json"
                 },
                 {
                     "title":"History Quiz 4",
                     "total":"100",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Hard",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_004_100.json"
                 }
@@ -39,24 +51,36 @@
                 {
                     "title":"Polity Quiz 1",
                     "total":"10",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Normal",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_001_10.json"
                 },
                 {
                     "title":"Polity Quiz 2",
                     "total":"25",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Medium",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_002_25.json"
                 },
                 {
                     "title":"Polity Quiz 3",
                     "total":"50",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Moderate",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_003_50.json"
                 },
                 {
                     "title":"Polity Quiz 4",
                     "total":"100",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Hard",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_004_100.json"
                 }
@@ -70,24 +94,36 @@
                 {
                     "title":"Geography Quiz 1",
                     "total":"10",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Normal",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_001_10.json"
                 },
                 {
                     "title":"Geography Quiz 2",
                     "total":"25",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Medium",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_002_25.json"
                 },
                 {
                     "title":"Geography Quiz 3",
                     "total":"50",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Moderate",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_003_50.json"
                 },
                 {
                     "title":"Geography Quiz 4",
                     "total":"100",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Hard",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_004_100.json"
                 }
@@ -101,24 +137,36 @@
                 {
                     "title":"Map Quiz 1",
                     "total":"10",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Normal",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_001_10.json"
                 },
                 {
                     "title":"Map Quiz 2",
                     "total":"25",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Medium",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_002_25.json"
                 },
                 {
                     "title":"Map Quiz 3",
                     "total":"50",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Moderate",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_003_50.json"
                 },
                 {
                     "title":"Map Quiz 4",
                     "total":"100",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Hard",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_004_100.json"
                 }
@@ -132,24 +180,36 @@
                 {
                     "title":"Economics Quiz 1",
                     "total":"10",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Normal",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_001_10.json"
                 },
                 {
                     "title":"Economics Quiz 2",
                     "total":"25",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Medium",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_002_25.json"
                 },
                 {
                     "title":"Economics Quiz 3",
                     "total":"50",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Moderate",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_003_50.json"
                 },
                 {
                     "title":"Economics Quiz 4",
                     "total":"100",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Hard",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_004_100.json"
                 }
@@ -163,24 +223,36 @@
                 {
                     "title":"Current Affairs Quiz 1",
                     "total":"10",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Normal",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_001_10.json"
                 },
                 {
                     "title":"Current Affairs Quiz 2",
                     "total":"25",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Medium",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_002_25.json"
                 },
                 {
                     "title":"Current Affairs Quiz 3",
                     "total":"50",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Moderate",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_003_50.json"
                 },
                 {
                     "title":"Current Affairs Quiz 4",
                     "total":"100",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Hard",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_004_100.json"
                 }
@@ -194,24 +266,36 @@
                 {
                     "title":"UPSC Prelims Quiz 1",
                     "total":"10",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Normal",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_001_10.json"
                 },
                 {
                     "title":"UPSC Prelims Quiz 2",
                     "total":"25",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Medium",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_002_25.json"
                 },
                 {
                     "title":"UPSC Prelims Quiz 3",
                     "total":"50",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Moderate",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_003_50.json"
                 },
                 {
                     "title":"UPSC Prelims Quiz 4",
                     "total":"100",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Hard",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_004_100.json"
                 }
@@ -225,24 +309,36 @@
                 {
                     "title":"BPSC Prelims Quiz 1",
                     "total":"10",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Normal",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_001_10.json"
                 },
                 {
                     "title":"BPSC Prelims Quiz 2",
                     "total":"25",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Medium",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_002_25.json"
                 },
                 {
                     "title":"BPSC Prelims Quiz 3",
                     "total":"50",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Moderate",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_003_50.json"
                 },
                 {
                     "title":"BPSC Prelims Quiz 4",
                     "total":"100",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Hard",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_004_100.json"
                 }
@@ -256,24 +352,36 @@
                 {
                     "title":"JPSC Prelims Quiz 1",
                     "total":"10",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Normal",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_001_10.json"
                 },
                 {
                     "title":"JPSC Prelims Quiz 2",
                     "total":"25",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Medium",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_002_25.json"
                 },
                 {
                     "title":"JPSC Prelims Quiz 3",
                     "total":"50",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Moderate",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_003_50.json"
                 },
                 {
                     "title":"JPSC Prelims Quiz 4",
                     "total":"100",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Hard",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_004_100.json"
                 }
@@ -287,24 +395,36 @@
                 {
                     "title":"UP PSC Prelims Quiz 1",
                     "total":"10",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Normal",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_001_10.json"
                 },
                 {
                     "title":"UP PSC Prelims Quiz 2",
                     "total":"25",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Medium",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_002_25.json"
                 },
                 {
                     "title":"UP PSC Prelims Quiz 3",
                     "total":"50",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Moderate",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_003_50.json"
                 },
                 {
                     "title":"UP PSC Prelims Quiz 4",
                     "total":"100",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Hard",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_004_100.json"
                 }
@@ -318,24 +438,36 @@
                 {
                     "title":"MP PSC Prelims Quiz 1",
                     "total":"10",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Normal",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_001_10.json"
                 },
                 {
                     "title":"MP PSC Prelims Quiz 2",
                     "total":"25",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Medium",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_002_25.json"
                 },
                 {
                     "title":"MP PSC Prelims Quiz 3",
                     "total":"50",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Moderate",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_003_50.json"
                 },
                 {
                     "title":"MP PSC Prelims Quiz 4",
                     "total":"100",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
                     "level":"Hard",
                     "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_004_100.json"
                 }
