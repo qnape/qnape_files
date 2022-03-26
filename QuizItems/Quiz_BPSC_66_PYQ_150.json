@@ -1,0 +1,1354 @@
+{
+	"QuizQuestions":[
+		{
+			"q":"What is the capital of Maldives?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Male",
+            "e":"Zxcvb",
+            "ans":"d"
+		},       
+		{
+			"q":"What is the capital of Sri Lanka?",
+            "a":"Sri Jayawardenepura",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Querty",
+            "e":"Zxcvb",
+            "ans":"a"
+		},       
+		{
+			"q":"What is the capital of India?",
+            "a":"Abc",
+            "b":"New Delhi",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"b"
+        },       
+        {
+            "q":"What is the capital of Pakistan?",
+            "a":"Islamabad",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },       
+        {
+            "q":"What is the capital of Afghanistan?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Kabul",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"c"
+        },       
+        {
+            "q":"What is the capital of Nepal?",
+            "a":"Kathmandu",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },       
+        {
+            "q":"What is the capital of Bhutan?",
+            "a":"Abc",
+            "b":"Thimphu",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"b"
+        },       
+        {
+            "q":"What is the capital of Bangladesh?",
+            "a":"Dhaka",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },
+        {
+            "q":"What is the capital of Myanmar?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Naypyidaw",
+            "e":"Zxcvb",
+            "ans":"d"
+        },
+        {
+            "q":"What is the capital of Thailand?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Bangkok",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"c"
+        },
+        {
+			"q":"What is the capital of Maldives?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Male",
+            "e":"Zxcvb",
+            "ans":"d"
+		},       
+		{
+			"q":"What is the capital of Sri Lanka?",
+            "a":"Sri Jayawardenepura",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Querty",
+            "e":"Zxcvb",
+            "ans":"a"
+		},       
+		{
+			"q":"What is the capital of India?",
+            "a":"Abc",
+            "b":"New Delhi",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"b"
+        },       
+        {
+            "q":"What is the capital of Pakistan?",
+            "a":"Islamabad",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },       
+        {
+            "q":"What is the capital of Afghanistan?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Kabul",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"c"
+        },       
+        {
+            "q":"What is the capital of Nepal?",
+            "a":"Kathmandu",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },       
+        {
+            "q":"What is the capital of Bhutan?",
+            "a":"Abc",
+            "b":"Thimphu",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"b"
+        },       
+        {
+            "q":"What is the capital of Bangladesh?",
+            "a":"Dhaka",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },
+        {
+            "q":"What is the capital of Myanmar?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Naypyidaw",
+            "e":"Zxcvb",
+            "ans":"d"
+        },
+        {
+            "q":"What is the capital of Thailand?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Bangkok",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"c"
+        },
+        {
+			"q":"What is the capital of Maldives?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Male",
+            "e":"Zxcvb",
+            "ans":"d"
+		},       
+		{
+			"q":"What is the capital of Sri Lanka?",
+            "a":"Sri Jayawardenepura",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Querty",
+            "e":"Zxcvb",
+            "ans":"a"
+		},       
+		{
+			"q":"What is the capital of India?",
+            "a":"Abc",
+            "b":"New Delhi",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"b"
+        },       
+        {
+            "q":"What is the capital of Pakistan?",
+            "a":"Islamabad",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },       
+        {
+            "q":"What is the capital of Afghanistan?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Kabul",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"c"
+        },
+        {
+			"q":"What is the capital of Maldives?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Male",
+            "e":"Zxcvb",
+            "ans":"d"
+		},       
+		{
+			"q":"What is the capital of Sri Lanka?",
+            "a":"Sri Jayawardenepura",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Querty",
+            "e":"Zxcvb",
+            "ans":"a"
+		},       
+		{
+			"q":"What is the capital of India?",
+            "a":"Abc",
+            "b":"New Delhi",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"b"
+        },       
+        {
+            "q":"What is the capital of Pakistan?",
+            "a":"Islamabad",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },       
+        {
+            "q":"What is the capital of Afghanistan?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Kabul",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"c"
+        },       
+        {
+            "q":"What is the capital of Nepal?",
+            "a":"Kathmandu",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },       
+        {
+            "q":"What is the capital of Bhutan?",
+            "a":"Abc",
+            "b":"Thimphu",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"b"
+        },       
+        {
+            "q":"What is the capital of Bangladesh?",
+            "a":"Dhaka",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },
+        {
+            "q":"What is the capital of Myanmar?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Naypyidaw",
+            "e":"Zxcvb",
+            "ans":"d"
+        },
+        {
+            "q":"What is the capital of Thailand?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Bangkok",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"c"
+        },
+        {
+			"q":"What is the capital of Maldives?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Male",
+            "e":"Zxcvb",
+            "ans":"d"
+		},       
+		{
+			"q":"What is the capital of Sri Lanka?",
+            "a":"Sri Jayawardenepura",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Querty",
+            "e":"Zxcvb",
+            "ans":"a"
+		},       
+		{
+			"q":"What is the capital of India?",
+            "a":"Abc",
+            "b":"New Delhi",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"b"
+        },       
+        {
+            "q":"What is the capital of Pakistan?",
+            "a":"Islamabad",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },       
+        {
+            "q":"What is the capital of Afghanistan?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Kabul",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"c"
+        },       
+        {
+            "q":"What is the capital of Nepal?",
+            "a":"Kathmandu",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },       
+        {
+            "q":"What is the capital of Bhutan?",
+            "a":"Abc",
+            "b":"Thimphu",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"b"
+        },       
+        {
+            "q":"What is the capital of Bangladesh?",
+            "a":"Dhaka",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },
+        {
+            "q":"What is the capital of Myanmar?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Naypyidaw",
+            "e":"Zxcvb",
+            "ans":"d"
+        },
+        {
+            "q":"What is the capital of Thailand?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Bangkok",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"c"
+        },
+        {
+			"q":"What is the capital of Maldives?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Male",
+            "e":"Zxcvb",
+            "ans":"d"
+		},       
+		{
+			"q":"What is the capital of Sri Lanka?",
+            "a":"Sri Jayawardenepura",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Querty",
+            "e":"Zxcvb",
+            "ans":"a"
+		},       
+		{
+			"q":"What is the capital of India?",
+            "a":"Abc",
+            "b":"New Delhi",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"b"
+        },       
+        {
+            "q":"What is the capital of Pakistan?",
+            "a":"Islamabad",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },       
+        {
+            "q":"What is the capital of Afghanistan?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Kabul",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"c"
+        },
+        {
+			"q":"What is the capital of Maldives?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Male",
+            "e":"Zxcvb",
+            "ans":"d"
+		},       
+		{
+			"q":"What is the capital of Sri Lanka?",
+            "a":"Sri Jayawardenepura",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Querty",
+            "e":"Zxcvb",
+            "ans":"a"
+		},       
+		{
+			"q":"What is the capital of India?",
+            "a":"Abc",
+            "b":"New Delhi",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"b"
+        },       
+        {
+            "q":"What is the capital of Pakistan?",
+            "a":"Islamabad",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },       
+        {
+            "q":"What is the capital of Afghanistan?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Kabul",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"c"
+        },       
+        {
+            "q":"What is the capital of Nepal?",
+            "a":"Kathmandu",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },       
+        {
+            "q":"What is the capital of Bhutan?",
+            "a":"Abc",
+            "b":"Thimphu",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"b"
+        },       
+        {
+            "q":"What is the capital of Bangladesh?",
+            "a":"Dhaka",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },
+        {
+            "q":"What is the capital of Myanmar?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Naypyidaw",
+            "e":"Zxcvb",
+            "ans":"d"
+        },
+        {
+            "q":"What is the capital of Thailand?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Bangkok",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"c"
+        },
+        {
+			"q":"What is the capital of Maldives?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Male",
+            "e":"Zxcvb",
+            "ans":"d"
+		},       
+		{
+			"q":"What is the capital of Sri Lanka?",
+            "a":"Sri Jayawardenepura",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Querty",
+            "e":"Zxcvb",
+            "ans":"a"
+		},       
+		{
+			"q":"What is the capital of India?",
+            "a":"Abc",
+            "b":"New Delhi",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"b"
+        },       
+        {
+            "q":"What is the capital of Pakistan?",
+            "a":"Islamabad",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },       
+        {
+            "q":"What is the capital of Afghanistan?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Kabul",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"c"
+        },       
+        {
+            "q":"What is the capital of Nepal?",
+            "a":"Kathmandu",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },       
+        {
+            "q":"What is the capital of Bhutan?",
+            "a":"Abc",
+            "b":"Thimphu",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"b"
+        },       
+        {
+            "q":"What is the capital of Bangladesh?",
+            "a":"Dhaka",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },
+        {
+            "q":"What is the capital of Myanmar?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Naypyidaw",
+            "e":"Zxcvb",
+            "ans":"d"
+        },
+        {
+            "q":"What is the capital of Thailand?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Bangkok",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"c"
+        },
+        {
+			"q":"What is the capital of Maldives?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Male",
+            "e":"Zxcvb",
+            "ans":"d"
+		},       
+		{
+			"q":"What is the capital of Sri Lanka?",
+            "a":"Sri Jayawardenepura",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Querty",
+            "e":"Zxcvb",
+            "ans":"a"
+		},       
+		{
+			"q":"What is the capital of India?",
+            "a":"Abc",
+            "b":"New Delhi",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"b"
+        },       
+        {
+            "q":"What is the capital of Pakistan?",
+            "a":"Islamabad",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },       
+        {
+            "q":"What is the capital of Afghanistan?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Kabul",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"c"
+        },
+        {
+			"q":"What is the capital of Maldives?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Male",
+            "e":"Zxcvb",
+            "ans":"d"
+		},       
+		{
+			"q":"What is the capital of Sri Lanka?",
+            "a":"Sri Jayawardenepura",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Querty",
+            "e":"Zxcvb",
+            "ans":"a"
+		},       
+		{
+			"q":"What is the capital of India?",
+            "a":"Abc",
+            "b":"New Delhi",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"b"
+        },       
+        {
+            "q":"What is the capital of Pakistan?",
+            "a":"Islamabad",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },       
+        {
+            "q":"What is the capital of Afghanistan?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Kabul",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"c"
+        },       
+        {
+            "q":"What is the capital of Nepal?",
+            "a":"Kathmandu",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },       
+        {
+            "q":"What is the capital of Bhutan?",
+            "a":"Abc",
+            "b":"Thimphu",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"b"
+        },       
+        {
+            "q":"What is the capital of Bangladesh?",
+            "a":"Dhaka",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },
+        {
+            "q":"What is the capital of Myanmar?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Naypyidaw",
+            "e":"Zxcvb",
+            "ans":"d"
+        },
+        {
+            "q":"What is the capital of Thailand?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Bangkok",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"c"
+        },
+        {
+			"q":"What is the capital of Maldives?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Male",
+            "e":"Zxcvb",
+            "ans":"d"
+		},       
+		{
+			"q":"What is the capital of Sri Lanka?",
+            "a":"Sri Jayawardenepura",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Querty",
+            "e":"Zxcvb",
+            "ans":"a"
+		},       
+		{
+			"q":"What is the capital of India?",
+            "a":"Abc",
+            "b":"New Delhi",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"b"
+        },       
+        {
+            "q":"What is the capital of Pakistan?",
+            "a":"Islamabad",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },       
+        {
+            "q":"What is the capital of Afghanistan?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Kabul",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"c"
+        },       
+        {
+            "q":"What is the capital of Nepal?",
+            "a":"Kathmandu",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },       
+        {
+            "q":"What is the capital of Bhutan?",
+            "a":"Abc",
+            "b":"Thimphu",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"b"
+        },       
+        {
+            "q":"What is the capital of Bangladesh?",
+            "a":"Dhaka",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },
+        {
+            "q":"What is the capital of Myanmar?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Naypyidaw",
+            "e":"Zxcvb",
+            "ans":"d"
+        },
+        {
+            "q":"What is the capital of Thailand?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Bangkok",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"c"
+        },
+        {
+			"q":"What is the capital of Maldives?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Male",
+            "e":"Zxcvb",
+            "ans":"d"
+		},       
+		{
+			"q":"What is the capital of Sri Lanka?",
+            "a":"Sri Jayawardenepura",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Querty",
+            "e":"Zxcvb",
+            "ans":"a"
+		},       
+		{
+			"q":"What is the capital of India?",
+            "a":"Abc",
+            "b":"New Delhi",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"b"
+        },       
+        {
+            "q":"What is the capital of Pakistan?",
+            "a":"Islamabad",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },       
+        {
+            "q":"What is the capital of Afghanistan?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Kabul",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"c"
+        },
+        {
+			"q":"What is the capital of Maldives?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Male",
+            "e":"Zxcvb",
+            "ans":"d"
+		},       
+		{
+			"q":"What is the capital of Sri Lanka?",
+            "a":"Sri Jayawardenepura",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Querty",
+            "e":"Zxcvb",
+            "ans":"a"
+		},       
+		{
+			"q":"What is the capital of India?",
+            "a":"Abc",
+            "b":"New Delhi",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"b"
+        },       
+        {
+            "q":"What is the capital of Pakistan?",
+            "a":"Islamabad",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },       
+        {
+            "q":"What is the capital of Afghanistan?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Kabul",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"c"
+        },       
+        {
+            "q":"What is the capital of Nepal?",
+            "a":"Kathmandu",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },       
+        {
+            "q":"What is the capital of Bhutan?",
+            "a":"Abc",
+            "b":"Thimphu",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"b"
+        },       
+        {
+            "q":"What is the capital of Bangladesh?",
+            "a":"Dhaka",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },
+        {
+            "q":"What is the capital of Myanmar?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Naypyidaw",
+            "e":"Zxcvb",
+            "ans":"d"
+        },
+        {
+            "q":"What is the capital of Thailand?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Bangkok",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"c"
+        },
+        {
+			"q":"What is the capital of Maldives?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Male",
+            "e":"Zxcvb",
+            "ans":"d"
+		},       
+		{
+			"q":"What is the capital of Sri Lanka?",
+            "a":"Sri Jayawardenepura",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Querty",
+            "e":"Zxcvb",
+            "ans":"a"
+		},       
+		{
+			"q":"What is the capital of India?",
+            "a":"Abc",
+            "b":"New Delhi",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"b"
+        },       
+        {
+            "q":"What is the capital of Pakistan?",
+            "a":"Islamabad",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },       
+        {
+            "q":"What is the capital of Afghanistan?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Kabul",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"c"
+        },       
+        {
+            "q":"What is the capital of Nepal?",
+            "a":"Kathmandu",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },       
+        {
+            "q":"What is the capital of Bhutan?",
+            "a":"Abc",
+            "b":"Thimphu",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"b"
+        },       
+        {
+            "q":"What is the capital of Bangladesh?",
+            "a":"Dhaka",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },
+        {
+            "q":"What is the capital of Myanmar?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Naypyidaw",
+            "e":"Zxcvb",
+            "ans":"d"
+        },
+        {
+            "q":"What is the capital of Thailand?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Bangkok",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"c"
+        },
+        {
+			"q":"What is the capital of Maldives?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Male",
+            "e":"Zxcvb",
+            "ans":"d"
+		},       
+		{
+			"q":"What is the capital of Sri Lanka?",
+            "a":"Sri Jayawardenepura",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Querty",
+            "e":"Zxcvb",
+            "ans":"a"
+		},       
+		{
+			"q":"What is the capital of India?",
+            "a":"Abc",
+            "b":"New Delhi",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"b"
+        },       
+        {
+            "q":"What is the capital of Pakistan?",
+            "a":"Islamabad",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },       
+        {
+            "q":"What is the capital of Afghanistan?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Kabul",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"c"
+        },
+        {
+			"q":"What is the capital of Maldives?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Male",
+            "e":"Zxcvb",
+            "ans":"d"
+		},       
+		{
+			"q":"What is the capital of Sri Lanka?",
+            "a":"Sri Jayawardenepura",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Querty",
+            "e":"Zxcvb",
+            "ans":"a"
+		},       
+		{
+			"q":"What is the capital of India?",
+            "a":"Abc",
+            "b":"New Delhi",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"b"
+        },       
+        {
+            "q":"What is the capital of Pakistan?",
+            "a":"Islamabad",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },       
+        {
+            "q":"What is the capital of Afghanistan?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Kabul",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"c"
+        },       
+        {
+            "q":"What is the capital of Nepal?",
+            "a":"Kathmandu",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },       
+        {
+            "q":"What is the capital of Bhutan?",
+            "a":"Abc",
+            "b":"Thimphu",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"b"
+        },       
+        {
+            "q":"What is the capital of Bangladesh?",
+            "a":"Dhaka",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },
+        {
+            "q":"What is the capital of Myanmar?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Naypyidaw",
+            "e":"Zxcvb",
+            "ans":"d"
+        },
+        {
+            "q":"What is the capital of Thailand?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Bangkok",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"c"
+        },
+        {
+			"q":"What is the capital of Maldives?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Male",
+            "e":"Zxcvb",
+            "ans":"d"
+		},       
+		{
+			"q":"What is the capital of Sri Lanka?",
+            "a":"Sri Jayawardenepura",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Querty",
+            "e":"Zxcvb",
+            "ans":"a"
+		},       
+		{
+			"q":"What is the capital of India?",
+            "a":"Abc",
+            "b":"New Delhi",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"b"
+        },       
+        {
+            "q":"What is the capital of Pakistan?",
+            "a":"Islamabad",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },       
+        {
+            "q":"What is the capital of Afghanistan?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Kabul",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"c"
+        },       
+        {
+            "q":"What is the capital of Nepal?",
+            "a":"Kathmandu",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },       
+        {
+            "q":"What is the capital of Bhutan?",
+            "a":"Abc",
+            "b":"Thimphu",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"b"
+        },       
+        {
+            "q":"What is the capital of Bangladesh?",
+            "a":"Dhaka",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },
+        {
+            "q":"What is the capital of Myanmar?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Naypyidaw",
+            "e":"Zxcvb",
+            "ans":"d"
+        },
+        {
+            "q":"What is the capital of Thailand?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Bangkok",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"c"
+        },
+        {
+			"q":"What is the capital of Maldives?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Male",
+            "e":"Zxcvb",
+            "ans":"d"
+		},       
+		{
+			"q":"What is the capital of Sri Lanka?",
+            "a":"Sri Jayawardenepura",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Querty",
+            "e":"Zxcvb",
+            "ans":"a"
+		},       
+		{
+			"q":"What is the capital of India?",
+            "a":"Abc",
+            "b":"New Delhi",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"b"
+        },       
+        {
+            "q":"What is the capital of Pakistan?",
+            "a":"Islamabad",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"a"
+        },       
+        {
+            "q":"What is the capital of Afghanistan?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Kabul",
+            "d":"Qwerty",
+            "e":"Zxcvb",
+            "ans":"c"
+        }
+	]
+}
