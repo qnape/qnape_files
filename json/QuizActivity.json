@@ -363,48 +363,48 @@
             "cta":"BPSC_Prelims_Quiz",
             "quiz_list":[
                 {
-                    "title":"BPSC Prelims Quiz 1",
-                    "total":"10",
+                    "title":"BPSC 66 Prelims",
+                    "total":"150",
                     "correct_points":"2",
-                    "negative_points":"0.66",
-                    "quiz_ui":"one",
-                    "level":"Normal",
-                    "option_count":"5",
-                    "quiz_link_english":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_001_10.json",
-                    "quiz_link_hindi":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_001_10.json"
-                },
-                {
-                    "title":"BPSC Prelims Quiz 2",
-                    "total":"25",
-                    "correct_points":"2",
-                    "negative_points":"0.66",
-                    "quiz_ui":"one",
-                    "level":"Medium",
-                    "option_count":"5",
-                    "quiz_link_english":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_002_25.json",
-                    "quiz_link_hindi":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_002_25.json"
-                },
-                {
-                    "title":"BPSC Prelims Quiz 3",
-                    "total":"50",
-                    "correct_points":"2",
-                    "negative_points":"0.66",
+                    "negative_points":"0",
                     "quiz_ui":"one",
                     "level":"Moderate",
                     "option_count":"5",
-                    "quiz_link_english":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_003_50.json",
-                    "quiz_link_hindi":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_003_50.json"
+                    "quiz_link_english":"",
+                    "quiz_link_hindi":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_BPSC_66_PYQ_150.json"
                 },
                 {
-                    "title":"BPSC Prelims Quiz 4",
-                    "total":"100",
+                    "title":"BPSC 65 Prelims",
+                    "total":"150",
                     "correct_points":"2",
-                    "negative_points":"0.66",
+                    "negative_points":"0",
                     "quiz_ui":"one",
-                    "level":"Hard",
+                    "level":"Moderate",
                     "option_count":"5",
-                    "quiz_link_english":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_004_100.json",
-                    "quiz_link_hindi":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_History_004_100.json"
+                    "quiz_link_english":"",
+                    "quiz_link_hindi":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_BPSC_66_PYQ_150.json"
+                },
+                {
+                    "title":"BPSC 64 Prelims",
+                    "total":"150",
+                    "correct_points":"2",
+                    "negative_points":"0",
+                    "quiz_ui":"one",
+                    "level":"Moderate",
+                    "option_count":"5",
+                    "quiz_link_english":"",
+                    "quiz_link_hindi":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_BPSC_66_PYQ_150.json"
+                },
+                {
+                    "title":"BPSC 63 Prelims",
+                    "total":"150",
+                    "correct_points":"2",
+                    "negative_points":"0",
+                    "quiz_ui":"one",
+                    "level":"Moderate",
+                    "option_count":"5",
+                    "quiz_link_english":"",
+                    "quiz_link_hindi":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Quiz_BPSC_66_PYQ_150.json"
                 }
             ]
         },
