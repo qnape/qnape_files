@@ -1,84 +1,84 @@
 {
 	"QuizQuestions":[
 		{
-			"question":"What is the capital of Maldives?",
-            "option_a":"Abc",
-            "option_b":"Xyz",
-            "option_c":"Qwerty",
-            "option_d":"Male",
-            "answer":"option_d"
+			"q":"What is the capital of Maldives?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Male",
+            "ans":"d"
 		},       
 		{
-			"question":"What is the capital of Sri Lanka?",
-            "option_a":"Sri Jayawardenepura",
-            "option_b":"Abc",
-            "option_c":"Xyz",
-            "option_d":"Querty",
-            "answer":"option_a"
+			"q":"What is the capital of Sri Lanka?",
+            "a":"Sri Jayawardenepura",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Querty",
+            "ans":"a"
 		},       
 		{
-			"question":"What is the capital of India?",
-            "option_a":"Abc",
-            "option_b":"New Delhi",
-            "option_c":"Xyz",
-            "option_d":"Qwerty",
-            "answer":"option_b"
+			"q":"What is the capital of India?",
+            "a":"Abc",
+            "b":"New Delhi",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "ans":"b"
         },       
         {
-            "question":"What is the capital of Pakistan?",
-            "option_a":"Islamabad",
-            "option_b":"Abc",
-            "option_c":"Xyz",
-            "option_d":"Qwerty",
-            "answer":"option_a"
+            "q":"What is the capital of Pakistan?",
+            "a":"Islamabad",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "ans":"a"
         },       
         {
-            "question":"What is the capital of Afghanistan?",
-            "option_a":"Abc",
-            "option_b":"Xyz",
-            "option_c":"Kabul",
-            "option_d":"Qwerty",
-            "answer":"option_c"
+            "q":"What is the capital of Afghanistan?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Kabul",
+            "d":"Qwerty",
+            "ans":"c"
         },       
         {
-            "question":"What is the capital of Nepal?",
-            "option_a":"Kathmandu",
-            "option_b":"Abc",
-            "option_c":"Xyz",
-            "option_d":"Qwerty",
-            "answer":"option_a"
+            "q":"What is the capital of Nepal?",
+            "a":"Kathmandu",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "ans":"a"
         },       
         {
-            "question":"What is the capital of Bhutan?",
-            "option_a":"Abc",
-            "option_b":"Thimphu",
-            "option_c":"Xyz",
-            "option_d":"Qwerty",
-            "answer":"option_b"
+            "q":"What is the capital of Bhutan?",
+            "a":"Abc",
+            "b":"Thimphu",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "ans":"b"
         },       
         {
-            "question":"What is the capital of Bangladesh?",
-            "option_a":"Dhaka",
-            "option_b":"Abc",
-            "option_c":"Xyz",
-            "option_d":"Qwerty",
-            "answer":"option_a"
+            "q":"What is the capital of Bangladesh?",
+            "a":"Dhaka",
+            "b":"Abc",
+            "c":"Xyz",
+            "d":"Qwerty",
+            "ans":"a"
         },
         {
-            "question":"What is the capital of Myanmar?",
-            "option_a":"Abc",
-            "option_b":"Xyz",
-            "option_c":"Qwerty",
-            "option_d":"Naypyidaw",
-            "answer":"option_d"
+            "q":"What is the capital of Myanmar?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Qwerty",
+            "d":"Naypyidaw",
+            "ans":"d"
         },
         {
-            "question":"What is the capital of Thailand?",
-            "option_a":"Abc",
-            "option_b":"Xyz",
-            "option_c":"Bangkok",
-            "option_d":"Qwerty",
-            "answer":"option_c"
+            "q":"What is the capital of Thailand?",
+            "a":"Abc",
+            "b":"Xyz",
+            "c":"Bangkok",
+            "d":"Qwerty",
+            "ans":"c"
         }
 	]
 }
