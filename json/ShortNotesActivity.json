@@ -4,22 +4,651 @@
 			"title":"History",
 			"list":[
 				{
-					"title":"Pre-Historical Period"
+					"title":"Pre-Historical Period",
+					"list":[
+						{
+							"title":"Old Stone Age"
+						},
+						{
+							"title":"Middle Stone Age"
+						},
+						{
+							"title":"New Stone Age"
+						},
+						{
+							"title":"Copper-Stone Age"
+						}
+					]
 				},
 				{
-					"title":"Proto-Historical Period"
+					"title":"Proto-Historical Period",
+					"list":[
+						{
+							"title":"Civilizations"
+						},
+						{
+							"title":"Archaeological Evidence of History"
+						},
+						{
+							"title":"Foreign Travellers"
+						},
+						{
+							"title":"Books"
+						},
+						{
+							"title":"Vedic Age"
+						}
+					]	
 				},
 				{
 					"title":"Historical Period",
 					"list":[
 						{
-							"title":"Ancient History"
+							"title":"Classification of Historical Period",
+							"list":[
+								{
+									"title":"Archaeological Evidence",
+									"list":[
+										{
+											"title":"Coins"
+										},
+										{
+											"title":"Edicts/Inscriptions"
+										}
+									]
+								},
+								{
+									"title":"Foreign Visitors",
+									"list":[
+										{
+											"title":""
+										}
+									]
+								},
+								{
+									"title":"Written Documents",
+									"list":[
+										{
+											"title":"Religious",
+											"list":[
+												{
+													"title":"Brahmin",
+													"list":[
+														{
+															"title":"Veda"
+														},
+														{
+															"title":"Vedanga"
+														},
+														{
+															"title":"Puran"
+														},
+														{
+															"title":"Upanishads"
+														},
+														{
+															"title":"Smriti Sahitya"
+														},
+														{
+															"title":"Epic",
+															"list":[
+																{
+																	"title":"Ramayan"
+																},
+																{
+																	"title":"Mahabharat"
+																}
+															]
+														}
+													]
+												},
+												{
+													"title":"Non-Brahmin",
+													"list":[
+														{
+															"title":"Jainism"
+														},
+														{
+															"title":"Buddhism"
+														}
+													]
+												}
+											]
+										},
+										{
+											"title":"Non-Religious"
+										}
+									]
+								}
+							]
 						},
 						{
-							"title":"Medieval History"
+							"title":"Ancient History",
+							"list":[
+								{
+									"title":"Vedic Period"
+								},
+								{
+									"title":"Religion",
+									"list":[
+										{
+											"title":"Janism"
+										},
+										{
+											"title":"Buddhism"
+										},
+										{
+											"title":"Aajiwak"
+										},
+										{
+											"title":"Bhagwat"
+										},
+										{
+											"title":"Vaisnav"
+										},
+										{
+											"title":"Shaiv",
+											"list":[
+												{
+													"title":"Pashupati"
+												},
+												{
+													"title":"Kapalik"
+												},
+												{
+													"title":"Lingayat"
+												}
+											]
+										}
+									]
+								},
+								{
+									"title":"North Indian History",
+									"list":[
+										{
+											"title":"16 Mahajanpadas",
+											"list":[
+												{
+													"title":"Magadh Janpada"
+												}
+											]
+										},
+										{
+											"title":"ISPK",
+											"list":[
+												{
+													"title":"Indo-Greek"
+												},
+												{
+													"title":"Shak Dynasty"
+												},
+												{
+													"title":"Pahalav Dynasty"
+												},
+												{
+													"title":"Kushan Dynasty"
+												}
+											]
+										},
+										{
+											"title":"Gupt Dynasty"
+										},
+										{
+											"title":"Pushyabhuti / Vardhan Dynasty"
+										},
+										{
+											"title":"Pala Empire"
+										},
+										{
+											"title":"Sena Dynasty"
+										},
+										{
+											"title":"Chandela of Jejakabhukti"
+										},
+										{
+											"title":"Maitraka Dynasty"
+										},
+										{
+											"title":"Kalachuri Dynasty"
+										},
+										{
+											"title":"Eastern Ganga Dynasty"
+										},
+										{
+											"title":"Gauda Kingdom"
+										}
+									]
+								},
+								{
+									"title":"South Indian History",
+									"list":[
+										{
+											"title":"Sangam Period",
+											"list":[
+												{
+													"title":"Sangam Councils"
+												},
+												{
+													"title":"Kings of Sangam Period"
+												}
+											]
+										},
+										{
+											"title":"Vakataka Dynasty"
+										},
+										{
+											"title":"Chalukya Dynasty"
+										},
+										{
+											"title":"Pallava Dynasty"
+										},
+										{
+											"title":"Rise of Chola Dynasty of Sangam Period"
+										},
+										{
+											"title":"Rashtrakuta Dynasty"
+										},
+										{
+											"title":"Kakatiya Dynasty"
+										},
+										{
+											"title":"Seuna (Yadav) Dynasty"
+										},
+										{
+											"title":"Hoysala Dynasty"
+										}
+									]
+								},
+								{
+									"title":"Kashmir History",
+									"list":[
+										{
+											"title":"Karkota Dynasty"
+										},
+										{
+											"title":"Utpala Dynasty"
+										},
+										{
+											"title":"Lohara Dynasty"
+										}
+									]
+								}
+							]
 						},
 						{
-							"title":"Modern History"
+							"title":"Medieval History",
+							"list":[
+								{
+									"title":"Culture & Architecture"
+								},
+								{
+									"title":"Rajpoot Period / Pre-Medieval Period",
+									"list":[
+										{
+											"title":"Fire Pit Theory / Agnikund Kaa Sidhant"
+										},
+										{
+											"title":"Gurjara-Pratihara Dynasty",
+											"list":[
+												{
+													"title":"Nagabhata (Founder)"
+												},
+												{
+													"title":"Vatsaraja"
+												},
+												{
+													"title":"Mihira Bhoja"
+												},
+												{
+													"title":"Yasahpala"
+												}
+											]
+										},
+										{
+											"title":"Paramara Dynasty",
+											"list":[
+												{
+													"title":"Upendra"
+												},
+												{
+													"title":"Raja Bhoj"
+												}
+											]
+										},
+										{
+											"title":"Chalukya or Solanki Dynasty"
+										},
+										{
+											"title":"Chauhan Dynasty / Chahamanas of Shakambhari",
+											"list":[
+												{
+													"title":"Vasudeva (Founder)"
+												},
+												{
+													"title":"Arnoraja"
+												},
+												{
+													"title":"Prithiviraj Chauhan (Prithiviraj – III)"
+												}
+											]
+										}
+									]
+								},
+								{
+									"title":"Muslim Attack",
+									"list":[
+										{
+											"title":"Classification of Muslim Attack"
+										},
+										{
+											"title":"Arab",
+											"list":[
+												{
+													"title":"Muhammad ibn Qasim"
+												}
+											]
+										},
+										{
+											"title":"Turk",
+											"list":[
+												{
+													"title":"Sabuktigin"
+												},
+												{
+													"title":"Muhammad of Ghazni"
+												},
+												{
+													"title":"Muhammad of Ghor / Ghori"
+												}
+											]
+										}
+									]
+								},
+								{
+									"title":"Delhi Sultanate",
+									"list":[
+										{
+											"title":"Ghulam Dynasty / Mamluk Dynasty",
+											"list":[
+												{
+													"title":"Qutb-al-Din Aibak"
+												},
+												{
+													"title":"Aram Sham"
+												},
+												{
+													"title":"Iltutmish"
+												},
+												{
+													"title":"Rukn-ud-din Firuz"
+												},
+												{
+													"title":"Razia Sultan"
+												},
+												{
+													"title":"Muiz-ud-din Bahram"
+												},
+												{
+													"title":"Nasir-ud-din Mahmud Shah"
+												},
+												{
+													"title":"Ghiyas-ud-din Balban"
+												},
+												{
+													"title":"Qaiqabad"
+												},
+												{
+													"title":"Kayumars"
+												}
+											]
+										},
+										{
+											"title":"Khalji Dynasty",
+											"list":[
+												{
+													"title":"Jala-ud-din Khalji"
+												},
+												{
+													"title":"Alauddin Khalji"
+												},
+												{
+													"title":"Qutbuddin Mubarak Shah or Khalji"
+												}
+											]
+										},
+										{
+											"title":"Tughlaq Dynasty",
+											"list":[
+												{
+													"title":"Ghiyath-al-Din Tughlaq or Ghazi Malik"
+												},
+												{
+													"title":"Muhammad Bin Tughlaq or Jauna Khan"
+												},
+												{
+													"title":"Firuz Shah Tughlaq"
+												},
+												{
+													"title":"Nasir-ud Din Mahmud Shah Tughlaq"
+												}
+											]
+										},
+										{
+											"title":"Sayyid Dynasty",
+											"list":[
+												{
+													"title":"Sayyid Khizr Khan"
+												},
+												{
+													"title":"Mubarak Shah"
+												},
+												{
+													"title":"Ala-ud Din Alam"
+												}
+											]
+										},
+										{
+											"title":"Lodi Dynasty",
+											"list":[
+												{
+													"title":"Bahlul Lodi"
+												},
+												{
+													"title":"Sikandar Lodi"
+												},
+												{
+													"title":"Ibrahim Lodi"
+												}
+											]
+										},
+										{
+											"title":"Fact of Delhi Sultanate"
+										}
+									]
+								},
+								{
+									"title":"Vijayanagara Empire",
+									"list":[
+										{
+											"title":"Sangam Dynasty",
+											"list":[
+												{
+													"title":"Harihara – I"
+												},
+												{
+													"title":"Bukka – I"
+												},
+												{
+													"title":"Dev Raya – I"
+												},
+												{
+													"title":"Dev Raya – II"
+												},
+												{
+													"title":"Mallikarjuna"
+												},
+												{
+													"title":"Virupaksha Raya – III"
+												}
+											]
+										},
+										{
+											"title":"Saluva Dynasty",
+											"list":[
+												{
+													"title":"Saluva Narasimha Dev Raya"
+												},
+												{
+													"title":"Immadi Narasimha Raya"
+												}
+											]
+										},
+										{
+											"title":"Tuluva Dynasty",
+											"list":[
+												{
+													"title":"Viranarasimha Raya"
+												},
+												{
+													"title":"Krishnadevaraya"
+												},
+												{
+													"title":"Achyuta Deva Raya"
+												},
+												{
+													"title":"Sadashiva Raya"
+												}
+											]
+										},
+										{
+											"title":"Aravidu Dynasty",
+											"list":[
+												{
+													"title":"Tirumala Deva Raya"
+												},
+												{
+													"title":"Sriranga – III"
+												}
+											]	
+										}
+									]
+								},
+								{
+									"title":"Bahmani Sultanate",
+									"list":[
+										{
+											"title":"Ahmadnagar"
+										},
+										{
+											"title":"Bijapur"
+										},
+										{
+											"title":"Bidar"
+										},
+										{
+											"title":"Golconda"
+										},
+										{
+											"title":"Berar"
+										}
+									]
+								},
+								{
+									"title":"Bhakti Movement"
+								},
+								{
+									"title":"Mughal Period"
+								},
+								{
+									"title":"Post-Mughal Period"
+								},
+								{
+									"title":"Maratha Dynasty"
+								}
+							]
+						},
+						{
+							"title":"Modern History",
+							"list":[
+								{
+									"title":"Awadh"
+								},
+								{
+									"title":"Hyderabad"
+								},
+								{
+									"title":"Karnataka"
+								},
+								{
+									"title":"Mysuru"
+								},
+								{
+									"title":"Punjab"
+								},
+								{
+									"title":"Bengal"
+								},
+								{
+									"title":"East India Company"
+								},
+								{
+									"title":"British East India Company"
+								},
+								{
+									"title":"1857 Revolt"
+								},
+								{
+									"title":"Social Reform Movements"
+								},
+								{
+									"title":"Revolts"
+								},
+								{
+									"title":"Congress"
+								},
+								{
+									"title":"Bengal Partition"
+								},
+								{
+									"title":"Revolutionary Movement - 1st Stage"
+								},
+								{
+									"title":"Revolutionary Movement - 2nd Stage"
+								},
+								{
+									"title":"Movements Outside India"
+								},
+								{
+									"title":"Mahatma Gandhi / Gandhi Era"
+								},
+								{
+									"title":"Muslim League"
+								},
+								{
+									"title":"Azad Hind Fauj / Indian National Army"
+								},
+								{
+									"title":"Quit India Movement"
+								},
+								{
+									"title":"Cabinet Mission"
+								},
+								{
+									"title":"Press and Factories Act"
+								},
+								{
+									"title":"List of Governor / Governor General / Viceroy / Secretary of State"
+								},
+								{
+									"title":"Delhi Darbar / Delhi Council"
+								},
+								{
+									"title":"Congress Sessions"
+								},
+								{
+									"title":"Famous Slogans"
+								}
+							]
 						},
 						{
 							"title":"Contemporary History"
@@ -37,25 +666,918 @@
 				{
 					"title":"Schedules",
 					"list":[
-						{ "title":"Schedule 01: Name {State + UT} : {28 + 8}." },
-						{ "title":"Schedule 02: List of allowances, privileges, & emoluments." },
-						{ "title":"Schedule 03: Oath & Affirmation." },
-						{ "title":"Schedule 04: Seats for States & UT in Rajya Sabha" },
-						{ "title":"Schedule 05: Scheduled Area & Scheduled Tribe." },
-						{ "title":"Schedule 06: Administration of tribal areas in the state of Assam, Meghalaya, Tripura, & Mizoram." },
-						{ "title":"Schedule 07: 3 Legislative List {Union (100), State (66 to 61), & Concurrent (47 to 52)} + Empty (kept under union)." },
-						{ "title":"Schedule 08: 22 Official Language." },
-						{ "title":"Schedule 09: Land Reform & abolition of the Zamindari System." },
-						{ "title":"Schedule 10: Anti-defection (dal-badal)" },
-						{ "title":"Schedule 11: Panchayat." },
-						{ "title":"Schedule 12: Municipalities." }
+						{ 
+							"title":"S 01: Name {State + UT} : {28 + 8}."
+						},
+						{ 
+							"title":"S 02: List of allowances, privileges, & emoluments."
+						},
+						{ 
+							"title":"S 03: Oath & Affirmation."
+						},
+						{ 
+							"title":"S 04: Seats for States & UT in RS"
+						},
+						{ 
+							"title":"S 05: Scheduled Area & Scheduled Tribe."
+						},
+						{ 
+							"title":"S 06: Administration of tribal areas in the state {Assam,Meghalaya,Tripura,Mizoram}"
+						},
+						{ 
+							"title":"S 07: 3 Legislative List {Union (100), State (66 to 61), & Concurrent (47 to 52)} + Empty (kept under union)."
+						},
+						{ 
+							"title":"S 08: 22 Official Language."
+						},
+						{ 
+							"title":"S 09: Land Reform & Abolition of the Zamindari System."
+						},
+						{ 
+							"title":"S 10: Anti-defection (dal-badal)"
+						},
+						{ 
+							"title":"S 11: Panchayat."
+						},
+						{ 
+							"title":"S 12: Municipalities."
+						}
 					]
 				},
 				{
-					"title":"Articles"
+					"title":"Articles",
+					"list":[
+						{ 
+							"title":"Part I: The Union and its Territory. [1 to 4]",
+							"list":[
+								{
+									"title":"Ar 1: Name and territory of the Union."
+								},
+								{
+									"title":"Ar 2. Admission or establishment of new states."
+								},
+								{
+									"title":"Ar 3. Formation of new states and alteration of areas, boundaries or names of existing states."
+								},
+								{
+									"title":"Ar 4. Law made under Ar. 2 and 3 to provide for the amendment of the First and the Fourth Schedules and supplemental, incidental and consequential matters."
+								}
+							]
+						},
+						{ 
+							"title":"Part II: Citizenship. [5 to 11]",
+							"list":[
+								{
+									"title":"Ar 5. Citizenship at the commencement of the Constitution."
+								},
+								{
+									"title":"Ar 6. Rights of citizenship of certain persons who have migrated to India from Pakistan."
+								},
+								{
+									"title":"Ar 7. Rights of citizenship of certain migrants to Pakistan."
+								},
+								{
+									"title":"Ar 8. Rights of citizenship of certain persons of Indian origin residing outside India."
+								},
+								{
+									"title":"Ar 9. Persons voluntarily acquiring citizenship of a foreign state not to be citizens."
+								},
+								{
+									"title":"Ar 10. Continuance of the rights of citizenship."
+								},
+								{
+									"title":"Ar 11. Parliament to regulate the right of citizenship by law."
+								}
+							]
+						},
+						{ 
+							"title":"Part III: Fundamental Rights. [12 to 35]",
+							"list":[
+								{
+									"title":"Ar 12. Definition of state."
+								},
+								{
+									"title":"Ar 13. Laws inconsistent with or in derogation of the fundamental rights."
+								},
+								{
+									"title":"Ar 14. Equality before law."
+								},
+								{
+									"title":"Ar 15. Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth."
+								},
+								{
+									"title":"Ar 16. Equality of opportunity in matters of public employment."
+								},
+								{
+									"title":"Ar 17. Abolition of untouchability."
+								},
+								{
+									"title":"Ar 18. Abolition of titles."
+								},
+								{
+									"title":"Ar 19. Protection of certain rights regarding freedom of speech, etc (Backbone of Our Indian Constitution)."
+								},
+								{
+									"title":"Ar 20. Protection in respect of conviction for offences."
+								},
+								{
+									"title":"Ar 21. Protection of Life and Personal Liberty."
+								},
+								{
+									"title":"Ar 21-A. Right to Elementary Education. [86th Amendment, 2002]"
+								},
+								{
+									"title":"Ar 22. Protection against Arrest and Preventive Detention in certain Cases."
+								},
+								{
+									"title":"Ar 23. Prohibition of Traffic in Human Beings and Forced Labour."
+								},
+								{
+									"title":"Ar 24. Prohibition of Employment of Children in factories, etc."
+								},
+								{
+									"title":"Ar 25. Freedom of conscience and free profession, practice and propagation of religion."
+								},
+								{
+									"title":"Ar 26. Freedom to manage religious affairs."
+								},
+								{
+									"title":"Ar 27. Freedom as to payment of taxes for promotion of any particular religion."
+								},
+								{
+									"title":"Ar 28. Freedom as to attendance at religious instruction or religious worship in certain educational institutions."
+								},
+								{
+									"title":"Ar 29. Protection of interests of minorities."
+								},
+								{
+									"title":"Ar 30.Right of minorities to establish and administer educational institutions."
+								},
+								{
+									"title":"Ar 32. Remedies for enforcement of fundamental right including writs. [Soul of Our Indian Constitution]"
+								},
+								{
+									"title":"Ar 33. Power of Parliament to modify the fundamental rights in their application to forces, etc."
+								},
+								{
+									"title":"Ar 34. Restriction on fundamental rights while martial law is in force in any area."
+								},
+								{
+									"title":"Ar 35. Legislation to give effect to some of the provisions of fundamental rights."
+								}
+							]
+						},
+						{ 
+							"title":"Part IV: Directive Principles of State Policy. [36 to 51]",
+							"list":[
+								{
+									"title":"Ar 36. Definition of State."
+								},
+								{
+									"title":"Ar 37. Application of the directive principles."
+								},
+								{
+									"title":"Ar 38. State to secure a social order for the promotion of welfare of the people."
+								},
+								{
+									"title":"Ar 39. Certain principles of policy to be followed by the State."
+								},
+								{
+									"title":"Ar 39-A. Equal justice and free legal aid."
+								},
+								{
+									"title":"Ar 40. Organization of village Panchayat."
+								},
+								{
+									"title":"Ar 41. Right to work, to education, and to public assistance in certain cases."
+								},
+								{
+									"title":"Ar 42. Provision for just and humane conditions of work and maternity relief."
+								},
+								{
+									"title":"Ar 43. Living wage, etc. for workers."
+								},
+								{
+									"title":"Ar 43-A. Participation of workers in management of industries."
+								},
+								{
+									"title":"Ar 43-B. Promotion of co-operative societies."
+								},
+								{
+									"title":"Ar 44. Uniform civil code for the citizens."
+								},
+								{
+									"title":"Ar 45. Provision for early childhood care and education to children below the age of six years."
+								},
+								{
+									"title":"Ar 46. Promotion of educational and economic interests of scheduled caste, scheduled tribes and other weaker sections."
+								},
+								{
+									"title":"Ar 47. Duty of state to raise the level of nutrition and the standard of living and to improve public health."
+								},
+								{
+									"title":"Ar 48. Organization of agriculture and animal husbandry."
+								},
+								{
+									"title":"Ar 48-A. Protection and improvement of environment and safeguarding of forests and wild life."
+								},
+								{
+									"title":"Ar 49. Protection of monuments and places and objects of national importance."
+								},
+								{
+									"title":"Ar 50. Separation of judiciary from executive."
+								},
+								{
+									"title":"Ar 51. Promotion of international peace and security."
+								}
+							] 
+						},
+						{ 
+							"title":"Part IV-A: Fundamental Duties. [51-A]",
+							"list":[
+								{
+									"title":"Ar 51-A. Fundamental duties."
+								}
+							]
+						},
+						{ 
+							"title":"Part V: The Union Government. [52 to 151]",
+							"list":[
+								{
+									"title":"Ar 52. The President of India."
+								},
+								{
+									"title":"Ar 53. Executive Power of the Union."
+								},
+								{
+									"title":"Ar 54. Election of President."
+								},
+								{
+									"title":"Ar 55. Manner of Election of President."
+								},
+								{
+									"title":"Ar 56. Term of office of President."
+								},
+								{
+									"title":"Ar 57. Eligibility of Re-election."
+								},
+								{
+									"title":"Ar 58. Qualifications for Election as President."
+								},
+								{
+									"title":"Ar 59. Conditions of President’s Office."
+								},
+								{
+									"title":"Ar 60. Oath or affirmation by the President."
+								},
+								{
+									"title":"Ar 61. Procedure for Impeachment of the President."
+								},
+								{
+									"title":"Ar 62.Time of holding election to fill vacancy in the Office of President and the Term of office of Person elected to fill casual vacancy. "
+								},
+								{
+									"title":"Ar 63. The Vice-President of India."
+								},
+								{
+									"title":"Ar 64. The Vice-President to be ex-officio chairman of the council of states."
+								},
+								{
+									"title":"Ar 65. The Vice-President to act as President or to discharge his functions during casual vacancies in the office, or during the absence, of President."
+								},
+								{
+									"title":"Ar 66. Election of Vice-President."
+								},
+								{
+									"title":"Ar 67. Term of office of Vice-President."
+								},
+								{
+									"title":"Ar 68. Time of holding election to fill vacancy in the office of Vice-President and the term of office of person elected to fill casual vacancy."
+								},
+								{
+									"title":"Ar 69. Oath or affirmation by the Vice-President."
+								},
+								{
+									"title":"Ar 70. Discharge of President’s functions in other contingencies."
+								},
+								{
+									"title":"Ar 71. Matters relating to, or connected with, the election of a President or Vice-President."
+								},
+								{
+									"title":"Ar 72.Power of President to Grant Pardons, etc., and to suspend, remit or commute sentences in certain cases."
+								},
+								{
+									"title":"Ar 73. Extent of executive power of the Union."
+								},
+								{
+									"title":"Ar 74. Council of Ministers to Aid and Advise President."
+								},
+								{
+									"title":"Ar 75. Other provisions as to ministers."
+								},
+								{
+									"title":"Ar 76. Attorney-General for India."
+								},
+								{
+									"title":"Ar 77. Conduct of business of the Government of India."
+								},
+								{
+									"title":"Ar 78. Duties of Prime Minister as respects the furnishing of information to the President, etc."
+								},
+								{
+									"title":"Ar 79. Constitution of Parliament."
+								},
+								{
+									"title":"Ar 80. Composition of the Council of States (Rajya Sabha)."
+								},
+								{
+									"title":"Ar 81. Composition of the House of the People (Lok Sabha)."
+								},
+								{
+									"title":"Ar 82. Readjustment after each census."
+								},
+								{
+									"title":"Ar 83. Duration of Houses of Parliament."
+								},
+								{
+									"title":"Ar 84. Qualification for membership of Parliament."
+								},
+								{
+									"title":"Ar 85. Sessions of Parliament, prorogation and dissolution."
+								},
+								{
+									"title":"Ar 86. Right of President to address and send messages to Houses."
+								},
+								{
+									"title":"Ar 87. Special address by the President."
+								},
+								{
+									"title":"Ar 88. Rights of Ministers and Attorney General as respects Houses."
+								},
+								{
+									"title":"Ar 89. The chairman and deputy chairman of the council of states."
+								},
+								{
+									"title":"Ar 93. The Speaker and Deputy Speaker of the House of the People."
+								},
+								{
+									"title":"Ar 98. Secretariat of Parliament."
+								},
+								{
+									"title":"Ar 100. Voting in Houses, Power of Houses to act notwithstanding vacancies and quorum."
+								},
+								{
+									"title":"Ar 118. Rules of Procedure."
+								},
+								{
+									"title":"Ar 107. Provisions as to introduction and passing of bills."
+								},
+								{
+									"title":"Ar 108. Joint sitting of both Houses in certain cases {from Australia}."
+								},
+								{
+									"title":"Ar 110. Definition of “Money Bills”."
+								},
+								{
+									"title":"Ar 112. Annual Financial Statement (Budget)."
+								},
+								{
+									"title":"Ar 113. Procedure in Parliament with respect to estimates."
+								},
+								{
+									"title":"Ar 114. Appropriation Bills."
+								},
+								{
+									"title":"Ar 115. Supplementary, additional or excess grants."
+								},
+								{
+									"title":"Ar 116. Votes on account, votes of credit and exceptional grants."
+								},
+								{
+									"title":"Ar 117. Special provisions as to Financial Bills."
+								},
+								{
+									"title":"Ar 120. Language to be used in Parliament."
+								},
+								{
+									"title":"Ar 121. Restriction on discussion in Parliament."
+								},
+								{
+									"title":"Ar 122. Courts not to inquire into proceedings of Parliament."
+								},
+								{
+									"title":"Ar 123. Power of President to promulgate ordinances during recess of Parliament."
+								},
+								{
+									"title":"Ar 124. Establishment and Constitutional of Supreme Court."
+								},
+								{
+									"title":"Ar 125.  Salaries, etc., of Judges."
+								},
+								{
+									"title":"Ar 126. Appointment of acting Chief Justice."
+								},
+								{
+									"title":"Ar 127. Appointment of Ad-Hoc Judges."
+								},
+								{
+									"title":"Ar 128. Attendance of Retired Judges at sittings of the Supreme Court."
+								},
+								{
+									"title":"Ar 129. Supreme Court to be a Court of Record."
+								},
+								{
+									"title":"Ar 130. Seat of Supreme Court."
+								},
+								{
+									"title":"Ar 131. Original Jurisdiction of the Supreme Court."
+								},
+								{
+									"title":"Ar 132. Appellate Jurisdiction of Supreme Court in appeals from High Courts in certain cases."
+								},
+								{
+									"title":"Ar 133. Appellate Jurisdiction of Supreme Court in appeals from High Courts in Regards to Civil Matters."
+								},
+								{
+									"title":"Ar 134. Appellate Jurisdiction of Supreme Court in Regard to Criminal Matter."
+								},
+								{
+									"title":"Ar 135. Jurisdiction and powers of the federal court under existing law to be exercisable by the Supreme Court."
+								},
+								{
+									"title":"Ar 136. Special leave to appeal by the Supreme Court."
+								},
+								{
+									"title":"Ar 137. Review of Judgments or orders by the Supreme Court."
+								},
+								{
+									"title":"Ar 138. Enlargement of the Jurisdiction of the Supreme Court."
+								},
+								{
+									"title":"Ar 139. Conferment on the Supreme Court of Powers to issue certain writs."
+								},
+								{
+									"title":"Ar 140. Ancillary Powers of Supreme Court."
+								},
+								{
+									"title":"Ar 141. Law declared by Supreme Court to be binding on all courts."
+								},
+								{
+									"title":"Ar 142. Enforcement to decrees and orders of Supreme Court and orders as to discovery, etc."
+								},
+								{
+									"title":"Ar 143. Power of President to consult Supreme Court."
+								},
+								{
+									"title":"Ar 148. Comptroller and Auditor General of India."
+								},
+								{
+									"title":"Ar 149. Duties and powers of the Comptroller and Auditor General."
+								},
+								{
+									"title":"Ar 151. Audit Reports."
+								}
+							]
+						},
+						{ 
+							"title":"Part VI: The State Government. [152 to 237]",
+							"list":[
+								{
+									"title":"Ar 152. Definition of state."
+								},
+								{
+									"title":"Ar 153. Governors of states."
+								},
+								{
+									"title":"Ar 161. Power of governor to grant pardons, etc., and to suspend, remit or commute sentences in certain cases."
+								},
+								{
+									"title":"Ar 163. Council of ministers to aid and advise governor."
+								},
+								{
+									"title":"Ar 164. Other provisions as to ministers."
+								},
+								{
+									"title":"Ar 165. Advocate General for the state."
+								},
+								{
+									"title":"Ar 168. Constitution of legislatures in states."
+								},
+								{
+									"title":"Ar 169. Abolition or creation of legislative councils in states."
+								},
+								{
+									"title":"Ar 170. Composition of the Legislative Assemblies (LA)."
+								},
+								{
+									"title":"Ar 171. Composition of the Legislative Councils (LC)."
+								},
+								{
+									"title":"Ar 178. The Speaker and Deputy Speaker of the Legislative Assembly (LA)."
+								},
+								{
+									"title":"Ar 182. The Chairman and Deputy Chairman of the Legislative Council (LC)."
+								},
+								{
+									"title":"Ar 202. Annual Financial Statement."
+								},
+								{
+									"title":"Ar 213. Power of Governor to promulgate ordinances during recess of Legislature."
+								},
+								{
+									"title":"Ar 214. High courts for states."
+								},
+								{
+									"title":"Ar 215. High courts to be courts of record."
+								},
+								{
+									"title":"Ar 226. Power of High Courts to issue certain writs."
+								},
+								{
+									"title":"Ar 233. Appointment of district judges."
+								}
+							]
+						},
+						{ 
+							"title":"Part VII: [Repealed]." 
+						},
+						{ 
+							"title":"Part VIII: The Union Territories. [239 to 242]" 
+						},
+						{ 
+							"title":"Part IX: The Panchayat. [243 to 243-O]" 
+						},
+						{ 
+							"title":"Part IX-A: The Municipalities. [243-P to 243-ZG]" 
+						},
+						{ 
+							"title":"Part IX-B: The Co-operative Societies. [243-ZH to 243-ZT]" 
+						},
+						{ 
+							"title":"Part X: The Scheduled and Tribunal Areas.[244 to 244-A]",
+							"list":[
+								{
+									"title":"Ar 244. Administration of scheduled areas and tribal areas."
+								}
+							] 
+						},
+						{ 
+							"title":"Part XI: Relations between the Union and the States. [245 to 263]",
+							"list":[
+								{
+									"title":"Ar 249. Power of Parliament to legislate with respect to a matter in the State List in the national interest."
+								},
+								{
+									"title":"Ar 262. Adjudication of disputes relating to waters of inter-state rivers or river valleys."
+								},
+								{
+									"title":"Ar 263. Provisions with respect to an inter-state council."
+								}
+							]
+						},
+						{ 
+							"title":"Part XII: Finance, Property, Contracts and Suits. [264 to 300-A]",
+							"list":[
+								{
+									"title":"Ar 265. Taxes not to be imposed save by authority of law."
+								},
+								{
+									"title":"Ar 266. Consolidated Funds and public accounts of India and of the states."
+								},
+								{
+									"title":"Ar 267. Contingency Fund."
+								},
+								{
+									"title":"Ar 280. Finance Commission."
+								},
+								{
+									"title":"Ar 300-A. Persons not to be deprived of property save by authority of law."
+								}
+							]
+						},
+						{ 
+							"title":"Part XIII: Trade, Commerce and Intercourse within the Territory of India. [301 to 307]"
+						},
+						{ 
+							"title":"Part XIV: Services under the Union and the States. [308 to 323]",
+							"list":[
+								{
+									"title":"Ar 312. All-India Services."
+								},
+								{
+									"title":"Ar 315. Public Service Commissions for the Union and for the states."
+								}
+							]
+						},
+						{ 
+							"title":"Part XIV-A: Tribunals. [323-A to 323-B]",
+							"list":[
+								{
+									"title":"Ar 323-A. Administrative tribunals."
+								}
+							]
+						},
+						{ 
+							"title":"Part XV: Elections. [324 to 329]",
+							"list":[
+								{
+									"title":"Ar 324. Superintendence, Direction and Control of Elections to be vested in an Election Commission."
+								}
+							]
+						},
+						{ 
+							"title":"Part XVI: Special Provisions relating to Certain Classes. [330 to 342]",
+							"list":[
+								{
+									"title":"Ar 330. Reservation of seats for Scheduled Castes and Scheduled Tribes in the House of the People."
+								},
+								{
+									"title":"Ar 331. Representation of the Anglo-Indian Community in the House of the People."
+								},
+								{
+									"title":"Ar 332. Reservation of seats for Scheduled Castes and Scheduled Tribes in the Legislative Assemblies of the States."
+								},
+								{
+									"title":"Ar 333. Representation of the Anglo-Indian Community in the Legislative Assemblies of the States."
+								},
+								{
+									"title":"Ar 338. National Commission for Scheduled Castes."
+								},
+								{
+									"title":"Ar 338-A. National Commission for Scheduled Tribes."
+								},
+								{
+									"title":"Ar 338-B. National Commission for Backward Classes."
+								},
+								{
+									"title":"Ar 339. Control of the Union over the Administration of Scheduled Areas and the welfare of Scheduled Tribes."
+								},
+								{
+									"title":"Ar 340.Appointment of a Commission to Investigate the conditions of Backward Classes."
+								},
+								{
+									"title":"Ar 341.Scheduled Castes (SC)."
+								},
+								{
+									"title":"Ar 342.Scheduled Tribes (ST)."
+								}
+							]
+						},
+						{ 
+							"title":"Part XVII: Official Language. [343 to 351]",
+							"list":[
+								{
+									"title":"Ar 343. Official Language of the Union."
+								},
+								{
+									"title":"Ar 344. Commission and Committee of the Parliament on Official Language."
+								},
+								{
+									"title":"Ar 345. Official Language or Languages of a State."
+								},
+								{
+									"title":"Ar 346. Official Languages for communication between one state and another or between a State and the Union."
+								},
+								{
+									"title":"Ar 347. Special provision relating to language spoken by a section of the population of a state."
+								},
+								{
+									"title":"Ar 348. Language to be used in the Supreme Court and in the high court’s and for acts, bills, etc."
+								},
+								{
+									"title":"Ar 349. Special procedure for enactment of certain laws relating to language."
+								},
+								{
+									"title":"Ar 350. Language to be used in representations for redress of grievances."
+								},
+								{
+									"title":"Ar 350-A. Facilities for instruction in mother-tongue at primary stage."
+								},
+								{
+									"title":"Ar 350-B. Special officer for Linguistic Minorities."
+								},
+								{
+									"title":"Ar 351. Directive for development of the Hindi Language."
+								}
+							]
+						},
+						{ 
+							"title":"Part XVIII: Emergency Provisions. [352 to 360]",
+							"list":[
+								{
+									"title":"Ar 352. Proclamation of Emergency [National Emergency]."
+								},
+								{
+									"title":"Ar 358. Suspension of provisions of Ar. 19 (A to F) during emergencies."
+								},
+								{
+									"title":"Ar 359. Suspension of the enforcement of fundamental rights during emergencies."
+								},
+								{
+									"title":"Ar 356. Provisions in case of failure of Constitutional Machinery in States (President’s Rule) [State Emergency]."
+								},
+								{
+									"title":"Ar 355. Duty of the Union to protect states against external aggression and internal disturbance (President’s Rule)."
+								},
+								{
+									"title":"Ar 365. Effect of failure to comply with, or to give effect to directions given by the Union (President’s Rule)."
+								},
+								{
+									"title":"Ar 360. Provisions as to [Financial Emergency]."
+								},
+								{
+									"title":"Ar 111. Assent to Bills (Veto Powers)."
+								}
+							] 
+						},
+						{ 
+							"title":"Part XIX: Miscellaneous. [361 to 367]",
+							"list":[
+								{
+									"title":"Ar 361. Protection of president and Governors and Rajpramukhs."
+								},
+								{
+									"title":"Ar 363. Bar to interference by courts in disputes arising out of certain treaties, agreements, etc."
+								},
+								{
+									"title":"Ar 364. Special provisions as to major ports and aerodromes."
+								},
+								{
+									"title":"Ar 365. Effect of failure to comply with, or to give effect to directions given by the Union (president’s rule)."
+								},
+								{
+									"title":"Ar 366. Definitions."
+								},
+								{
+									"title":"Ar 367. Interpretation."
+								}
+							]
+						},
+						{ 
+							"title":"Part XX: Amendment of the Constitution. [368]",
+							"list":[
+								{
+									"title":"Article 368. Power of Parliament to amend the Constitution and procedure there for."
+								}
+							]
+						},
+						{ 
+							"title":"Part XXI: Temporary, Transitional and Special Provisions. [369 to 392]",
+							"list":[
+								{
+									"title":"Ar 369. Temporary power to Parliament to make laws with respect to certain matters in the State List as if they were matters in the Concurrent List."
+								},
+								{
+									"title":"Ar 370.Temporary provisions with respect to the State of Jammu and Kashmir."
+								},
+								{
+									"title":"Ar 371.Special provision with the respect to the States of Maharashtra and Gujarat."
+								},
+								{
+									"title":"Ar 371-A. Special provision with the respect to the States of Nagaland."
+								},
+								{
+									"title":"Ar 371-B. Special provision with the respect to the States of Assam."
+								},
+								{
+									"title":"Ar 371-C. Special provision with the respect to the States of Manipur."
+								},
+								{
+									"title":"Ar 371-D. Special provision with the respect to the States of Andhra Pradesh or the State of Telangana."
+								},
+								{
+									"title":"Ar 371-E. Establishment of Central University in Andhra Pradesh."
+								},
+								{
+									"title":"Ar 371-F. Special provision with the respect to the States of Sikkim."
+								},
+								{
+									"title":"Ar 371-G. Special provision with the respect to the States of Mizoram."
+								},
+								{
+									"title":"Ar 371-H. Special provision with the respect to the States of Arunachal Pradesh."
+								},
+								{
+									"title":"Ar 371-I. Special provision with the respect to the States of Goa."
+								},
+								{
+									"title":"Ar 371-J. Special provision with the respect to the States of Karnataka."
+								},
+								{
+									"title":"Ar 392. Power of the President to remove difficulties."
+								}
+							]
+						},
+						{ 
+							"title":"Part XXII: Short title, Commencement, Authoritative Text in Hindi & Repeals. [393 to 395]",
+							"list":[
+								{
+									"title":"Ar 393. Short title."
+								},
+								{
+									"title":"Ar 394. Commencement."
+								},
+								{
+									"title":"Ar 394-A. Authoritative text in the hindi language."
+								},
+								{
+									"title":"Ar 395. Repeals."
+								}
+							]
+						}
+					]
 				},
 				{
-					"title":"Amendments"
+					"title":"Amendments",
+					"list":[
+						{ 
+							"title":"1st Amendment (1951)" 
+						},
+						{ 
+							"title":"7th Amendment(1976)" 
+						},
+						{ 
+							"title":"8th Amendment (1960)" 
+						},
+						{ 
+							"title":"18th Amendment (1966)" 
+						},
+						{ 
+							"title":"35th Amendment (1974)" 
+						},
+						{ 
+							"title":"36th Amendment (1975)" 
+						},
+						{ 
+							"title":"42nd Amendment (1976)" 
+						},
+						{ 
+							"title":"44th Amendment (1978)" 
+						},
+						{ 
+							"title":"52nd Amendment (1985)" 
+						},
+						{ 
+							"title":"61st Amendment (1989)" 
+						},
+						{ 
+							"title":"65th Amendment (1990)" 
+						},
+						{ 
+							"title":"89th Amendment (2003)" 
+						},
+						{ 
+							"title":"123rd Amendment (2018)" 
+						},
+						{ 
+							"title":"124th Amendment" 
+						},
+						{ 
+							"title":"69th Amendment (1991)" 
+						},
+						{ 
+							"title":"70th Amendment (1992)" 
+						},
+						{ 
+							"title":"21st Amendment (1967)" 
+						},
+						{ 
+							"title":"71st Amendment (1992)" 
+						},
+						{ 
+							"title":"92st Amendment (2003)" 
+						},
+						{ 
+							"title":"73rd Amendment (1992)" 
+						},
+						{ 
+							"title":"74th Amendment (1992)" 
+						},
+						{ 
+							"title":"84th Amendment (2002)" 
+						},
+						{ 
+							"title":"86th Amendment (2002)" 
+						},
+						{ 
+							"title":"91st Amendment (2003)" 
+						},
+						{ 
+							"title":"99th Amendment (2014)" 
+						},
+						{ 
+							"title":"100th Amendment (2015)" 
+						},
+						{ 
+							"title":"122nd Amendment (2016)" 
+						},
+						{ 
+							"title":"125th Amendment" 
+						},
+						{ 
+							"title":"126th Amendment" 
+						}
+					]
 				},
 				{
 					"title":"Case Studies"
@@ -72,7 +1594,294 @@
 			"title":"Geography",
 			"list":[
 				{
-					"title":"Astronomy"
+					"title":"Astronomy",
+					"list":[
+						{
+							"title":"Star"
+						},
+						{
+							"title":"Universe",
+							"list":[
+								{
+									"title":"Super Cluster"
+								},
+								{
+									"title":"Galaxies",
+									"list":[
+										{
+											"title":"Milkyway Galaxy"
+										},
+										{
+											"title":"Andromeda Galaxy"
+										},
+										{
+											"title":"NGC-33"
+										},
+										{
+											"title":"Concept",
+											"list":[
+												{
+													"title":"Shape of the Galaxy"
+												},
+												{
+													"title":"Bulge"
+												},
+												{
+													"title":"Planetarium (89)"
+												},
+												{
+													"title":"Constellation (27)"
+												},
+												{
+													"title":"Solar System (8)"
+												},
+												{
+													"title":"Sun",
+													"list":[
+														{
+															"title":"Cosmic Year"
+														},
+														{
+															"title":"Solar Year"
+														},
+														{
+															"title":"Light Years"
+														},
+														{
+															"title":"Speed of Sun"
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"title":"Scientist's Theory related to Revolution of Earth and Sun"
+						},
+						{
+							"title":"Big Ban Theory",
+							"list":[
+								{
+									"title":"Concept"
+								},
+								{
+									"title":"Edwin Hubble's Theory"
+								},
+								{
+									"title":"Big Crunch"
+								}
+							]
+						},
+						{
+							"title":"Revolution of Earth",
+							"list":[
+								{
+									"title":"Concept",
+									"list":[
+										{
+											"title":"Northern Hemisphere"
+										},
+										{
+											"title":"Equator"
+										},
+										{
+											"title":"Southern Hemisphere"
+										},
+										{
+											"title":"Aphellion"
+										},
+										{
+											"title":"Perihelion"
+										},
+										{
+											"title":"Apsideline"
+										}
+									]
+								},
+								{
+									"title":"Astronomical Unit"
+								},
+								
+								{
+									"title":"Angle of Inclination of Earth"
+								}
+							]
+						},
+						{
+							"title":"Planetarium (89)",
+							"list":[
+								{
+									"title":"Polar Star"
+								},
+								{
+									"title":"Saptarishi",
+									"list":[
+										{
+											"title":"Ursa Minor"
+										},
+										{
+											"title":"Ursa Major"
+										}
+									]
+								},
+								{
+									"title":"Orion"
+								},
+								{
+									"title":"Hydra"
+								}
+							]
+						},
+						{
+							"title":"The Origin of our Solar System",
+							"list":[
+								{
+									"title":"Mono-Star Theory",
+									"list":[
+										{
+											"title":"Kant"
+										},
+										{
+											"title":"Laplace"
+										}
+									]
+								},
+								{
+									"title":"Dual-Star Theory",
+									"list":[
+										{
+											"title":"Chamberlin"
+										},
+										{
+											"title":"James Jeans"
+										}
+									]
+								},
+								{
+									"title":"Double Star Theory",
+									"list":[
+										{
+											"title":"Littleton"
+										}
+									]
+								}
+							]
+						},
+						{
+							"title":"Solar System",
+							"list":[
+								{
+									"title":"Sun"
+								},
+								{
+									"title":"Planet",
+									"list":[
+										{
+											"title":"Concept"
+										},
+										{
+											"title":"Mercury"
+										},
+										{
+											"title":"Venus"
+										},
+										{
+											"title":"Earth"
+										},
+										{
+											"title":"Mars"
+										},
+										{
+											"title":"Jupiter"
+										},
+										{
+											"title":"Saturn"
+										},
+										{
+											"title":"Uranus"
+										},
+										{
+											"title":"Neptune"
+										}
+									]
+								},
+								{
+									"title":"Earth (in Detail)",
+									"list":[
+										{
+											"title":"Density"
+										},
+										{
+											"title":"Rotation of Earth"
+										},
+										{
+											"title":"Revolution of Earth"
+										}
+									]
+								},
+								{
+									"title":"Moon (Natural Satellite)",
+									"list":[
+										{
+											"title":"Concept"
+										},
+										{
+											"title":"Revolution of Moon"
+										},
+										{
+											"title":"Phases of Moon"
+										},
+										{
+											"title":"Red Moon"
+										},
+										{
+											"title":"Facts"
+										}
+									]
+								},
+								{
+									"title":"Eclipse",
+									"list":[
+										{
+											"title":"Lunar Eclipse"
+										},
+										{
+											"title":"Solar Eclipse"
+										},
+										{
+											"title":"Moon Transit"
+										},
+										{
+											"title":"Tides & Syzygy",
+											"list":[
+												{
+													"title":"High Tide"
+												},
+												{
+													"title":"Low Tide"
+												},
+												{
+													"title":"Syzygy"
+												}
+											]
+										},
+										{
+											"title":"Linear Eclipse"
+										}
+									]
+								},
+								{
+									"title":"Pluto"
+								},
+								{
+									"title":"Goldilocks Zone"
+								}
+							]
+						}
+					]
 				},
 				{
 					"title":"Topography"
@@ -92,10 +1901,3108 @@
 			"title":"Map",
 			"list":[
 				{
-					"title":"World Map"
+					"title":"World Map",
+					"list":[
+						{
+							"title":"Continents",
+							"list":[
+								{
+									"title":"Asia",
+									"list":[
+										{
+											"title":"Maldives (Male)"
+										},
+										{
+											"title":"Sri Lanka (Sri Jayewardenepura)"
+										},
+										{
+											"title":"India (New Delhi)"
+										},
+										{
+											"title":"Pakistan (Islamabad)"
+										},
+										{
+											"title":"Afghanistan (Kabul)"
+										},
+										{
+											"title":"Nepal (Kathmandu)"
+										},
+										{
+											"title":"Bhutan (Thimphu)"
+										},
+										{
+											"title":"Bangladesh (Dhaka)"
+										},
+										{
+											"title":"Myanmar (Naypyidaw)"
+										},
+										{
+											"title":"Thailand (Bangkok)"
+										},
+										{
+											"title":"Laos (Vientiane)"
+										},
+										{
+											"title":"Cambodia (Phnom Penh)"
+										},
+										{
+											"title":"Vietnam (Hanoi)"
+										},
+										{
+											"title":"Malaysia (Kuala Lumpur)"
+										},
+										{
+											"title":"Singapore"
+										},
+										{
+											"title":"Brunei (Bandar Seri Begawan)"
+										},
+										{
+											"title":"Indonesia (Jakarta)"
+										},
+										{
+											"title":"Philippines (Manila)"
+										},
+										{
+											"title":"Timor – Leste (Dili)"
+										},
+										{
+											"title":"China (Beijing)"
+										},
+										{
+											"title":"Mongolia (Ullan Bator)"
+										},
+										{
+											"title":"North Korea (Pyongyang)"
+										},
+										{
+											"title":"South Korea (Seoul)"
+										},
+										{
+											"title":"Japan (Tokyo)"
+										},
+										{
+											"title":"Taiwan (Taipei)"
+										},
+										{
+											"title":"Kazakhstan (Astana)"
+										},
+										{
+											"title":"Kyrgyzstan (Bishkek)"
+										},
+										{
+											"title":"Tajikistan (Dushanbe)"
+										},
+										{
+											"title":"Turkmenistan (Ashgabat)"
+										},
+										{
+											"title":"Uzbekistan (Tashkent)"
+										},
+										{
+											"title":"Georgia (Tbilisi)"
+										},
+										{
+											"title":"Armenia (Yerevan)"
+										},
+										{
+											"title":"Azerbaijan (Baku)"
+										},
+										{
+											"title":"Turkey: Anatolia (Ankara)"
+										},
+										{
+											"title":"Cyprus (Nicosia)"
+										},
+										{
+											"title":"Syria (Damascus)"
+										},
+										{
+											"title":"Lebanon (Beirut)"
+										},
+										{
+											"title":"Israel (Jerusalem)"
+										},
+										{
+											"title":"Palestine (Gaza)"
+										},
+										{
+											"title":"Jordan (Amman)"
+										},
+										{
+											"title":"Egypt: Sinai (Cairo)"
+										},
+										{
+											"title":"Saudi Arabia (Riyadh)"
+										},
+										{
+											"title":"Yemen (Sanaa)"
+										},
+										{
+											"title":"Oman (Muscat)"
+										},
+										{
+											"title":"UAE (Abu Dhabi)"
+										},
+										{
+											"title":"Qatar (Doha)"
+										},
+										{
+											"title":"Bahrain (Manama)"
+										},
+										{
+											"title":"Kuwait"
+										},
+										{
+											"title":"Iraq (Baghdad)"
+										},
+										{
+											"title":"Iran (Tehran)"
+										}
+									]
+								},
+								{
+									"title":"Europe",
+									"list":[
+										{
+											"title":"Norway (Oslo)"
+										},
+										{
+											"title":"Sweden (Stockholm)"
+										},
+										{
+											"title":"Finland (Helsinki)"
+										},
+										{
+											"title":"Denmark (Copenhagen)"
+										},
+										{
+											"title":"Estonia (Tallinn)"
+										},
+										{
+											"title":"Latvia (Riga)"
+										},
+										{
+											"title":"Lithuania (Vilnius)"
+										},
+										{
+											"title":"Belarus (Minsk)"
+										},
+										{
+											"title":"Ukraine (Kiev)"
+										},
+										{
+											"title":"Moldova (Chisinau)"
+										},
+										{
+											"title":"Poland (Warsaw)"
+										},
+										{
+											"title":"Germany (Berlin)"
+										},
+										{
+											"title":"Belgium (Brussels)"
+										},
+										{
+											"title":"Netherland (Amsterdam)"
+										},
+										{
+											"title":"Luxembourg"
+										},
+										{
+											"title":"United Kingdom (London)"
+										},
+										{
+											"title":"Ireland: Southern Region (Dublin)"
+										},
+										{
+											"title":"Iceland (Reykjavik)"
+										},
+										{
+											"title":"France (Paris)"
+										},
+										{
+											"title":"Spain (Madrid)"
+										},
+										{
+											"title":"Andorra (Andorra La-Vella)"
+										},
+										{
+											"title":"Portugal (Lisbon)"
+										},
+										{
+											"title":"Switzerland (Bern)"
+										},
+										{
+											"title":"Liechtenstein"
+										},
+										{
+											"title":"Austria (Vienna)"
+										},
+										{
+											"title":"Hungary (Budapest)"
+										},
+										{
+											"title":"Slovakia (Bratislava)"
+										},
+										{
+											"title":"Czech Republic (Prague)"
+										},
+										{
+											"title":"Italy (Rome)"
+										},
+										{
+											"title":"Vatican City"
+										},
+										{
+											"title":"San Marino"
+										},
+										{
+											"title":"Malta (Valletta)"
+										},
+										{
+											"title":"Monaco"
+										},
+										{
+											"title":"Slovenia (Ljubljana)"
+										},
+										{
+											"title":"Croatia (Zagreb)"
+										},
+										{
+											"title":"Bosnia – Herzegovina (Sarajevo)"
+										},
+										{
+											"title":"Serbia (Belgrade)"
+										},
+										{
+											"title":"Montenegro (Podgorica)"
+										},
+										{
+											"title":"Kosovo (Pristina)"
+										},
+										{
+											"title":"Albania (Tirana)"
+										},
+										{
+											"title":"Macedonia (Skopje)"
+										},
+										{
+											"title":"Greece (Athens)"
+										},
+										{
+											"title":"Turkey: Thrace (Istanbul)"
+										},
+										{
+											"title":"Bulgaria (Sofia)"
+										},
+										{
+											"title":"Romania (Bucharest)"
+										},
+										{
+											"title":"Russia (Moscow)"
+										}
+									]
+								},
+								{
+									"title":"Africa",
+									"list":[
+										{
+											"title":"Western Sahara (Laayoune)"
+										},
+										{
+											"title":"Morocco (Rabat)"
+										},
+										{
+											"title":"Algeria (Algiers)"
+										},
+										{
+											"title":"Tunisia (Tunis)"
+										},
+										{
+											"title":"Libya (Tripoli)"
+										},
+										{
+											"title":"Egypt (Cairo)"
+										},
+										{
+											"title":"Sudan (Khartoum)"
+										},
+										{
+											"title":"South Sudan (Juba)"
+										},
+										{
+											"title":"Chad (N’Djamena)"
+										},
+										{
+											"title":"Niger (Niamey)"
+										},
+										{
+											"title":"Mali (Bamako)"
+										},
+										{
+											"title":"Mauritania (Nouakchott)"
+										},
+										{
+											"title":"Senegal (Dakar)"
+										},
+										{
+											"title":"Gambia (Banjul)"
+										},
+										{
+											"title":"Guinea Bissau (Bissau)"
+										},
+										{
+											"title":"Guinea (Conakry)"
+										},
+										{
+											"title":"Eq. Guinea (Malabo)"
+										},
+										{
+											"title":"Sierra Leone (Freetown)"
+										},
+										{
+											"title":"Liberia (Monrovia)"
+										},
+										{
+											"title":"Cote D’ Ivoire (Yamoussoukro)"
+										},
+										{
+											"title":"Ghana (Accra)"
+										},
+										{
+											"title":"Burkina Faso (Ouagadougou)"
+										},
+										{
+											"title":"Togo (Home)"
+										},
+										{
+											"title":"Benin (Porto Nova)"
+										},
+										{
+											"title":"Nigeria (Abuja)"
+										},
+										{
+											"title":"Cameroon (Yaoundé)"
+										},
+										{
+											"title":"Gabon (Libreville)"
+										},
+										{
+											"title":"Central African Republic (Bangui)"
+										},
+										{
+											"title":"Republic of Congo (Brazzaville)"
+										},
+										{
+											"title":"Dem. Republic of Congo (Kinshasa)"
+										},
+										{
+											"title":"Angola (Luanda)"
+										},
+										{
+											"title":"Zambia (Lusaka)"
+										},
+										{
+											"title":"Zimbabwe (Harare)"
+										},
+										{
+											"title":"Namibia (Windhoek)"
+										},
+										{
+											"title":"Botswana (Gaborone)"
+										},
+										{
+											"title":"South Africa (Pretoria)"
+										},
+										{
+											"title":"Lesotho (Maseru)"
+										},
+										{
+											"title":"Swaziland (Mbabane)"
+										},
+										{
+											"title":"Mozambique (Maputo)"
+										},
+										{
+											"title":"Madagascar (Antananarivo)"
+										},
+										{
+											"title":"Mauritius (Port Louis)"
+										},
+										{
+											"title":"Malawi (Lilongwe)"
+										},
+										{
+											"title":"Tanzania (Dodoma)"
+										},
+										{
+											"title":"Seychelles (Victoria)"
+										},
+										{
+											"title":"Kenya (Nairobi)"
+										},
+										{
+											"title":"Uganda (Kampala)"
+										},
+										{
+											"title":"Rwanda (Kigali)"
+										},
+										{
+											"title":"Burundi (Bujumbura)"
+										},
+										{
+											"title":"Somalia (Mogadishu)"
+										},
+										{
+											"title":"Djibouti"
+										},
+										{
+											"title":"Eritrea (Asmara)"
+										},
+										{
+											"title":"Ethiopia (Addis Ababa)"
+										}
+									]
+								},
+								{
+									"title":"North America",
+									"list":[
+										{
+											"title":"Canada (Ottawa)"
+										},
+										{
+											"title":"USA (Washington, DC)"
+										},
+										{
+											"title":"Mexico (Mexico City)"
+										},
+										{
+											"title":"Guatemala (Guatemala City)"
+										},
+										{
+											"title":"Belize (Belmopan)"
+										},
+										{
+											"title":"Honduras (Tegucigalpa)"
+										},
+										{
+											"title":"El Salvador (San Salvador)"
+										},
+										{
+											"title":"Panama (Panama City)"
+										},
+										{
+											"title":"Costa Rica (San Jose)"
+										},
+										{
+											"title":"Cuba (Havana)"
+										},
+										{
+											"title":"Jamaica (Kingston)"
+										},
+										{
+											"title":"Cayman Island (UT of UK)"
+										},
+										{
+											"title":"Haiti (Port-Au Prince)"
+										},
+										{
+											"title":"Dominican (Santo Domingo)"
+										},
+										{
+											"title":"Puerto Rico (UT of USA)"
+										},
+										{
+											"title":"The Bahamas (Nassal)"
+										},
+										{
+											"title":"Tobago Island"
+										}
+									]
+								},
+								{
+									"title":"South America",
+									"list":[
+										{
+											"title":"Colombia (Bogota)"
+										},
+										{
+											"title":"Venezuela (Caracas)"
+										},
+										{
+											"title":"Guyana (Georgetown)"
+										},
+										{
+											"title":"Suriname (Paramaribo)"
+										},
+										{
+											"title":"French Guiana (Cayenne)"
+										},
+										{
+											"title":"Brazil (Brasilia)"
+										},
+										{
+											"title":"Uruguay (Montevideo)"
+										},
+										{
+											"title":"Paraguay (Asuncion)"
+										},
+										{
+											"title":"Bolivia (La Paz)"
+										},
+										{
+											"title":"Argentina (Buenos Aires)"
+										},
+										{
+											"title":"Chile (Santiago)"
+										},
+										{
+											"title":"Peru (Lima)"
+										},
+										{
+											"title":"Ecuador (Quito)"
+										}
+									]
+								},
+								{
+									"title":"Oceania",
+									"list":[
+										{
+											"title":"Kiribati Island"
+										},
+										{
+											"title":"Marshall Island"
+										},
+										{
+											"title":"Mariana Island"
+										},
+										{
+											"title":"Papua New Guinea (Port Moresby)"
+										},
+										{
+											"title":"Fiji Island (Suva)"
+										},
+										{
+											"title":"New Caledonia"
+										},
+										{
+											"title":"Hawaii Island (Honolulu)"
+										},
+										{
+											"title":"Easter Island (Chile’s Is)"
+										},
+										{
+											"title":"New Zealand (Wellington)"
+										},
+										{
+											"title":"Australia (Canberra)"
+										}
+									]
+								},
+								{
+									"title":"Antarctica"
+								}
+							]
+						},
+						{
+							"title":"World Static GK",
+							"list":[
+								{
+									"title":"Mountain Range (with Highest Peak)",
+									"list":[
+										{
+											"title":"Alaska Mt. Range (Mckinley -> Denali)"
+										},
+										{
+											"title":"Rocky Mt. Range (Mount Elbert)"
+										},
+										{
+											"title":"Appalachian Mt. Range"
+										},
+										{
+											"title":"Andes Mt. Range (Aconcagua)"
+										},
+										{
+											"title":"Pyrenees Mt. Range"
+										},
+										{
+											"title":"Alps Mt. Range (Mount Blanc)"
+										},
+										{
+											"title":"Black Forest Mt. Range (Germany)"
+										},
+										{
+											"title":"Scandinavian Mt. Range"
+										},
+										{
+											"title":"Caucasus Mt. Range (Mount Elbrus)"
+										},
+										{
+											"title":"Ural Mt. Range"
+										},
+										{
+											"title":"Hindu Kush Mt. Range"
+										},
+										{
+											"title":"Himalayan Mt. Range (Mount Everest, K2, Kanchenjunga)"
+										},
+										{
+											"title":"Kunlun Shan Mt. Range"
+										},
+										{
+											"title":"Tien Shah Mt. Range"
+										},
+										{
+											"title":"Arakan Yoma Mt. Range"
+										},
+										{
+											"title":"Atlas Mt. Range"
+										},
+										{
+											"title":"Drakensberg Mt. Range (Mount Kilimanjaro)"
+										},
+										{
+											"title":"Great Dividing Range (Australia)"
+										},
+										{
+											"title":"Southern Alps (Mount Cook)"
+										}
+									]
+								},
+								{
+									"title":"Winds (Local Winds)",
+									"list":[
+										{
+											"title":"Loo Wind"
+										},
+										{
+											"title":"Kal Baisakhi"
+										},
+										{
+											"title":"Cherry Blossom"
+										},
+										{
+											"title":"Chinook Wind"
+										},
+										{
+											"title":"Foehn Wind"
+										},
+										{
+											"title":"Harmattan Wind"
+										},
+										{
+											"title":"Sirocco Wind"
+										},
+										{
+											"title":"Simoom Wind"
+										},
+										{
+											"title":"Shamal Wind"
+										},
+										{
+											"title":"Brickfielder Wind"
+										},
+										{
+											"title":"Nor ’wester Wind"
+										},
+										{
+											"title":"Pampero Wind"
+										},
+										{
+											"title":"Mistral Wind"
+										},
+										{
+											"title":"Bora Wind"
+										},
+										{
+											"title":"Blizzard Wind"
+										}
+									]
+								},
+								{
+									"title":"Sea",
+									"list":[
+										{
+											"title":"Chukchi Sea"
+										},
+										{
+											"title":"East Siberian Sea"
+										},
+										{
+											"title":"Laptev Sea"
+										},
+										{
+											"title":"Kara Sea"
+										},
+										{
+											"title":"Barents Sea"
+										},
+										{
+											"title":"White Sea"
+										},
+										{
+											"title":"Greenland Sea"
+										},
+										{
+											"title":"Baffin Bay"
+										},
+										{
+											"title":"Hudson Bay"
+										},
+										{
+											"title":"Amundsen Gulf"
+										},
+										{
+											"title":"Beaufort Sea"
+										},
+										{
+											"title":"Davis Strait"
+										},
+										{
+											"title":"Labrador Sea"
+										},
+										{
+											"title":"Mexico Gulf"
+										},
+										{
+											"title":"Caribbean Sea"
+										},
+										{
+											"title":"Sargasso Sea"
+										},
+										{
+											"title":"Norwegian Sea"
+										},
+										{
+											"title":"North Sea"
+										},
+										{
+											"title":"Baltic Sea"
+										},
+										{
+											"title":"Irish Sea"
+										},
+										{
+											"title":"English Channel"
+										},
+										{
+											"title":"Bay of Biscay"
+										},
+										{
+											"title":"Mediterranean Sea"
+										},
+										{
+											"title":"Adriatic Sea"
+										},
+										{
+											"title":"Aegean Sea"
+										},
+										{
+											"title":"Marmara Sea"
+										},
+										{
+											"title":"Black Sea"
+										},
+										{
+											"title":"Azov Sea"
+										},
+										{
+											"title":"Benin Bight"
+										},
+										{
+											"title":"Bunny (Biafra) Bight"
+										},
+										{
+											"title":"Guinea Gulf"
+										},
+										{
+											"title":"Walvis Bay"
+										},
+										{
+											"title":"St. Helena Bay"
+										},
+										{
+											"title":"Timor Sea"
+										},
+										{
+											"title":"Andaman Sea"
+										},
+										{
+											"title":"Bay of Bengal"
+										},
+										{
+											"title":"Lakshadweep Sea"
+										},
+										{
+											"title":"Arabian Sea"
+										},
+										{
+											"title":"Gulf of Oman"
+										},
+										{
+											"title":"Persian Gulf"
+										},
+										{
+											"title":"Aden Gulf"
+										},
+										{
+											"title":"Red Sea"
+										},
+										{
+											"title":"Mozambique Channel"
+										},
+										{
+											"title":"Geographical Bay"
+										},
+										{
+											"title":"Tasman Sea"
+										},
+										{
+											"title":"Melanesian Sea"
+										},
+										{
+											"title":"Coro Sea"
+										},
+										{
+											"title":"Coral Sea"
+										},
+										{
+											"title":"Solomon Sea"
+										},
+										{
+											"title":"Bismarck Sea"
+										},
+										{
+											"title":"Arafura Sea"
+										},
+										{
+											"title":"Banda Sea"
+										},
+										{
+											"title":"Celebes Sea"
+										},
+										{
+											"title":"Java Sea"
+										},
+										{
+											"title":"Thailand Gulf"
+										},
+										{
+											"title":"South China Sea"
+										},
+										{
+											"title":"Philippine Sea"
+										},
+										{
+											"title":"East China Sea"
+										},
+										{
+											"title":"Yellow Sea"
+										},
+										{
+											"title":"Japan Sea"
+										},
+										{
+											"title":"Okhotsk Sea"
+										},
+										{
+											"title":"Bering Sea"
+										},
+										{
+											"title":"Alaska Gulf"
+										},
+										{
+											"title":"Gulf of California"
+										},
+										{
+											"title":"Ross Sea"
+										},
+										{
+											"title":"Davis Sea"
+										},
+										{
+											"title":"Weddell Sea"
+										},
+										{
+											"title":"Scotia Sea"
+										},
+										{
+											"title":"Drake Passage"
+										},
+										{
+											"title":"Amundsen Sea"
+										}
+									]
+								},
+								{
+									"title":"Straits",
+									"list":[
+										{
+											"title":"Palk Strait"
+										},
+										{
+											"title":"Great Strait"
+										},
+										{
+											"title":"Strait of Malacca"
+										},
+										{
+											"title":"Sunda Strait"
+										},
+										{
+											"title":"Luzon Strait"
+										},
+										{
+											"title":"Tsushima Strait"
+										},
+										{
+											"title":"Tsugaru Strait"
+										},
+										{
+											"title":"Hormuz Strait"
+										},
+										{
+											"title":"Bab-el Mandeb Strait"
+										},
+										{
+											"title":"Suez Canal"
+										},
+										{
+											"title":"Bosporus Strait"
+										},
+										{
+											"title":"Torres Strait"
+										},
+										{
+											"title":"Bass Strait"
+										},
+										{
+											"title":"Cook Strait"
+										},
+										{
+											"title":"Strait of Dover"
+										},
+										{
+											"title":"Strait of Gibraltar"
+										},
+										{
+											"title":"Denmark Strait"
+										},
+										{
+											"title":"Davis Strait"
+										},
+										{
+											"title":"Magellan Strait"
+										},
+										{
+											"title":"Drake Strait"
+										},
+										{
+											"title":"Mozambique Channel"
+										}
+									]
+								},
+								{
+									"title":"Lakes",
+									"list":[
+										{
+											"title":"Baikal Lake"
+										},
+										{
+											"title":"Five Flower Lake"
+										},
+										{
+											"title":"Caspian Sea"
+										},
+										{
+											"title":"Van Lake"
+										},
+										{
+											"title":"Dead Sea"
+										},
+										{
+											"title":"Aral Sea"
+										},
+										{
+											"title":"Victoria Lake"
+										},
+										{
+											"title":"Tanganyika"
+										},
+										{
+											"title":"Nyasa Lake"
+										},
+										{
+											"title":"Chad Lake"
+										},
+										{
+											"title":"Volta Lake"
+										},
+										{
+											"title":"Titicaca Lake"
+										},
+										{
+											"title":"Maracaibo Lake"
+										},
+										{
+											"title":"Great Salt"
+										},
+										{
+											"title":"Great Lake, HOMES"
+										},
+										{
+											"title":"Winnipeg Lake"
+										},
+										{
+											"title":"Great Slave"
+										},
+										{
+											"title":"Great Bear"
+										},
+										{
+											"title":"Eyre Lake"
+										}
+									]
+								},
+								{
+									"title":"Waterfalls",
+									"list":[
+										{
+											"title":"Angel Waterfall"
+										},
+										{
+											"title":"Niagara Waterfall"
+										},
+										{
+											"title":"Victoria Waterfall"
+										}
+									]
+								},
+								{
+									"title":"Border Lines",
+									"list":[
+										{
+											"title":"Durand Line"
+										},
+										{
+											"title":"Cyril Radcliffe Line"
+										},
+										{
+											"title":"Zero Line"
+										},
+										{
+											"title":"McMahan Line"
+										},
+										{
+											"title":"Arakam Yoma Mt. Range Line"
+										},
+										{
+											"title":"17 Degree"
+										},
+										{
+											"title":"38 Degree Parallel Line"
+										},
+										{
+											"title":"Hindenburg Line or Oder – Neisse Line"
+										},
+										{
+											"title":"Maginot – Siegfried Line"
+										},
+										{
+											"title":"US – Mexico Border Line"
+										},
+										{
+											"title":"49 Degree Parallel Line"
+										},
+										{
+											"title":"141 Degree"
+										},
+										{
+											"title":"24 Degree"
+										}
+									]
+								},
+								{
+									"title":"Grasslands",
+									"list":[
+										{
+											"title":"Prairie Grassland"
+										},
+										{
+											"title":"Pampas Grassland"
+										},
+										{
+											"title":"Veld Grassland"
+										},
+										{
+											"title":"Downs Grassland"
+										},
+										{
+											"title":"Canterbury Grassland"
+										},
+										{
+											"title":"Steppe Grassland"
+										},
+										{
+											"title":"Pustaz Grassland"
+										},
+										{
+											"title":"Shabana Grassland"
+										},
+										{
+											"title":"Campos Grassland"
+										},
+										{
+											"title":"Llanos Grassland"
+										},
+										{
+											"title":"Patana Grassland"
+										},
+										{
+											"title":"Parkland Grassland"
+										}
+									]
+								},
+								{
+									"title":"Deserts",
+									"list":[
+										{
+											"title":"Mojave Desert & Arizona Desert"
+										},
+										{
+											"title":"Atacama Desert"
+										},
+										{
+											"title":"Patagonian Desert"
+										},
+										{
+											"title":"Sahara Desert"
+										},
+										{
+											"title":"Kalahari Desert"
+										},
+										{
+											"title":"Steppe Desert"
+										},
+										{
+											"title":"Arab Desert"
+										},
+										{
+											"title":"Dast – e – Lut Desert"
+										},
+										{
+											"title":"Thar Desert"
+										},
+										{
+											"title":"Takla – Makan Desert"
+										},
+										{
+											"title":"Gobi Desert"
+										},
+										{
+											"title":"7GV – Sandy, Gibson, Victoria"
+										},
+										{
+											"title":"Antarctica Desert"
+										}
+									]
+								},
+								{
+									"title":"Protocols",
+									"list":[
+										{
+											"title":"Montreal Protocol"
+										},
+										{
+											"title":"Rio Conference or Rio Summit"
+										},
+										{
+											"title":"Kyoto Protocol"
+										},
+										{
+											"title":"Nairobi Protocol"
+										}
+									]
+								},
+								{
+									"title":"Routes",
+									"list":[
+										{
+											"title":"Canadian Pacific Rail Route"
+										},
+										{
+											"title":"Central Pacific Rail Route"
+										},
+										{
+											"title":"Trans Andean Rail Route"
+										},
+										{
+											"title":"European Transcontinental Rail Route"
+										},
+										{
+											"title":"Orient Express Rail Route"
+										},
+										{
+											"title":"Cape – Cairo Transcontinental Rail"
+										},
+										{
+											"title":"Trans Siberia Rail"
+										},
+										{
+											"title":"Australian Transcontinental Rail Route"
+										},
+										{
+											"title":"Air-Route"
+										}
+									]
+								},
+								{
+									"title":"Plateaus",
+									"list":[
+										{
+											"title":"Columbia Plateau"
+										},
+										{
+											"title":"Colorado Plateau"
+										},
+										{
+											"title":"Chiapas Plateau"
+										},
+										{
+											"title":"Meseta Plateau"
+										},
+										{
+											"title":"Anatolian Plateau"
+										},
+										{
+											"title":"Potwar Plateau"
+										},
+										{
+											"title":"Deccan Plateau"
+										},
+										{
+											"title":"Tibet Plateau"
+										},
+										{
+											"title":"Shan Plateau"
+										}
+									]
+								},
+								{
+									"title":"Geographical Lines",
+									"list":[
+										{
+											"title":"Isobar Lines"
+										},
+										{
+											"title":"Isobath Lines"
+										},
+										{
+											"title":"Isotherm Lines"
+										},
+										{
+											"title":"Isoneph Lines"
+										},
+										{
+											"title":"Isoseismal Lines"
+										},
+										{
+											"title":"Isohyet Lines"
+										},
+										{
+											"title":"Isohaline Lines"
+										},
+										{
+											"title":"Isoprect"
+										},
+										{
+											"title":"Contour Lines"
+										},
+										{
+											"title":"Apside Line"
+										}
+									]
+								},
+								{
+									"title":"Rivers",
+									"list":[
+										{
+											"title":"Mackenzie River"
+										},
+										{
+											"title":"Nelson River"
+										},
+										{
+											"title":"Colorado River"
+										},
+										{
+											"title":"Mississippi River"
+										},
+										{
+											"title":"Missouri River"
+										},
+										{
+											"title":"Tennessee River"
+										},
+										{
+											"title":"St. Lawrence River"
+										},
+										{
+											"title":"Amazon River"
+										},
+										{
+											"title":"Orinoco River"
+										},
+										{
+											"title":"Nile River"
+										},
+										{
+											"title":"Niger River"
+										},
+										{
+											"title":"Congo River"
+										},
+										{
+											"title":"Zambezi River"
+										},
+										{
+											"title":"Limpopo River"
+										},
+										{
+											"title":"Orange River"
+										},
+										{
+											"title":"Murrey & Darling River"
+										},
+										{
+											"title":"Ural River"
+										},
+										{
+											"title":"Volga River"
+										},
+										{
+											"title":"Ob River"
+										},
+										{
+											"title":"Rhine River"
+										},
+										{
+											"title":"Po River"
+										},
+										{
+											"title":"Danube River"
+										},
+										{
+											"title":"Yellow River"
+										},
+										{
+											"title":"Yangtze River"
+										},
+										{
+											"title":"Menkong River"
+										},
+										{
+											"title":"Red River"
+										},
+										{
+											"title":"Irrawaddy River"
+										},
+										{
+											"title":"Salween River"
+										},
+										{
+											"title":"Indus River"
+										},
+										{
+											"title":"Sutluj River"
+										},
+										{
+											"title":"Brahmaputra River"
+										},
+										{
+											"title":"Amu Darya River"
+										},
+										{
+											"title":"Syr Darya River"
+										}
+									]
+								},
+								{
+									"title":"Globe",
+									"list":[
+										{
+											"title":"Latitude"
+										},
+										{
+											"title":"Tropic of Cancer",
+											"list":[
+												{
+													"title":"Mexico"
+												},
+												{
+													"title":"Bahamas"
+												},
+												{
+													"title":"Western Sahara"
+												},
+												{
+													"title":"Mauritania"
+												},
+												{
+													"title":"Mali"
+												},
+												{
+													"title":"Algeria"
+												},
+												{
+													"title":"Niger"
+												},
+												{
+													"title":"Libya"
+												},
+												{
+													"title":"Egypt"
+												},
+												{
+													"title":"Saudi Arabia"
+												},
+												{
+													"title":"UAE"
+												},
+												{
+													"title":"Oman"
+												},
+												{
+													"title":"India"
+												},
+												{
+													"title":"Bangladesh"
+												},
+												{
+													"title":"Myanmar"
+												},
+												{
+													"title":"China"
+												},
+												{
+													"title":"Taiwan"
+												}
+											]
+										},
+										{
+											"title":"Equator",
+											"list":[
+												{
+													"title":"Ecuador"
+												},
+												{
+													"title":"Colombia"
+												},
+												{
+													"title":"Brazil"
+												},
+												{
+													"title":"Sao Tome and Principe"
+												},
+												{
+													"title":"Gabon"
+												},
+												{
+													"title":"Congo"
+												},
+												{
+													"title":"Dem. Rep. of Congo"
+												},
+												{
+													"title":"Uganda"
+												},
+												{
+													"title":"Kenya"
+												},
+												{
+													"title":"Somalia"
+												},
+												{
+													"title":"Maldives"
+												},
+												{
+													"title":"Indonesia"
+												},
+												{
+													"title":"Kiribati"
+												}
+											]
+										},
+										{
+											"title":"Tropic of Capricorn",
+											"list":[
+												{
+													"title":"Chile"
+												},
+												{
+													"title":"Argentina"
+												},
+												{
+													"title":"Paraguay"
+												},
+												{
+													"title":"Brazil"
+												},
+												{
+													"title":"Namibia"
+												},
+												{
+													"title":"Botswana"
+												},
+												{
+													"title":"South Africa"
+												},
+												{
+													"title":"Mozambique"
+												},
+												{
+													"title":"Madagascar"
+												},
+												{
+													"title":"Australia"
+												}
+											]
+										},
+										{
+											"title":"Longitude"
+										}
+									]
+								},
+								{
+									"title":"Groups",
+									"list":[
+										{
+											"title":"South Asian Association for Regional Co-operation (SAARC) {Kathmandu, Nepal} [8]"
+										},
+										{
+											"title":"Indian Sub-Continent [5]"
+										},
+										{
+											"title":"British Indian Ocean Territory (BIOT)"
+										},
+										{
+											"title":"Association of Southeast Asian Nations (ASEAN) {Jakarta, Java Is, Indonesia} [10]"
+										},
+										{
+											"title":"French East India (FEI) [3]"
+										},
+										{
+											"title":"East Asia [6]"
+										},
+										{
+											"title":"Asian Tigers [4]"
+										},
+										{
+											"title":"Central Asia [5]"
+										},
+										{
+											"title":"Middle East [17]"
+										},
+										{
+											"title":"Arabian Peninsula [7]"
+										},
+										{
+											"title":"Gulf Countries [8]"
+										},
+										{
+											"title":"Caucasus [3]"
+										},
+										{
+											"title":"Scandinavian [4]"
+										},
+										{
+											"title":"Nordic [5]"
+										},
+										{
+											"title":"Baltic [3]"
+										},
+										{
+											"title":"BeNeX [3]"
+										},
+										{
+											"title":"United Kingdom [4]"
+										},
+										{
+											"title":"Iberia Peninsula [2]"
+										},
+										{
+											"title":"Balkan Peninsula [12]"
+										},
+										{
+											"title":"Union of Soviet Socialist Republic (USSR) [15]"
+										},
+										{
+											"title":"Sahara Desert [12]"
+										},
+										{
+											"title":"Barbary States [3]"
+										},
+										{
+											"title":"Congo [2]"
+										},
+										{
+											"title":"Rhodesia [2]"
+										},
+										{
+											"title":"Zanzibar War [2]"
+										},
+										{
+											"title":"Victoria Lake [3]"
+										},
+										{
+											"title":"Horn of Africa [4]"
+										},
+										{
+											"title":"North America Free Trade Agreement (NAFTA) [3]"
+										},
+										{
+											"title":"Great Lake (HOMES) [5]"
+										},
+										{
+											"title":"Yucatan Peninsula [1]"
+										},
+										{
+											"title":"Andes Mountain Range [4]"
+										}
+									]
+								}
+							]
+						}
+					]
 				},
 				{
-					"title":"Indian Map"
+					"title":"Indian Map",
+					"list":[
+						{
+							"title":"States/UTs",
+							"list":[
+								{
+									"title":"J&K (Srinagar - Jammu) and Ladakh (Leh)"
+								},
+								{
+									"title":"Himachal Pradesh (Shimla)"
+								},
+								{
+									"title":"Punjab (Chandigarh)"
+								},
+								{
+									"title":"Haryana (Chandigarh)"
+								},
+								{
+									"title":"Chandigarh"
+								},
+								{
+									"title":"New Delhi"
+								},
+								{
+									"title":"Uttarakhand (Dehra Dun)"
+								},
+								{
+									"title":"Rajasthan (Jaipur)"
+								},
+								{
+									"title":"Gujarat (Gandhinagar)"
+								},
+								{
+									"title":"Dadra & Nagar Haveli and Daman & Diu"
+								},
+								{
+									"title":"Uttar Pradesh (Lucknow)"
+								},
+								{
+									"title":"Bihar (Patna)"
+								},
+								{
+									"title":"Jharkhand (Ranchi)"
+								},
+								{
+									"title":"West Bengal (Kolkata)"
+								},
+								{
+									"title":"Sikkim (Gangtok)"
+								},
+								{
+									"title":"Arunachal Pradesh (Itanagar)"
+								},
+								{
+									"title":"Nagaland (Kohima)"
+								},
+								{
+									"title":"Manipur (Imphal)"
+								},
+								{
+									"title":"Mizoram (Aizawl)"
+								},
+								{
+									"title":"Tripura (Agartala)"
+								},
+								{
+									"title":"Meghalaya (Shilong)"
+								},
+								{
+									"title":"Assam (Dispur)"
+								},
+								{
+									"title":"Madhya Pradesh (Bhopal)"
+								},
+								{
+									"title":"Chhattisgarh (Raipur)"
+								},
+								{
+									"title":"Odisha (Bhubaneshwar)"
+								},
+								{
+									"title":"Maharashtra (Mumbai)"
+								},
+								{
+									"title":"Goa (Panaji)"
+								},
+								{
+									"title":"Telangana (Hyderabad)"
+								},
+								{
+									"title":"Andhra Pradesh (Hyderabad)"
+								},
+								{
+									"title":"Karnataka (Begaluru)"
+								},
+								{
+									"title":"Kerala (Thiruvananthapuram)"
+								},
+								{
+									"title":"Tamil Nadu (Chennai)"
+								},
+								{
+									"title":"Puducherry"
+								},
+								{
+									"title":"Lakshadweep (Kavaratti)"
+								},
+								{
+									"title":"Andaman & Nicobar Islands (Port Blair)"
+								}
+							]
+						},
+						{
+							"title":"Indian Static GK",
+							"list":[
+								{
+									"title":"Globe",
+									"list":[
+										{
+											"title":"tropic of Cancer",
+											"list":[
+												{
+													"title":"Gujarat"
+												},
+												{
+													"title":"Rajasthan"
+												},
+												{
+													"title":"Madhya Pradesh"
+												},
+												{
+													"title":"Chhattisgarh"
+												},
+												{
+													"title":"Jharkhand"
+												},
+												{
+													"title":"West Bengal"
+												},
+												{
+													"title":"Tripura"
+												},
+												{
+													"title":"Mizoram"
+												}
+											]
+										},
+										{
+											"title":"82 ½° East Time Zone",
+											"list":[
+												{
+													"title":"Uttar Pradesh"
+												},
+												{
+													"title":"Madhya Pradesh"
+												},
+												{
+													"title":"Chhattisgarh"
+												},
+												{
+													"title":"Odisha"
+												},
+												{
+													"title":"Andhra Pradesh"
+												}
+											]
+										}
+									]
+								},
+								{
+									"title":"States Near Coastal Region",
+									"list":[
+										{
+											"title":"Gujarat"
+										},
+										{
+											"title":"Maharashtra"
+										},
+										{
+											"title":"Goa"
+										},
+										{
+											"title":"Karnataka"
+										},
+										{
+											"title":"Kerala"
+										},
+										{
+											"title":"Tamil Nadu"
+										},
+										{
+											"title":"Andhra Pradesh"
+										},
+										{
+											"title":"Odisha"
+										},
+										{
+											"title":"West Bengal"
+										}
+									]
+								},
+								{
+									"title":"8th Schedule Languages",
+									"list":[
+										{
+											"title":"Kashmir"
+										},
+										{
+											"title":"Sindhi"
+										},
+										{
+											"title":"Punjabi"
+										},
+										{
+											"title":"Hindi"
+										},
+										{
+											"title":"Bengali"
+										},
+										{
+											"title":"Assamese"
+										},
+										{
+											"title":"Odia"
+										},
+										{
+											"title":"Gujarat"
+										},
+										{
+											"title":"Marathi"
+										},
+										{
+											"title":"Kannada"
+										},
+										{
+											"title":"Telugu"
+										},
+										{
+											"title":"Tamil"
+										},
+										{
+											"title":"Malayalam"
+										},
+										{
+											"title":"Urdu"
+										},
+										{
+											"title":"Sanskrit"
+										},
+										{
+											"title":"Nepali"
+										},
+										{
+											"title":"Manipuri"
+										},
+										{
+											"title":"Konkani"
+										},
+										{
+											"title":"Bodo"
+										},
+										{
+											"title":"Dogri"
+										},
+										{
+											"title":"Maithili"
+										},
+										{
+											"title":"Santhali"
+										}
+									]
+								},
+								{
+									"title":"Mountains",
+									"list":[
+										{
+											"title":"Trans-Himalayan",
+											"list":[
+												{
+													"title":"Karakoram"
+												},
+												{
+													"title":"Ladakh"
+												},
+												{
+													"title":"Zanskar"
+												},
+												{
+													"title":"Pir Panjal"
+												}
+											]
+										},
+										{
+											"title":"Brihad-Himalayan"
+										},
+										{
+											"title":"Madya – Himalayan"
+										},
+										{
+											"title":"Shivalik – Himalayan"
+										},
+										{
+											"title":"Dhauladhar Mt"
+										},
+										{
+											"title":"Dafla, Miri, Abir, Mismi, Patkaigum Mt"
+										},
+										{
+											"title":"Naga Mt"
+										},
+										{
+											"title":"Mizo Mt"
+										},
+										{
+											"title":"Garo, Khasi, Jayantia Mt"
+										},
+										{
+											"title":"Aravalli Mt. Range (Mount Abu or Guru Sikhar & Raisina Hill)"
+										},
+										{
+											"title":"Girnar Mt. Range"
+										},
+										{
+											"title":"Raj Mahal Mt & Ramgarh Mt"
+										},
+										{
+											"title":"Vindhyachal Mt. Range"
+										},
+										{
+											"title":"Satpura Mt Range (Dhupgarh: 1350m)"
+										},
+										{
+											"title":"Ajanta Mt. Range"
+										},
+										{
+											"title":"Maikal Hills (Amarkantak)"
+										},
+										{
+											"title":"Western Ghat (Kalsubai: 1646m & Mahabaleshwar: 1353m)"
+										},
+										{
+											"title":"Eastern Ghat (Mahendragiri: 1501m)"
+										},
+										{
+											"title":"Nilgiri Mt. Range (Doddabetta Peak: 2637m)"
+										},
+										{
+											"title":"Annamalai Mt. Range (Anamudi: 2695m)"
+										},
+										{
+											"title":"Cardamom (Ilaichi) Mt. Range"
+										}
+									]
+								},
+								{
+									"title":"Pass",
+									"list":[
+										{
+											"title":"Jammu & Kashmir and Ladakh",
+											"list":[
+												{
+													"title":"Burzil Pass (POK – Sri Nagar)"
+												},
+												{
+													"title":"Karakoram Pass (India – China)"
+												},
+												{
+													"title":"Zojila Pass (Sri Nagar – Ladakh)"
+												},
+												{
+													"title":"Banihal Pass (Sri Nagar – Jammu)"
+												}
+											]
+										},
+										{
+											"title":"Himachal Pradesh",
+											"list":[
+												{
+													"title":"Baralacha La Pass (J&K – Himachal Pradesh)"
+												},
+												{
+													"title":"Shipli La Pass (India – Tibet)"
+												},
+												{
+													"title":"Rohtang La Pass (Punjab – Himachal Pradesh)"
+												}
+											]
+										},
+										{
+											"title":"Uttarakhand",
+											"list":[
+												{
+													"title":"Mana Pass (India – Tibet)"
+												},
+												{
+													"title":"Niti Pass (India – Tibet)"
+												},
+												{
+													"title":"Dharma Pass (India – Tibet)"
+												},
+												{
+													"title":"Lipulekh Pass or Tri Pass (India – Tibet & Nepal)"
+												}
+											]
+										},
+										{
+											"title":"Sikkim",
+											"list":[
+												{
+													"title":"Nathula Pass (India – Tibet)"
+												},
+												{
+													"title":"Jailepla Pass (India – Tibet)"
+												}
+											]
+										},
+										{
+											"title":"Arunachal Pradesh",
+											"list":[
+												{
+													"title":"Bomdila Pass (India – Tibet)"
+												},
+												{
+													"title":"Diphu Pass (India – Myanmar)"
+												},
+												{
+													"title":"Yang Yap Pass (India – Myanmar)"
+												}
+											]
+										},
+										{
+											"title":"Manipur",
+											"list":[
+												{
+													"title":"Tuju Pass (Manipur – Myanmar)"
+												}
+											]
+										},
+										{
+											"title":"Burhanpur Pass",
+											"list":[
+												{
+													"title":"North India – South India"
+												}
+											]
+										},
+										{
+											"title":"Mumbai",
+											"list":[
+												{
+													"title":"Thal Ghat Pass (Mumbai – Thane: Upward)"
+												},
+												{
+													"title":"Bhor Ghat Pass (Mumbai – Pune: Downward)"
+												}
+											]
+										},
+										{
+											"title":"Pal Ghat Pass",
+											"list":[
+												{
+													"title":"Kochi, Kerala – Coimbatore, Tamil Nadu"
+												}
+											]
+										},
+										{
+											"title":"Senkota Pass",
+											"list":[
+												{
+													"title":"Thiruvananthapuram, Kerala – Madurai, Tamil Nadu"
+												}
+											]
+										}
+									]
+								},
+								{
+									"title":"Sub-Continental Plateaus",
+									"list":[
+										{
+											"title":"Central Highland",
+											"list":[
+												{
+													"title":"Vindhyachal Plateau"
+												},
+												{
+													"title":"Malwa Plateau"
+												},
+												{
+													"title":"Bundelkhand Plateau"
+												},
+												{
+													"title":"Baghelkhand Plateau"
+												},
+												{
+													"title":"Chota Nagpur Plateau"
+												},
+												{
+													"title":"Meghalaya Plateau"
+												}
+											]
+										},
+										{
+											"title":"Deccan Plateau",
+											"list":[
+												{
+													"title":"Vidarbha Plateau"
+												},
+												{
+													"title":"Bastar Plateau or Dandakaranya Plateau"
+												},
+												{
+													"title":"Telangana Plateau"
+												},
+												{
+													"title":"Andhra Pradesh Plateau"
+												},
+												{
+													"title":"Dharwad Plateau"
+												}
+											]
+										},
+										{
+											"title":"Highest Plateau",
+											"list":[
+												{
+													"title":"Ladakh Plateau (part of Tibet Plateau)"
+												}
+											]
+										}
+									]
+								},
+								{
+									"title":"Himalayan or Folded Mt.",
+									"list":[
+										{
+											"title":"Himalayan Division (Traditionally)",
+											"list":[
+												{
+													"title":"Sachar Zone or Hinge Zone"
+												},
+												{
+													"title":"Main Central Thrust"
+												},
+												{
+													"title":"Great Boundary Fault"
+												}
+											]
+										},
+										{
+											"title":"Himalayan Division (According to Rivers)",
+											"list":[
+												{
+													"title":"Punjab Himalaya"
+												},
+												{
+													"title":"Kumaon Himalaya"
+												},
+												{
+													"title":"Nepal Himalaya"
+												},
+												{
+													"title":"Assam Himalaya"
+												}
+											]
+										}
+									]
+								},
+								{
+									"title":"Railway Zones & Divisions",
+									"list":[
+										{
+											"title":"Northern Zone (Delhi)"
+										},
+										{
+											"title":"Northern Middle Zone (Allahabad or Prayagraj)"
+										},
+										{
+											"title":"Southern Zone (Chennai)"
+										},
+										{
+											"title":"Southern Middle Zone (Secunderabad)"
+										},
+										{
+											"title":"Central Zone"
+										},
+										{
+											"title":"Eastern Zone (Kolkata)"
+										},
+										{
+											"title":"Eastern Middle Zone (Hajipur)"
+										},
+										{
+											"title":"Western Zone (Church Gate, Mumbai)"
+										},
+										{
+											"title":"Western Middle Zone (Jabalpur)"
+										},
+										{
+											"title":"North – East Zone (Gorakhpur)"
+										},
+										{
+											"title":"North – West Zone (Jaipur)"
+										},
+										{
+											"title":"South – East Zone (Kolkata)"
+										},
+										{
+											"title":"South – West Zone (Hubballi)"
+										},
+										{
+											"title":"Kolkata Metro (Kolkata)"
+										},
+										{
+											"title":"Southern Coast (Vishakhapatnam)"
+										},
+										{
+											"title":"Eastern Coast (Bhubaneshwar)"
+										},
+										{
+											"title":"North – East Border Zone (Maligaow, Guwahati)"
+										}
+									]
+								},
+								{
+									"title":"Coastal Plain & Coastal Lines",
+									"list":[
+										{
+											"title":"Overview"
+										},
+										{
+											"title":"Kathiawar Coast (Gujarat)"
+										},
+										{
+											"title":"Konkan Coast or Sahyadri Coast (Maharastra and Goa)"
+										},
+										{
+											"title":"Kannada Coast or Kanara Coast (Karnataka)"
+										},
+										{
+											"title":"Malabar Coast (Kerala)"
+										},
+										{
+											"title":"Coromandel Coast (Cauvery River to Krishna River)"
+										},
+										{
+											"title":"Eastern Coast of India (Krishna River to Mahanadi River)"
+										},
+										{
+											"title":"Utkal Coast (Mahanadi River to Hooghly River)"
+										}
+									]
+								},
+								{
+									"title":"Nuclear Reactors",
+									"list":[
+										{
+											"title":"Overview"
+										},
+										{
+											"title":"Narora Atomic Power Station (Bulandshahar, UP)."
+										},
+										{
+											"title":"Rawatbhata Atomic Power Plant or Rana Pratap (Kota, Rajasthan)"
+										},
+										{
+											"title":"Kakrapar Atomic Power Station (Near Tapti River, Gujarat)"
+										},
+										{
+											"title":"Tarapur Atomic Power Station (Tarapur, Maharastra)"
+										},
+										{
+											"title":"Atomic Power Station (Karnataka)"
+										},
+										{
+											"title":"Kalpakkam or Madras Atomic Power Station or Indira Gandhi (Chennai, Tamil Nadu)"
+										},
+										{
+											"title":"Kudankulam Nuclear Power Plant (Tamil Nadu)"
+										}
+									]
+								},
+								{
+									"title":"Seaports",
+									"list":[
+										{
+											"title":"Kandla Port or Deendayal Port Trust"
+										},
+										{
+											"title":"Pipavav Port"
+										},
+										{
+											"title":"Mundra Port"
+										},
+										{
+											"title":"Dahej Port"
+										},
+										{
+											"title":"Mumbai Port Trust"
+										},
+										{
+											"title":"JNPT – Jawaharlal Nehru Port Trust"
+										},
+										{
+											"title":"Mormugao Port"
+										},
+										{
+											"title":"Mangalore Port Trust"
+										},
+										{
+											"title":"Cochin Port Trust"
+										},
+										{
+											"title":"Tuticorin Port Trust"
+										},
+										{
+											"title":"Port of Chennai"
+										},
+										{
+											"title":"Ennore Port Trust"
+										},
+										{
+											"title":"Port of Vishakhapatnam"
+										},
+										{
+											"title":"Paradip Port"
+										},
+										{
+											"title":"Dhamra Port"
+										},
+										{
+											"title":"Kolkata Port"
+										},
+										{
+											"title":"Port Blair Port"
+										}
+									]
+								},
+								{
+									"title":"Indian Military",
+									"list":[
+										{
+											"title":"Indian Army",
+											"list":[
+												{
+													"title":"Para Special Force"
+												},
+												{
+													"title":"BSF"
+												},
+												{
+													"title":"ITBP"
+												},
+												{
+													"title":"SSB"
+												},
+												{
+													"title":"Assam Rifle"
+												}
+											]
+										},
+										{
+											"title":"Indian Navy",
+											"list":[
+												{
+													"title":"MARCOS"
+												}
+											]
+										},
+										{
+											"title":"Indian Air Force",
+											"list":[
+												{
+													"title":"Garud Commando Force"
+												}
+											]
+										},
+										{
+											"title":"CRPF"
+										},
+										{
+											"title":"CISF"
+										},
+										{
+											"title":"NSG"
+										},
+										{
+											"title":"SPG"
+										}
+									]
+								},
+								{
+									"title":"National Highways",
+									"list":[
+										{
+											"title":"NHAI - Overview"
+										},
+										{
+											"title":"NH–1"
+										},
+										{
+											"title":"NH–1A"
+										},
+										{
+											"title":"NH–2"
+										},
+										{
+											"title":"NH–3"
+										},
+										{
+											"title":"NH–4"
+										},
+										{
+											"title":"NH–5"
+										},
+										{
+											"title":"NH–6"
+										},
+										{
+											"title":"NH–7"
+										},
+										{
+											"title":"NH–8"
+										},
+										{
+											"title":"NH–9"
+										},
+										{
+											"title":"NH–10"
+										},
+										{
+											"title":"Golden Quadrilateral"
+										},
+										{
+											"title":"NH–44"
+										},
+										{
+											"title":"East – West Corridor"
+										},
+										{
+											"title":"NH–47A"
+										},
+										{
+											"title":"Facts related to NHAI"
+										}
+									]
+								},
+								{
+									"title":"National Waterways",
+									"list":[
+										{
+											"title":"NW–1"
+										},
+										{
+											"title":"NW-2"
+										},
+										{
+											"title":"NW-3"
+										},
+										{
+											"title":"NW-4"
+										},
+										{
+											"title":"NW-5 & NH-6"
+										}
+									]
+								},
+								{
+									"title":"National Parks",
+									"list":[
+										{
+											"title":"National Park - Overview"
+										},
+										{
+											"title":"Arunachal Pradesh",
+											"list":[
+												{
+													"title":"Namdapha National Park"
+												},
+												{
+													"title":"Dihang – Dibang Biosphere Reserve"
+												}
+											]
+										},
+										{
+											"title":"Assam",
+											"list":[
+												{
+													"title":"Kaziranga National Park"
+												},
+												{
+													"title":"Manas National Park"
+												},
+												{
+													"title":"Dibru Saikhowa National Park"
+												}
+											]
+										},
+										{
+											"title":"Meghalaya",
+											"list":[
+												{
+													"title":"Nokrek National Park"
+												}
+											]
+										},
+										{
+											"title":"Sikkim",
+											"list":[
+												{
+													"title":"Kanchenjunga National Park"
+												}
+											]
+										},
+										{
+											"title":"West Bengal",
+											"list":[
+												{
+													"title":"Sundarban National Park"
+												}
+											]
+										},
+										{
+											"title":"Odisha",
+											"list":[
+												{
+													"title":"Simlipal National Park"
+												},
+												{
+													"title":"Bhitarkanika National Park"
+												},
+												{
+													"title":"Gahirmatha Marine Wildlife Sanctuary"
+												}
+											]
+										},
+										{
+											"title":"Jharkhand",
+											"list":[
+												{
+													"title":"Betla National Park"
+												}
+											]
+										},
+										{
+											"title":"Bihar",
+											"list":[
+												{
+													"title":"Valmiki National Park"
+												},
+												{
+													"title":"Udaipur Wildlife Sanctuary"
+												}
+											]
+										},
+										{
+											"title":"Uttar Pradesh",
+											"list":[
+												{
+													"title":"Chandra Prabha Wildlife Sanctuary"
+												},
+												{
+													"title":"Dudhwa National Park"
+												}
+											]
+										},
+										{
+											"title":"Haryana",
+											"list":[
+												{
+													"title":"Sultanpur Bird Sanctuary"
+												}
+											]
+										},
+										{
+											"title":"Himachal Pradesh",
+											"list":[
+												{
+													"title":"Great Himalayan National Park"
+												}
+											]
+										},
+										{
+											"title":"Jammu & Kashmir",
+											"list":[
+												{
+													"title":"Salim Ali Bird Sanctuary or City Forest National Park"
+												},
+												{
+													"title":"Dachigram National Park"
+												},
+												{
+													"title":"Kishtwar National Park"
+												}
+											]
+										},
+										{
+											"title":"Uttarakhand",
+											"list":[
+												{
+													"title":"Valley of Flower National Park"
+												},
+												{
+													"title":"Rajaji National Park"
+												},
+												{
+													"title":"Nanda Devi National Park"
+												},
+												{
+													"title":"Jim Corbett National Park"
+												}
+											]
+										},
+										{
+											"title":"Rajasthan",
+											"list":[
+												{
+													"title":"Keoladeo National Park or Ghana National Park"
+												},
+												{
+													"title":"Sariska National Park"
+												},
+												{
+													"title":"Nahargarh National Park"
+												}
+											]
+										},
+										{
+											"title":"Madhya Pradesh",
+											"list":[
+												{
+													"title":"Kanha – Kisli National Park "
+												},
+												{
+													"title":"Bandhavgarh National Park"
+												},
+												{
+													"title":"Pench National Park"
+												}
+											]
+										},
+										{
+											"title":"Gujarat",
+											"list":[
+												{
+													"title":"Nal Sarovar Bird Sanctuary"
+												},
+												{
+													"title":"Gir National Park"
+												},
+												{
+													"title":"Marine National Park"
+												}
+											]
+										},
+										{
+											"title":"Chhattisgarh",
+											"list":[
+												{
+													"title":"Sanjay Gandhi National Park"
+												},
+												{
+													"title":"Kanger Ghati National Park"
+												},
+												{
+													"title":"Indravati National Park"
+												}
+											]
+										},
+										{
+											"title":"Karnataka",
+											"list":[
+												{
+													"title":"Bandipur National Park"
+												}
+											]
+										},
+										{
+											"title":"Andhra Pradesh",
+											"list":[
+												{
+													"title":"Sri Venkateswara National Park"
+												}
+											]
+										},
+										{
+											"title":"Tamil Nadu",
+											"list":[
+												{
+													"title":"Indira Gandhi Wildlife Sanctuary or Anamalai Tiger Reserve"
+												},
+												{
+													"title":"Gulf of Mannar Marine National Park"
+												}
+											]
+										},
+										{
+											"title":"Kerala",
+											"list":[
+												{
+													"title":"Periyar National Park"
+												},
+												{
+													"title":"Silent Valley National Park"
+												}
+											]
+										},
+										{
+											"title":"Maharastra",
+											"list":[
+												{
+													"title":"Nawegaon National Park "
+												}
+											]
+										}
+									]
+								},
+								{
+									"title":"Rivers",
+									"list":[
+										{
+											"title":"Rivers - Overview"
+										},
+										{
+											"title":"Himalayan (Glacier) Rivers",
+											"list":[
+												{
+													"title":"Indus River Basin"
+												},
+												{
+													"title":"Ganga River Basin"
+												},
+												{
+													"title":"Brahmaputra River Basin"
+												}
+											]
+										},
+										{
+											"title":"Sub – Continental Rivers",
+											"list":[
+												{
+													"title":"Flow towards Arabian Sea"
+												},
+												{
+													"title":"Flow towards Bay of Bengal"
+												}
+											]
+										}
+									]
+								},
+								{
+									"title":"Military Headquarters",
+									"list":[
+										{
+											"title":"Indian Army",
+											"list":[
+												{
+													"title":"Northern Command"
+												},
+												{
+													"title":"Training Command"
+												},
+												{
+													"title":"Western Command"
+												},
+												{
+													"title":"South – West Command"
+												},
+												{
+													"title":"Southern Command"
+												},
+												{
+													"title":"Central Command"
+												},
+												{
+													"title":"Eastern Command"
+												}
+											]
+										},
+										{
+											"title":"Indian Navy",
+											"list":[
+												{
+													"title":"Western Command"
+												},
+												{
+													"title":"Eastern Command"
+												},
+												{
+													"title":"Sothern Command"
+												}
+											]
+										},
+										{
+											"title":"Indian Airforce",
+											"list":[
+												{
+													"title":"Training Command"
+												},
+												{
+													"title":"Maintenance Command"
+												},
+												{
+													"title":"South – West Command"
+												},
+												{
+													"title":"Western Command"
+												},
+												{
+													"title":"Central Command"
+												},
+												{
+													"title":"Eastern Command"
+												},
+												{
+													"title":"Sothern Command"
+												}
+											]
+										}
+									]
+								},
+								{
+									"title":"Lakes",
+									"list":[
+										{
+											"title":"Jammu & Kashmir",
+											"list":[
+												{
+													"title":"Dal Lake"
+												},
+												{
+													"title":"Wular Lake"
+												},
+												{
+													"title":"Sheshnag Lake"
+												},
+												{
+													"title":"Anantnag Lake"
+												}
+											]
+										},
+										{
+											"title":"Ladakh",
+											"list":[
+												{
+													"title":"Pangong Lake"
+												}
+											]
+										},
+										{
+											"title":"Uttarakhand",
+											"list":[
+												{
+													"title":"Bhimtal Lake"
+												},
+												{
+													"title":"Dodital Lake"
+												},
+												{
+													"title":"Nainital Lake"
+												}
+											]
+										},
+										{
+											"title":"Himachal Pradesh",
+											"list":[
+												{
+													"title":"Chandra Taal"
+												},
+												{
+													"title":"Maharana Pratap Sagar"
+												}
+											]
+										},
+										{
+											"title":"Punjab",
+											"list":[
+												{
+													"title":"Harike"
+												}
+											]
+										},
+										{
+											"title":"Haryana",
+											"list":[
+												{
+													"title":"Brahma Sarovar"
+												}
+											]
+										},
+										{
+											"title":"Uttar Pradesh",
+											"list":[
+												{
+													"title":"Govind Bhallabh Pant Sagar"
+												}
+											]
+										},
+										{
+											"title":"Madhya Pradesh",
+											"list":[
+												{
+													"title":"Bhojtal"
+												}
+											]
+										},
+										{
+											"title":"Rajasthan",
+											"list":[
+												{
+													"title":"Sambhar Lake"
+												},
+												{
+													"title":"Pushkar Lake"
+												}
+											]
+										},
+										{
+											"title":"Bihar",
+											"list":[
+												{
+													"title":"Kanwar Lake"
+												}
+											]
+										},
+										{
+											"title":"Sikkim",
+											"list":[
+												{
+													"title":"Cholamu Lake"
+												}
+											]
+										},
+										{
+											"title":"Manipur",
+											"list":[
+												{
+													"title":"Loktak Lake"
+												}
+											]
+										},
+										{
+											"title":"Odisha",
+											"list":[
+												{
+													"title":"Chilika Lake"
+												}
+											]
+										},
+										{
+											"title":"Andhra Pradesh",
+											"list":[
+												{
+													"title":"Kolleru Lake"
+												},
+												{
+													"title":"Pulicat Lake"
+												}
+											]
+										},
+										{
+											"title":"Telangana",
+											"list":[
+												{
+													"title":"Hussain Sagar & Nizam Sagar"
+												}
+											]
+										},
+										{
+											"title":"Kerala",
+											"list":[
+												{
+													"title":"Vembanad Lake"
+												}
+											]
+										},
+										{
+											"title":"Maharastra",
+											"list":[
+												{
+													"title":"Lonar Lake"
+												}
+											]
+										}
+									]
+								},
+								{
+									"title":"Climates"
+								},
+								{
+									"title":"Soil"
+								},
+								{
+									"title":"Waterfalls",
+									"list":[
+										{
+											"title":"Jog Falls or Gerosoppa or Mahatma Gandhi Waterfall"
+										},
+										{
+											"title":"Gokak Falls"
+										},
+										{
+											"title":"Shivanasamudra Falls"
+										},
+										{
+											"title":"Yana Falls"
+										},
+										{
+											"title":"Dhuandhar Falls"
+										},
+										{
+											"title":"Chuliya Waterfall"
+										},
+										{
+											"title":"Punasa Waterfall"
+										},
+										{
+											"title":"Chitrakote Falls"
+										},
+										{
+											"title":"Hundru Waterfall"
+										}
+									]
+								}
+							]
+						}
+					]
 				}
 			]
 		},
