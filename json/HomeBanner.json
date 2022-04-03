@@ -1,0 +1,28 @@
+{
+    "home_banner":[
+        {
+            "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/OccasionOffer.png",
+            "cta":""
+        },
+        {
+            "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
+            "cta":"Syllabus"
+        },
+        {
+            "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/PYQ.png",
+            "cta":"Previous_Year_Questions"
+        },
+        {
+            "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/NCERT_Books.png",
+            "cta":"NCERT_Books"
+        },
+        {
+            "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Quiz.png",
+            "cta":"Quiz"
+        },
+        {
+            "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Notes.png",
+            "cta":"Short_Notes"
+        }
+    ]
+}
