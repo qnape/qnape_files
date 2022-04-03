@@ -2,6 +2,7 @@
 	"Short_Notes":[
 		{
 			"title":"History",
+			"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/short_notes-128.png",
 			"list":[
 				{
 					"title":"Pre-Historical Period",
@@ -662,6 +663,7 @@
 		},       
 		{
 			"title":"Polity",
+			"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/short_notes-128.png",
 			"list":[
 				{
 					"title":"Schedules",
@@ -1592,6 +1594,7 @@
 		},
 		{
 			"title":"Geography",
+			"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/short_notes-128.png",
 			"list":[
 				{
 					"title":"Astronomy",
@@ -1899,6 +1902,7 @@
 		},
 		{
 			"title":"Map",
+			"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/short_notes-128.png",
 			"list":[
 				{
 					"title":"World Map",
@@ -5008,6 +5012,7 @@
 		},
 		{
 			"title":"Economics",
+			"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/short_notes-128.png",
 			"list":[
 				{
 					"title":"Macro Economics"
