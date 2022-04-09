@@ -1,0 +1,54 @@
+{
+    "ProfileMainActivity":[
+        {
+            "title":"Basic Information",
+            "sub_title":"Name, Email, Type",
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/drawable/study-64.png"
+        },
+        {
+            "title":"Career Objective",
+            "sub_title":"Summerise your Career Perspective",
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/drawable/study-64.png"
+        },
+        {
+            "title":"Academics",
+            "sub_title":"10th, 12th, Graduation, PG, PhD",
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/drawable/study-64.png"
+        },
+        {
+            "title":"Experiences",
+            "sub_title":"Designation, Experience, Projects",
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/drawable/study-64.png"
+        },
+        {
+            "title":"Skills",
+            "sub_title":"Skill sets, Expertise Level",
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/drawable/study-64.png"
+        },
+        {
+            "title":"Certifications",
+            "sub_title":"Certified Certification List",
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/drawable/study-64.png"
+        },
+        {
+            "title":"KYC",
+            "sub_title":"Aadhar, Pan, Bank info",
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/drawable/study-64.png"
+        },
+        {
+            "title":"Wallet",
+            "sub_title":"Coins, Earning, Withdrawal",
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/drawable/study-64.png"
+        },
+        {
+            "title":"Plan Details",
+            "sub_title":"Free, Basic, Premium, Gold",
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/drawable/study-64.png"
+        },
+        {
+            "title":"Help?",
+            "sub_title":"24x7 Customer Support on WhatsApp",
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/drawable/study-64.png"
+        }
+    ]
+}
