@@ -47,7 +47,7 @@
                     "id":"1",
                     "title":"Prelims & Mains",
                     "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/JPSC_Syllabus.pdf"
                 }
             ]
         },
@@ -58,220 +58,25 @@
             "items":[
                 {
                     "id":"1",
-                    "title":"Prelims",
+                    "title":"RPSC Prelims English",
                     "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/RPSC_Prelims_Syllabus_English.pdf"
                 },
                 {
                     "id":"2",
-                    "title":"Mains",
+                    "title":"RPSC Mains English",
                     "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/RPSC_Mains_Syllabus_English.pdf"
                 },
                 {
                     "id":"3",
-                    "title":"Interview",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                }
-            ]
-        },
-        {
-            "id":"5",
-            "title":"UPPCS",
-            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-            "items":[
-                {
-                    "id":"1",
-                    "title":"Prelims",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                    "title":"RPSC Prelims Hindi",
+                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/RPSC_Prelims_Syllabus_Hindi.pdf"
                 },
                 {
-                    "id":"2",
-                    "title":"Mains",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                },
-                {
-                    "id":"3",
-                    "title":"Interview",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                }
-            ]
-        },
-        {
-            "id":"6",
-            "title":"JKPCS",
-            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-            "items":[
-                {
-                    "id":"1",
-                    "title":"Prelims",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                },
-                {
-                    "id":"2",
-                    "title":"Mains",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                },
-                {
-                    "id":"3",
-                    "title":"Interview",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                }
-            ]
-        },
-        {
-            "id":"7",
-            "title":"JKAS",
-            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-            "items":[
-                {
-                    "id":"1",
-                    "title":"Prelims",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                },
-                {
-                    "id":"2",
-                    "title":"Mains",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                },
-                {
-                    "id":"3",
-                    "title":"Interview",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                }
-            ]
-        },
-        {
-            "id":"8",
-            "title":"MPPSC",
-            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-            "items":[
-                {
-                    "id":"1",
-                    "title":"Prelims",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                },
-                {
-                    "id":"2",
-                    "title":"Mains",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                },
-                {
-                    "id":"3",
-                    "title":"Interview",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                }
-            ]
-        },
-        {
-            "id":"9",
-            "title":"HCS",
-            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-            "items":[
-                {
-                    "id":"1",
-                    "title":"Prelims",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                },
-                {
-                    "id":"2",
-                    "title":"Mains",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                },
-                {
-                    "id":"3",
-                    "title":"Interview",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                }
-            ]
-        },
-        {
-            "id":"10",
-            "title":"UKPCS",
-            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-            "items":[
-                {
-                    "id":"1",
-                    "title":"Prelims",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                },
-                {
-                    "id":"2",
-                    "title":"Mains",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                },
-                {
-                    "id":"3",
-                    "title":"Interview",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                }
-            ]
-        },
-        {
-            "id":"11",
-            "title":"WBCS",
-            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-            "items":[
-                {
-                    "id":"1",
-                    "title":"Prelims",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                },
-                {
-                    "id":"2",
-                    "title":"Mains",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                },
-                {
-                    "id":"3",
-                    "title":"Interview",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                }
-            ]
-        },
-        {
-            "id":"12",
-            "title":"TNPSC",
-            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-            "items":[
-                {
-                    "id":"1",
-                    "title":"Prelims",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                },
-                {
-                    "id":"2",
-                    "title":"Mains",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
-                },
-                {
-                    "id":"3",
-                    "title":"Interview",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/dummy.pdf"
+                    "id":"4",
+                    "title":"RPSC Mains Hindi",
+                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/RPSC_Mains_Syllabus_Hindi.pdf"
                 }
             ]
         }
