@@ -47,7 +47,7 @@
                     "id":"1",
                     "title":"Prelims & Mains",
                     "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/JPSC_Syllabus.pdf"
+                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/SyllabusItems/JPSC/JPSC_Syllabus.pdf"
                 }
             ]
         },
@@ -60,23 +60,23 @@
                     "id":"1",
                     "title":"RPSC Prelims English",
                     "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/RPSC_Prelims_Syllabus_English.pdf"
+                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/SyllabusItems/RPSC/RPSC_Prelims_Syllabus_English.pdf"
                 },
                 {
                     "id":"2",
                     "title":"RPSC Mains English",
                     "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/RPSC_Mains_Syllabus_English.pdf"
+                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/SyllabusItems/RPSC/RPSC_Mains_Syllabus_English.pdf"
                 },
                 {
                     "id":"3",
                     "title":"RPSC Prelims Hindi",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/RPSC_Prelims_Syllabus_Hindi.pdf"
+                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/SyllabusItems/RPSC/RPSC_Prelims_Syllabus_Hindi.pdf"
                 },
                 {
                     "id":"4",
                     "title":"RPSC Mains Hindi",
-                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/dummy_items/RPSC_Mains_Syllabus_Hindi.pdf"
+                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/SyllabusItems/RPSC/RPSC_Mains_Syllabus_Hindi.pdf"
                 }
             ]
         }
