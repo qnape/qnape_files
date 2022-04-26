@@ -1,11 +1,6 @@
 {
     "ProfileMainActivity":[
         {
-            "title":"Basic Information",
-            "sub_title":"Name, Email, Type",
-            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/drawable/study-64.png"
-        },
-        {
             "title":"Career Objective",
             "sub_title":"Summerise your Career Perspective",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/drawable/study-64.png"
