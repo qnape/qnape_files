@@ -3,32 +3,32 @@
         {
             "title":"Career Objective",
             "sub_title":"Summerise your Career Perspective",
-            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/drawable/study-64.png"
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/profile/career.png"
         },
         {
             "title":"Academics",
             "sub_title":"10th, 12th, Graduation, PG, PhD",
-            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/drawable/study-64.png"
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/profile/academics.png"
         },
         {
             "title":"Experiences",
             "sub_title":"Designation, Experience, Projects",
-            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/drawable/study-64.png"
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/profile/experiences.png"
         },
         {
             "title":"Skills",
             "sub_title":"Skill sets, Expertise Level",
-            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/drawable/study-64.png"
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/profile/skills.png"
         },
         {
             "title":"Certifications",
             "sub_title":"Certified Certification List",
-            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/drawable/study-64.png"
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/profile/certifications.png"
         },
         {
             "title":"Help?",
             "sub_title":"24x7 Customer Support on WhatsApp",
-            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/drawable/study-64.png"
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/profile/help.png"
         }
     ]
 }
