@@ -1,0 +1,20 @@
+{
+    "SocialHorizontal":[
+        {
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/social/qoura.png",
+            "url":"https://qnape.quora.com/"
+        },
+        {
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/social/twitter.png",
+            "url":"https://twitter.com/QnA_Pe"
+        },
+        {
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/social/facebook.png",
+            "url":"https://www.facebook.com/qnape.official"
+        },
+        {
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/social/linkedin.png",
+            "url":"https://www.linkedin.com/company/qnape/"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "SocialVertical":[
+        {
+            "title":"Check out our Youtube Channel",
+            "sub_title":"Get Free Video Lectures",
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/social/youtube.png",
+            "url":"https://www.youtube.com/channel/UCfPrcoTBefhFgEh8bOaxkVA"
+        },
+        {
+            "title":"Follow us on Instagram",
+            "sub_title":"Learn Current Affairs & Solve Quizzes",
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/social/instagram.png",
+            "url":"https://www.instagram.com/qnape.official/"
+        },
+        {
+            "title":"Join our Telegram Channel",
+            "sub_title":"Discussion podium for All",
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/social/telegram.png",
+            "url":"https://t.me/qnape"
+        },
+        {
+            "title":"Contact Us",
+            "sub_title":"Get full chat support for any queries you have",
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/social/whatsapp.png",
+            "url":"https://api.whatsapp.com/send?phone=919431957367&text=Hi%20QnAPe%20Team,%20I%20need%20help???"
+        }
+    ]
+}
