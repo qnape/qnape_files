@@ -4,10 +4,6 @@
             "date": "1 January",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_01_Jan.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -25,17 +21,13 @@
                 },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/ShortNotes.png",
-                "cta":"Short_Notes"
-            }
+                    "cta":"Short_Notes"
+                }
             ]
         },
         {
             "date": "2 January",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_02_Jan.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -62,10 +54,6 @@
             "date": "3 January",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_03_Jan.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -90,10 +78,6 @@
         {
             "date": "4 January",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_04_Jan.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -120,10 +104,6 @@
             "date": "5 January",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_05_Jan.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -148,10 +128,6 @@
         {
             "date": "6 January",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_06_Jan.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -178,10 +154,6 @@
             "date": "7 January",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_07_Jan.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -206,10 +178,6 @@
         {
             "date": "8 January",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_08_Jan.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -236,10 +204,6 @@
             "date": "9 January",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_09_Jan.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -264,10 +228,6 @@
         {
             "date": "10 January",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_10_Jan.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -294,10 +254,6 @@
             "date": "11 January",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_11_Jan.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -322,10 +278,6 @@
         {
             "date": "12 January",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_12_Jan.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -352,10 +304,6 @@
             "date": "13 January",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_13_Jan.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -380,10 +328,6 @@
         {
             "date": "14 January",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_14_Jan.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -410,10 +354,6 @@
             "date": "15 January",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_15_Jan.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -438,10 +378,6 @@
         {
             "date": "16 January",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_16_Jan.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -468,10 +404,6 @@
             "date": "17 January",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_17_Jan.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -496,10 +428,6 @@
         {
             "date": "18 January",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_18_Jan.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -526,10 +454,6 @@
             "date": "19 January",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_19_Jan.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -554,10 +478,6 @@
         {
             "date": "20 January",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_20_Jan.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -584,10 +504,6 @@
             "date": "21 January",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_21_Jan.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -612,10 +528,6 @@
         {
             "date": "22 January",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_22_Jan.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -642,10 +554,6 @@
             "date": "23 January",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_23_Jan.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -670,10 +578,6 @@
         {
             "date": "24 January",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_24_Jan.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -700,10 +604,6 @@
             "date": "25 January",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_25_Jan.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -728,10 +628,6 @@
         {
             "date": "26 January",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_26_Jan.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -758,10 +654,6 @@
             "date": "27 January",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_27_Jan.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -786,10 +678,6 @@
         {
             "date": "28 January",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_28_Jan.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -816,10 +704,6 @@
             "date": "29 January",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_29_Jan.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -845,10 +729,6 @@
             "date": "30 January",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_30_Jan.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -873,10 +753,6 @@
         {
             "date": "31 January",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_31_Jan.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -904,10 +780,6 @@
             "date": "1 February",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_01_Feb.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -932,10 +804,6 @@
         {
             "date": "2 February",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_02_Feb.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -962,10 +830,6 @@
             "date": "3 February",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_03_Feb.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -990,10 +854,6 @@
         {
             "date": "4 February",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_04_Feb.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -1020,10 +880,6 @@
             "date": "5 February",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_05_Feb.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -1048,10 +904,6 @@
         {
             "date": "6 February",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_06_Feb.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -1078,10 +930,6 @@
             "date": "7 February",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_07_Feb.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -1106,10 +954,6 @@
         {
             "date": "8 February",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_08_Feb.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -1136,10 +980,6 @@
             "date": "9 February",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_09_Feb.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -1164,10 +1004,6 @@
         {
             "date": "10 February",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_10_Feb.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -1194,10 +1030,6 @@
             "date": "11 February",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_11_Feb.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -1222,10 +1054,6 @@
         {
             "date": "12 February",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_12_Feb.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -1252,10 +1080,6 @@
             "date": "13 February",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_13_Feb.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -1280,10 +1104,6 @@
         {
             "date": "14 February",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_14_Feb.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -1310,10 +1130,6 @@
             "date": "15 February",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_15_Feb.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -1338,10 +1154,6 @@
         {
             "date": "16 February",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_16_Feb.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -1368,10 +1180,6 @@
             "date": "17 February",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_17_Feb.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -1396,10 +1204,6 @@
         {
             "date": "18 February",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_18_Feb.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -1426,10 +1230,6 @@
             "date": "19 February",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_19_Feb.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -1454,10 +1254,6 @@
         {
             "date": "20 February",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_20_Feb.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -1484,10 +1280,6 @@
             "date": "21 February",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_21_Feb.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -1512,10 +1304,6 @@
         {
             "date": "22 February",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_22_Feb.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -1542,10 +1330,6 @@
             "date": "23 February",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_23_Feb.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -1570,10 +1354,6 @@
         {
             "date": "24 February",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_24_Feb.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -1600,10 +1380,6 @@
             "date": "25 February",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_25_Feb.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -1628,10 +1404,6 @@
         {
             "date": "26 February",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_26_Feb.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -1658,10 +1430,6 @@
             "date": "27 February",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_27_Feb.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -1687,10 +1455,6 @@
             "date": "28 February",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_28Feb.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -1715,10 +1479,6 @@
         {
             "date": "29 February",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_29_Feb.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -1746,10 +1506,6 @@
             "date": "1 March",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_01_Mar.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -1774,10 +1530,6 @@
         {
             "date": "2 March",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_02_Mar.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -1804,10 +1556,6 @@
             "date": "3 March",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_03_Mar.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -1832,10 +1580,6 @@
         {
             "date": "4 March",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_04_Mar.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -1862,10 +1606,6 @@
             "date": "5 March",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_05_Mar.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -1890,10 +1630,6 @@
         {
             "date": "6 March",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_06_Mar.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -1920,10 +1656,6 @@
             "date": "7 March",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_07_Mar.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -1948,10 +1680,6 @@
         {
             "date": "8 March",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_08_Mar.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -1978,10 +1706,6 @@
             "date": "9 March",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_09_Mar.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -2006,10 +1730,6 @@
         {
             "date": "10 March",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_10_Mar.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -2036,10 +1756,6 @@
             "date": "11 March",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_11_Mar.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -2064,10 +1780,6 @@
         {
             "date": "12 March",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_12_Mar.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -2094,10 +1806,6 @@
             "date": "13 March",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_13_Mar.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -2122,10 +1830,6 @@
         {
             "date": "14 March",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_14_Mar.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -2152,10 +1856,6 @@
             "date": "15 March",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_15_Mar.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -2180,10 +1880,6 @@
         {
             "date": "16 March",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_16_Mar.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -2210,10 +1906,6 @@
             "date": "17 March",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_17_Mar.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -2238,10 +1930,6 @@
         {
             "date": "18 March",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_18_Mar.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -2268,10 +1956,6 @@
             "date": "19 March",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_19_Mar.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -2296,10 +1980,6 @@
         {
             "date": "20 March",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_20_Mar.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -2326,10 +2006,6 @@
             "date": "21 March",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_21_Mar.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -2354,10 +2030,6 @@
         {
             "date": "22 March",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_22_Mar.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -2384,10 +2056,6 @@
             "date": "23 March",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_23_Mar.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -2412,10 +2080,6 @@
         {
             "date": "24 March",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_24_Mar.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -2442,10 +2106,6 @@
             "date": "25 March",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_25_Mar.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -2470,10 +2130,6 @@
         {
             "date": "26 March",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_26_Mar.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -2500,10 +2156,6 @@
             "date": "27 March",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_27_Mar.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -2528,10 +2180,6 @@
         {
             "date": "28 March",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_28_Mar.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -2558,10 +2206,6 @@
             "date": "29 March",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_29_Mar.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -2587,10 +2231,6 @@
             "date": "30 March",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_30_Mar.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -2615,10 +2255,6 @@
         {
             "date": "31 March",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_31_Mar.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -2646,10 +2282,6 @@
             "date": "1 April",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_01_Apr.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -2674,10 +2306,6 @@
         {
             "date": "2 April",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_02_Apr.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -2704,10 +2332,6 @@
             "date": "3 April",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_03_Apr.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -2732,10 +2356,6 @@
         {
             "date": "4 April",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_04_Apr.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -2762,10 +2382,6 @@
             "date": "5 April",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_05_Apr.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -2790,10 +2406,6 @@
         {
             "date": "6 April",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_06_Apr.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -2820,10 +2432,6 @@
             "date": "7 April",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_07_Apr.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -2848,10 +2456,6 @@
         {
             "date": "8 April",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_08_Apr.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -2878,10 +2482,6 @@
             "date": "9 April",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_09_Apr.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -2906,10 +2506,6 @@
         {
             "date": "10 April",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_10_Apr.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -2936,10 +2532,6 @@
             "date": "11 April",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_11_Apr.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -2964,10 +2556,6 @@
         {
             "date": "12 April",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_12_Apr.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -2994,10 +2582,6 @@
             "date": "13 April",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_13_Apr.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -3022,10 +2606,6 @@
         {
             "date": "14 April",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_14_Apr.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -3052,10 +2632,6 @@
             "date": "15 April",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_15_Apr.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -3080,10 +2656,6 @@
         {
             "date": "16 April",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_16_Apr.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -3110,10 +2682,6 @@
             "date": "17 April",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_17_Apr.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -3138,10 +2706,6 @@
         {
             "date": "18 April",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_18_Apr.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -3168,10 +2732,6 @@
             "date": "19 April",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_19_Apr.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -3196,10 +2756,6 @@
         {
             "date": "20 April",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_20_Apr.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -3226,10 +2782,6 @@
             "date": "21 April",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_21Apr.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -3254,10 +2806,6 @@
         {
             "date": "22 April",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_22_Apr.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -3284,10 +2832,6 @@
             "date": "23 April",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_23_Apr.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -3312,10 +2856,6 @@
         {
             "date": "24 April",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_24_Apr.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -3342,10 +2882,6 @@
             "date": "25 April",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_25_Apr.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -3370,10 +2906,6 @@
         {
             "date": "26 April",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_26_Apr.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -3400,10 +2932,6 @@
             "date": "27 April",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_27_Apr.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -3428,10 +2956,6 @@
         {
             "date": "28 April",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_28_Apr.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -3458,10 +2982,6 @@
             "date": "29 April",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_29_Apr.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -3486,10 +3006,6 @@
         {
             "date": "30 April",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_30_Apr.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -3517,10 +3033,6 @@
             "date": "1 May",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_01_May.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -3545,10 +3057,6 @@
         {
             "date": "2 May",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_02_May.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -3575,10 +3083,6 @@
             "date": "3 May",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_03_May.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -3603,10 +3107,6 @@
         {
             "date": "4 May",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_04_May.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -3633,10 +3133,6 @@
             "date": "5 May",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_05_May.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -3661,10 +3157,6 @@
         {
             "date": "6 May",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_06_May.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -3691,10 +3183,6 @@
             "date": "7 May",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_07_May.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -3719,10 +3207,6 @@
         {
             "date": "8 May",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_08_May.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -3749,10 +3233,6 @@
             "date": "9 May",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_09_May.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -3777,10 +3257,6 @@
         {
             "date": "10 May",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_10_May.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -3807,10 +3283,6 @@
             "date": "11 May",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_11_May.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -3835,10 +3307,6 @@
         {
             "date": "12 May",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_12_May.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -3865,10 +3333,6 @@
             "date": "13 May",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_13_May.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -3893,10 +3357,6 @@
         {
             "date": "14 May",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_14_May.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -3923,10 +3383,6 @@
             "date": "15 May",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_15_May.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -3951,10 +3407,6 @@
         {
             "date": "16 May",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_16_May.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -3981,10 +3433,6 @@
             "date": "17 May",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_17_May.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -4009,10 +3457,6 @@
         {
             "date": "18 May",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_18_May.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -4039,10 +3483,6 @@
             "date": "19 May",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_19_May.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -4067,10 +3507,6 @@
         {
             "date": "20 May",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_20_May.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -4097,10 +3533,6 @@
             "date": "21 May",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_21_May.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -4125,10 +3557,6 @@
         {
             "date": "22 May",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_22_May.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -4155,10 +3583,6 @@
             "date": "23 May",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_23_May.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -4183,10 +3607,6 @@
         {
             "date": "24 May",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_24_May.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -4213,10 +3633,6 @@
             "date": "25 May",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_25_May.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -4241,10 +3657,6 @@
         {
             "date": "26 May",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_26_May.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -4271,10 +3683,6 @@
             "date": "27 May",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_27_May.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -4299,10 +3707,6 @@
         {
             "date": "28 May",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_28_May.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -4329,10 +3733,6 @@
             "date": "29 May",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_29_May.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -4358,10 +3758,6 @@
             "date": "30 May",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_30_May.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -4386,10 +3782,6 @@
         {
             "date": "31 May",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_31May.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -4417,10 +3809,6 @@
             "date": "1 June",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_01_Jun.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -4445,10 +3833,6 @@
         {
             "date": "2 June",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_02_Jun.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -4475,10 +3859,6 @@
             "date": "3 June",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_03_Jun.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -4503,10 +3883,6 @@
         {
             "date": "4 June",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_04_Jun.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -4533,10 +3909,6 @@
             "date": "5 June",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_05_Jun.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -4561,10 +3933,6 @@
         {
             "date": "6 June",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_06_Jun.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -4591,10 +3959,6 @@
             "date": "7 June",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_07_Jun.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -4619,10 +3983,6 @@
         {
             "date": "8 June",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_08_Jun.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -4649,10 +4009,6 @@
             "date": "9 June",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_09_Jun.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -4677,10 +4033,6 @@
         {
             "date": "10 June",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_10_Jun.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -4707,10 +4059,6 @@
             "date": "11 June",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_11_Jun.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -4735,10 +4083,6 @@
         {
             "date": "12 June",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_12_Jun.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -4765,10 +4109,6 @@
             "date": "13 June",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_13_Jun.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -4793,10 +4133,6 @@
         {
             "date": "14 June",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_14_Jun.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -4823,10 +4159,6 @@
             "date": "15 June",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_15_Jun.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -4851,10 +4183,6 @@
         {
             "date": "16 June",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_16_Jun.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -4881,10 +4209,6 @@
             "date": "17 June",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_17_Jun.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -4909,10 +4233,6 @@
         {
             "date": "18 June",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_18_Jun.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -4939,10 +4259,6 @@
             "date": "19 June",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_19_Jun.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -4967,10 +4283,6 @@
         {
             "date": "20 June",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_20_Jun.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -4997,10 +4309,6 @@
             "date": "21 June",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_21_Jun.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -5025,10 +4333,6 @@
         {
             "date": "22 June",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_22_Jun.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -5055,10 +4359,6 @@
             "date": "23 June",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_23_Jun.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -5083,10 +4383,6 @@
         {
             "date": "24 June",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_24_Jun.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -5113,10 +4409,6 @@
             "date": "25 June",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_25_Jun.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -5141,10 +4433,6 @@
         {
             "date": "26 June",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_26_Jun.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -5171,10 +4459,6 @@
             "date": "27 June",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_27_Jun.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -5199,10 +4483,6 @@
         {
             "date": "28 June",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_28_Jun.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -5229,10 +4509,6 @@
             "date": "29 June",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_29_Jun.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -5257,10 +4533,6 @@
         {
             "date": "30 June",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_30_Jun.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -5288,10 +4560,6 @@
             "date": "1 July",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_01_Jul.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -5316,10 +4584,6 @@
         {
             "date": "2 July",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_02_Jul.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -5346,10 +4610,6 @@
             "date": "3 July",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_03_Jul.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -5374,10 +4634,6 @@
         {
             "date": "4 July",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_04_Jul.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -5404,10 +4660,6 @@
             "date": "5 July",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_05_Jul.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -5432,10 +4684,6 @@
         {
             "date": "6 July",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_06_Jul.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -5462,10 +4710,6 @@
             "date": "7 July",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_07_Jul.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -5490,10 +4734,6 @@
         {
             "date": "8 July",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_08_Jul.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -5520,10 +4760,6 @@
             "date": "9 July",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_09_Jul.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -5548,10 +4784,6 @@
         {
             "date": "10 July",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_10_Jul.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -5578,10 +4810,6 @@
             "date": "11 July",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_11_Jul.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -5606,10 +4834,6 @@
         {
             "date": "12 July",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_12_Jul.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -5636,10 +4860,6 @@
             "date": "13 July",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_13_Jul.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -5664,10 +4884,6 @@
         {
             "date": "14 July",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_14_Jul.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -5694,10 +4910,6 @@
             "date": "15 July",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_15_Jul.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -5722,10 +4934,6 @@
         {
             "date": "16 July",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_16_Jul.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -5752,10 +4960,6 @@
             "date": "17 July",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_17_Jul.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -5780,10 +4984,6 @@
         {
             "date": "18 July",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_18_Jul.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -5810,10 +5010,6 @@
             "date": "19 July",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_19_Jul.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -5838,10 +5034,6 @@
         {
             "date": "20 July",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_20_Jul.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -5868,10 +5060,6 @@
             "date": "21 July",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_21_Jul.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -5896,10 +5084,6 @@
         {
             "date": "22 July",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_22_Jul.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -5926,10 +5110,6 @@
             "date": "23 July",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_23_Jul.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -5954,10 +5134,6 @@
         {
             "date": "24 July",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_24_Jul.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -5984,10 +5160,6 @@
             "date": "25 July",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_25_Jul.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -6012,10 +5184,6 @@
         {
             "date": "26 July",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_26_Jul.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -6042,10 +5210,6 @@
             "date": "27 July",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_27_Jul.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -6070,10 +5234,6 @@
         {
             "date": "28 July",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_28_Jul.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -6100,10 +5260,6 @@
             "date": "29 July",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_29_Jul.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -6129,10 +5285,6 @@
             "date": "30 July",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_30_Jul.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -6157,10 +5309,6 @@
         {
             "date": "31 July",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_31_Jul.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -6188,10 +5336,6 @@
             "date": "1 August",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_01_Aug.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -6216,10 +5360,6 @@
         {
             "date": "2 August",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_02_Aug.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -6246,10 +5386,6 @@
             "date": "3 August",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_03_Aug.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -6274,10 +5410,6 @@
         {
             "date": "4 August",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_04_Aug.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -6304,10 +5436,6 @@
             "date": "5 August",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_05_Aug.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -6332,10 +5460,6 @@
         {
             "date": "6 August",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_06_Aug.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -6362,10 +5486,6 @@
             "date": "7 August",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_07_Aug.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -6390,10 +5510,6 @@
         {
             "date": "8 August",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_08_Aug.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -6420,10 +5536,6 @@
             "date": "9 August",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_09_Aug.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -6448,10 +5560,6 @@
         {
             "date": "10 August",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_10_Aug.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -6478,10 +5586,6 @@
             "date": "11 August",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_11_Aug.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -6506,10 +5610,6 @@
         {
             "date": "12 August",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_12_Aug.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -6536,10 +5636,6 @@
             "date": "13 August",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_13_Aug.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -6564,10 +5660,6 @@
         {
             "date": "14 August",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_14_Aug.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -6594,10 +5686,6 @@
             "date": "15 August",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_15_Aug.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -6622,10 +5710,6 @@
         {
             "date": "16 August",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_16_Aug.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -6652,10 +5736,6 @@
             "date": "17 August",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_17_Aug.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -6680,10 +5760,6 @@
         {
             "date": "18 August",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_18_Aug.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -6710,10 +5786,6 @@
             "date": "19 August",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_19_Aug.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -6738,10 +5810,6 @@
         {
             "date": "20 August",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_20_Aug.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -6768,10 +5836,6 @@
             "date": "21 August",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_21_Aug.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -6796,10 +5860,6 @@
         {
             "date": "22 August",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_22_Aug.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -6826,10 +5886,6 @@
             "date": "23 August",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_23_Aug.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -6854,10 +5910,6 @@
         {
             "date": "24 August",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_24_Aug.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -6884,10 +5936,6 @@
             "date": "25 August",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_25_Aug.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -6912,10 +5960,6 @@
         {
             "date": "26 August",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_26_Aug.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -6942,10 +5986,6 @@
             "date": "27 August",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_27_Aug.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -6970,10 +6010,6 @@
         {
             "date": "28 August",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_28_Aug.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -7000,10 +6036,6 @@
             "date": "29 August",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_29_Aug.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -7029,10 +6061,6 @@
             "date": "30 August",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_30_Aug.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -7057,10 +6085,6 @@
         {
             "date": "31 August",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_31_Aug.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -7088,10 +6112,6 @@
             "date": "1 September",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_01_Sept.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -7116,10 +6136,6 @@
         {
             "date": "2 September",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_02_Sept.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -7146,10 +6162,6 @@
             "date": "3 September",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_03_Sept.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -7174,10 +6186,6 @@
         {
             "date": "4 September",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_04_Sept.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -7204,10 +6212,6 @@
             "date": "5 September",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_05_Sept.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -7232,10 +6236,6 @@
         {
             "date": "6 September",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_06_Sept.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -7262,10 +6262,6 @@
             "date": "7 September",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_07_Sept.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -7290,10 +6286,6 @@
         {
             "date": "8 September",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_08_Sept.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -7320,10 +6312,6 @@
             "date": "9 September",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_09_Sept.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -7348,10 +6336,6 @@
         {
             "date": "10 September",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_10_Sept.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -7378,10 +6362,6 @@
             "date": "11 September",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_11_Sept.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -7406,10 +6386,6 @@
         {
             "date": "12 September",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_12_Sept.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -7436,10 +6412,6 @@
             "date": "13 September",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_13_Sept.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -7464,10 +6436,6 @@
         {
             "date": "14 September",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_14_Sept.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -7494,10 +6462,6 @@
             "date": "15 September",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_15_Sept.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -7522,10 +6486,6 @@
         {
             "date": "16 September",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_16_Sept.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -7552,10 +6512,6 @@
             "date": "17 September",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_17_Sept.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -7580,10 +6536,6 @@
         {
             "date": "18 September",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_18_Sept.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -7610,10 +6562,6 @@
             "date": "19 September",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_19_Sept.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -7638,10 +6586,6 @@
         {
             "date": "20 September",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_20_Sept.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -7668,10 +6612,6 @@
             "date": "21 September",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_21_Sept.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -7696,10 +6636,6 @@
         {
             "date": "22 September",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_22_Sept.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -7726,10 +6662,6 @@
             "date": "23 September",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_23_Sept.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -7754,10 +6686,6 @@
         {
             "date": "24 September",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_24_Sept.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -7784,10 +6712,6 @@
             "date": "25 September",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_25_Sept.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -7812,10 +6736,6 @@
         {
             "date": "26 September",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_26_Sept.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -7842,10 +6762,6 @@
             "date": "27 September",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_27_Sept.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -7870,10 +6786,6 @@
         {
             "date": "28 September",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_28_Sept.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -7900,10 +6812,6 @@
             "date": "29 September",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_29_Sept.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -7928,10 +6836,6 @@
         {
             "date": "30 September",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_30_Sept.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -7959,10 +6863,6 @@
             "date": "1 October",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_01_Oct.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -7987,10 +6887,6 @@
         {
             "date": "2 October",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_02_Oct.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -8017,10 +6913,6 @@
             "date": "3 October",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_03_Oct.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -8045,10 +6937,6 @@
         {
             "date": "4 October",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_04_Oct.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -8075,10 +6963,6 @@
             "date": "5 October",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_05_Oct.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -8103,10 +6987,6 @@
         {
             "date": "6 October",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_06_Oct.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -8133,10 +7013,6 @@
             "date": "7 October",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_07_Oct.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -8161,10 +7037,6 @@
         {
             "date": "8 October",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_08_Oct.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -8191,10 +7063,6 @@
             "date": "9 October",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_09_Oct.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -8219,10 +7087,6 @@
         {
             "date": "10 October",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_10_Oct.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -8249,10 +7113,6 @@
             "date": "11 October",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_11_Oct.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -8277,10 +7137,6 @@
         {
             "date": "12 October",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_12_Oct.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -8307,10 +7163,6 @@
             "date": "13 October",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_13_Oct.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -8335,10 +7187,6 @@
         {
             "date": "14 October",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_14_Oct.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -8365,10 +7213,6 @@
             "date": "15 October",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_15_Oct.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -8393,10 +7237,6 @@
         {
             "date": "16 October",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_16_Oct.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -8423,10 +7263,6 @@
             "date": "17 October",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_17_Oct.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -8451,10 +7287,6 @@
         {
             "date": "18 October",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_18_Oct.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -8481,10 +7313,6 @@
             "date": "19 October",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_19_Oct.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -8509,10 +7337,6 @@
         {
             "date": "20 October",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_20_Oct.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -8539,10 +7363,6 @@
             "date": "21 October",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_21_Oct.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -8567,10 +7387,6 @@
         {
             "date": "22 October",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_22_Oct.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -8597,10 +7413,6 @@
             "date": "23 October",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_23_Oct.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -8625,10 +7437,6 @@
         {
             "date": "24 October",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_24_Oct.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -8655,10 +7463,6 @@
             "date": "25 October",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_25_Oct.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -8683,10 +7487,6 @@
         {
             "date": "26 October",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_26_Oct.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -8713,10 +7513,6 @@
             "date": "27 October",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_27_Oct.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -8741,10 +7537,6 @@
         {
             "date": "28 October",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_28_Oct.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -8771,10 +7563,6 @@
             "date": "29 October",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_29_Oct.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -8800,10 +7588,6 @@
             "date": "30 October",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_30_Oct.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -8828,10 +7612,6 @@
         {
             "date": "31 October",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_31_Oct.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -8859,10 +7639,6 @@
             "date": "1 November",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_01_Nov.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -8887,10 +7663,6 @@
         {
             "date": "2 November",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_02_Nov.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -8917,10 +7689,6 @@
             "date": "3 November",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_03_Nov.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -8945,10 +7713,6 @@
         {
             "date": "4 November",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_04_Nov.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -8975,10 +7739,6 @@
             "date": "5 November",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_05_Nov.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -9003,10 +7763,6 @@
         {
             "date": "6 November",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_06_Nov.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -9033,10 +7789,6 @@
             "date": "7 November",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_07_Nov.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -9061,10 +7813,6 @@
         {
             "date": "8 November",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_08_Nov.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -9091,10 +7839,6 @@
             "date": "9 November",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_09_Nov.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -9119,10 +7863,6 @@
         {
             "date": "10 November",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_10_Nov.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -9149,10 +7889,6 @@
             "date": "11 November",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_11_Nov.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -9178,10 +7914,6 @@
             "date": "12 November",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_12_Nov.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -9206,10 +7938,6 @@
         {
             "date": "13 November",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_13_Nov.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -9237,10 +7965,6 @@
             "date": "14 November",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_14_Nov.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -9265,10 +7989,6 @@
         {
             "date": "15 November",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_15_Nov.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -9295,10 +8015,6 @@
             "date": "16 November",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_16_Nov.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -9323,10 +8039,6 @@
         {
             "date": "17 November",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_17_Nov.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -9354,10 +8066,6 @@
             "date": "18 November",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_18_Nov.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -9382,10 +8090,6 @@
         {
             "date": "19 November",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_19_Nov.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -9412,10 +8116,6 @@
             "date": "20 November",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_20_Nov.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -9440,10 +8140,6 @@
         {
             "date": "21 November",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_21_Nov.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -9470,10 +8166,6 @@
             "date": "22 November",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_22_Nov.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -9498,10 +8190,6 @@
         {
             "date": "23 November",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_23_Nov.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -9528,10 +8216,6 @@
             "date": "24 November",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_24_Nov.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -9556,10 +8240,6 @@
         {
             "date": "25 November",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_25_Nov.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -9586,10 +8266,6 @@
             "date": "26 November",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_26_Nov.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -9614,10 +8290,6 @@
         {
             "date": "27 November",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_27_Nov.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -9644,10 +8316,6 @@
             "date": "28 November",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_28_Nov.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -9673,10 +8341,6 @@
             "date": "29 November",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_29_Nov.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -9701,10 +8365,6 @@
         {
             "date": "30 November",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_30_Nov.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -9732,10 +8392,6 @@
             "date": "1 December",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_01_Dec.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -9760,10 +8416,6 @@
         {
             "date": "2 December",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_02_Dec.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -9790,10 +8442,6 @@
             "date": "3 December",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_03_Dec.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -9818,10 +8466,6 @@
         {
             "date": "4 December",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_04_Dec.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -9848,10 +8492,6 @@
             "date": "5 December",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_05_Dec.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -9876,10 +8516,6 @@
         {
             "date": "6 December",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_06_Dec.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -9906,10 +8542,6 @@
             "date": "7 December",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_07_Dec.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -9934,10 +8566,6 @@
         {
             "date": "8 December",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_08_Dec.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -9964,10 +8592,6 @@
             "date": "9 December",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_09_Dec.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -9992,10 +8616,6 @@
         {
             "date": "10 December",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_10_Dec.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -10022,10 +8642,6 @@
             "date": "11 December",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_11_Dec.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -10050,10 +8666,6 @@
         {
             "date": "12 December",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_12_Dec.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -10080,10 +8692,6 @@
             "date": "13 December",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_13_Dec.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -10108,10 +8716,6 @@
         {
             "date": "14 December",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_14_Dec.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -10138,10 +8742,6 @@
             "date": "15 December",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_15_Dec.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -10166,10 +8766,6 @@
         {
             "date": "16 December",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_16_Dec.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -10196,10 +8792,6 @@
             "date": "17 December",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_17_Dec.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -10224,10 +8816,6 @@
         {
             "date": "18 December",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_18_Dec.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -10254,10 +8842,6 @@
             "date": "19 December",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_19_Dec.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -10282,10 +8866,6 @@
         {
             "date": "20 December",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_20_Dec.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -10312,10 +8892,6 @@
             "date": "21 December",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_21_Dec.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -10340,10 +8916,6 @@
         {
             "date": "22 December",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_22_Dec.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -10370,10 +8942,6 @@
             "date": "23 December",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_23_Dec.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -10398,10 +8966,6 @@
         {
             "date": "24 December",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_24_Dec.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -10428,10 +8992,6 @@
             "date": "25 December",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_25_Dec.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -10456,10 +9016,6 @@
         {
             "date": "26 December",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_26_Dec.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -10486,10 +9042,6 @@
             "date": "27 December",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_27_Dec.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -10514,10 +9066,6 @@
         {
             "date": "28 December",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_28_Dec.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
@@ -10544,10 +9092,6 @@
             "date": "29 December",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_29_Dec.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -10573,10 +9117,6 @@
             "date": "30 December",
             "banner_list":[
                 {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_30_Dec.png",
-                    "cta":""
-                },
-                {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
                 },
@@ -10601,10 +9141,6 @@
         {
             "date": "31 December",
             "banner_list":[
-                {
-                    "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/HomeBanner/Occasion_001_31_Dec.png",
-                    "cta":""
-                },
                 {
                     "banner":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/banners/Syllabus.png",
                     "cta":"Syllabus"
