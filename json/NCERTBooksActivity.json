@@ -305,6 +305,18 @@
                                     "title":"Lesson 5",
                                     "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
                                     "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C10_Geography_Lesson05.pdf"
+                                },
+                                {
+                                    "id":"7",
+                                    "title":"Lesson 6",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C10_Geography_Lesson06.pdf"
+                                },
+                                {
+                                    "id":"8",
+                                    "title":"Lesson 7",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C10_Geography_Lesson07.pdf"
                                 }
                             ]
                         }
@@ -317,7 +329,7 @@
                     "subject_list":[
                         {
                             "id":"1",
-                            "title":"Geography - Part 1",
+                            "title":"Geography - Part 1 - Fundamental of Physical Geography",
                             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
                             "book_list":[
                                 {
@@ -426,7 +438,7 @@
                         },
                         {
                             "id":"2",
-                            "title":"Geography - Part 2",
+                            "title":"Geography - Part 2 - India Physical Environment",
                             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
                             "book_list":[
                                 {
@@ -481,7 +493,7 @@
                         },
                         {
                             "id":"3",
-                            "title":"Geography - Part 3",
+                            "title":"Geography - Part 3 - Practical Work in Geography",
                             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
                             "book_list":[
                                 {
@@ -908,7 +920,7 @@
                     "subject_list":[
                         {
                             "id":"1",
-                            "title":"Geography - Part 1",
+                            "title":"Geography - Part 1 - Fundamentals of Human Geography",
                             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
                             "book_list":[
                                 {
@@ -981,7 +993,7 @@
                         },
                         {
                             "id":"2",
-                            "title":"Geography - Part 2",
+                            "title":"Geography - Part 2 - India People and Economy",
                             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
                             "book_list":[
                                 {
@@ -1066,7 +1078,7 @@
                         },
                         {
                             "id":"3",
-                            "title":"Geography - Part 3",
+                            "title":"Geography - Part 3 - Practical Work in Geography",
                             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
                             "book_list":[
                                 {
