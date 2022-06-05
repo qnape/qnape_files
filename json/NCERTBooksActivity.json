@@ -849,6 +849,67 @@
                                     "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C11_Economy_P1_Lesson10.pdf"
                                 }
                             ]
+                        },
+                        {
+                            "id":"8",
+                            "title":"Art & Culture - An Introduction to Indian Art",
+                            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Syllabus",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C11_ArtCulture_Syllabus.pdf"
+                                },
+                                {
+                                    "id":"2",
+                                    "title":"Lesson 1",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C11_ArtCulture_Lesson01.pdf"
+                                },
+                                {
+                                    "id":"3",
+                                    "title":"Lesson 2",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C11_ArtCulture_Lesson02.pdf"
+                                },
+                                {
+                                    "id":"4",
+                                    "title":"Lesson 3",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C11_ArtCulture_Lesson03.pdf"
+                                },
+                                {
+                                    "id":"5",
+                                    "title":"Lesson 4",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C11_ArtCulture_Lesson04.pdf"
+                                },
+                                {
+                                    "id":"6",
+                                    "title":"Lesson 5",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C11_ArtCulture_Lesson05.pdf"
+                                },
+                                {
+                                    "id":"7",
+                                    "title":"Lesson 6",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C11_ArtCulture_Lesson06.pdf"
+                                },
+                                {
+                                    "id":"8",
+                                    "title":"Lesson 7",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C11_ArtCulture_Lesson07.pdf"
+                                },
+                                {
+                                    "id":"9",
+                                    "title":"Lesson 8",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C11_ArtCulture_Lesson08.pdf"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -1422,6 +1483,231 @@
                                     "title":"Lesson 6",
                                     "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
                                     "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Economy_P2_Lesson06.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"11",
+                            "title":"Sociology - Part 1 - Indian Society",
+                            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Syllabus",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Sociology_P1_Syllabus.pdf"
+                                },
+                                {
+                                    "id":"2",
+                                    "title":"Lesson 1",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Sociology_P1_Lesson01.pdf"
+                                },
+                                {
+                                    "id":"3",
+                                    "title":"Lesson 2",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Sociology_P1_Lesson02.pdf"
+                                },
+                                {
+                                    "id":"4",
+                                    "title":"Lesson 3",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Sociology_P1_Lesson03.pdf"
+                                },
+                                {
+                                    "id":"5",
+                                    "title":"Lesson 4",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Sociology_P1_Lesson04.pdf"
+                                },
+                                {
+                                    "id":"6",
+                                    "title":"Lesson 5",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Sociology_P1_Lesson05.pdf"
+                                },
+                                {
+                                    "id":"7",
+                                    "title":"Lesson 6",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Sociology_P1_Lesson06.pdf"
+                                },
+                                {
+                                    "id":"8",
+                                    "title":"Lesson 7",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Sociology_P1_Lesson07.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"12",
+                            "title":"Sociology - Part 2 - Social Change and Development in India",
+                            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Syllabus",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Sociology_P2_Syllabus.pdf"
+                                },
+                                {
+                                    "id":"2",
+                                    "title":"Lesson 1",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Sociology_P2_Lesson01.pdf"
+                                },
+                                {
+                                    "id":"3",
+                                    "title":"Lesson 2",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Sociology_P2_Lesson02.pdf"
+                                },
+                                {
+                                    "id":"4",
+                                    "title":"Lesson 3",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Sociology_P2_Lesson03.pdf"
+                                },
+                                {
+                                    "id":"5",
+                                    "title":"Lesson 4",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Sociology_P2_Lesson04.pdf"
+                                },
+                                {
+                                    "id":"6",
+                                    "title":"Lesson 5",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Sociology_P2_Lesson05.pdf"
+                                },
+                                {
+                                    "id":"7",
+                                    "title":"Lesson 6",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Sociology_P2_Lesson06.pdf"
+                                },
+                                {
+                                    "id":"8",
+                                    "title":"Lesson 7",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Sociology_P2_Lesson07.pdf"
+                                },
+                                {
+                                    "id":"9",
+                                    "title":"Lesson 8",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Sociology_P2_Lesson08.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id":"13",
+                            "title":"Biology",
+                            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                            "book_list":[
+                                {
+                                    "id":"1",
+                                    "title":"Syllabus",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Biology_Syllabus.pdf"
+                                },
+                                {
+                                    "id":"2",
+                                    "title":"Lesson 1",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Biology_Lesson01.pdf"
+                                },
+                                {
+                                    "id":"3",
+                                    "title":"Lesson 2",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Biology_Lesson02.pdf"
+                                },
+                                {
+                                    "id":"4",
+                                    "title":"Lesson 3",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Biology_Lesson03.pdf"
+                                },
+                                {
+                                    "id":"5",
+                                    "title":"Lesson 4",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Biology_Lesson04.pdf"
+                                },
+                                {
+                                    "id":"6",
+                                    "title":"Lesson 5",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Biology_Lesson05.pdf"
+                                },
+                                {
+                                    "id":"7",
+                                    "title":"Lesson 6",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Biology_Lesson06.pdf"
+                                },
+                                {
+                                    "id":"8",
+                                    "title":"Lesson 7",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Biology_Lesson07.pdf"
+                                },
+                                {
+                                    "id":"9",
+                                    "title":"Lesson 8",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Biology_Lesson08.pdf"
+                                },
+                                {
+                                    "id":"10",
+                                    "title":"Lesson 9",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Biology_Lesson09.pdf"
+                                },
+                                {
+                                    "id":"11",
+                                    "title":"Lesson 10",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Biology_Lesson10.pdf"
+                                },
+                                {
+                                    "id":"12",
+                                    "title":"Lesson 11",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Biology_Lesson11.pdf"
+                                },
+                                {
+                                    "id":"13",
+                                    "title":"Lesson 12",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Biology_Lesson12.pdf"
+                                },
+                                {
+                                    "id":"14",
+                                    "title":"Lesson 13",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Biology_Lesson13.pdf"
+                                },
+                                {
+                                    "id":"15",
+                                    "title":"Lesson 14",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Biology_Lesson14.pdf"
+                                },
+                                {
+                                    "id":"16",
+                                    "title":"Lesson 15",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Biology_Lesson15.pdf"
+                                },
+                                {
+                                    "id":"17",
+                                    "title":"Lesson 16",
+                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
+                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_Biology_Lesson16.pdf"
                                 }
                             ]
                         }
