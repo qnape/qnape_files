@@ -329,7 +329,7 @@
                     "subject_list":[
                         {
                             "id":"1",
-                            "title":"Geography - Part 1 - Fundamental of Physical Geography",
+                            "title":"Geography - 01 - Fundamental of Physical Geography",
                             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
                             "book_list":[
                                 {
@@ -438,7 +438,7 @@
                         },
                         {
                             "id":"2",
-                            "title":"Geography - Part 2 - India Physical Environment",
+                            "title":"Geography - 02 - India Physical Environment",
                             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
                             "book_list":[
                                 {
@@ -493,7 +493,7 @@
                         },
                         {
                             "id":"3",
-                            "title":"Geography - Part 3 - Practical Work in Geography",
+                            "title":"Geography - 03 - Practical Work in Geography",
                             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
                             "book_list":[
                                 {
@@ -633,7 +633,7 @@
                         },
                         {
                             "id":"5",
-                            "title":"Polity - Part 1 - Political Theory",
+                            "title":"Polity - 01 - Political Theory",
                             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
                             "book_list":[
                                 {
@@ -706,7 +706,7 @@
                         },
                         {
                             "id":"6",
-                            "title":"Polity - Part 2 - Indian Constitution at Work",
+                            "title":"Polity - 02 - Indian Constitution at Work",
                             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
                             "book_list":[
                                 {
@@ -920,7 +920,7 @@
                     "subject_list":[
                         {
                             "id":"1",
-                            "title":"Geography - Part 1 - Fundamentals of Human Geography",
+                            "title":"Geography - 01 - Fundamentals of Human Geography",
                             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
                             "book_list":[
                                 {
@@ -993,7 +993,7 @@
                         },
                         {
                             "id":"2",
-                            "title":"Geography - Part 2 - India People and Economy",
+                            "title":"Geography - 02 - India People and Economy",
                             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
                             "book_list":[
                                 {
@@ -1078,7 +1078,7 @@
                         },
                         {
                             "id":"3",
-                            "title":"Geography - Part 3 - Practical Work in Geography",
+                            "title":"Geography - 03 - Practical Work in Geography",
                             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
                             "book_list":[
                                 {
@@ -1127,7 +1127,7 @@
                         },
                         {
                             "id":"4",
-                            "title":"History - Part 1 - Themes in Indian History",
+                            "title":"History - 01 - Themes in Indian History",
                             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
                             "book_list":[
                                 {
@@ -1164,7 +1164,7 @@
                         },
                         {
                             "id":"5",
-                            "title":"History - Part 2 - Themes in Indian History",
+                            "title":"History - 02 - Themes in Indian History",
                             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
                             "book_list":[
                                 {
@@ -1207,7 +1207,7 @@
                         },
                         {
                             "id":"6",
-                            "title":"History - Part 3 - Themes in Indian History",
+                            "title":"History - 03 - Themes in Indian History",
                             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
                             "book_list":[
                                 {
@@ -1256,7 +1256,7 @@
                         },
                         {
                             "id":"7",
-                            "title":"Polity - Part 1 - Contemporary World Politics",
+                            "title":"Polity - 01 - Contemporary World Politics",
                             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
                             "book_list":[
                                 {
@@ -1323,7 +1323,7 @@
                         },
                         {
                             "id":"8",
-                            "title":"Polity - Part 2 - Politics in India Since Independence",
+                            "title":"Polity - 02 - Politics in India Since Independence",
                             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
                             "book_list":[
                                 {
@@ -1390,7 +1390,7 @@
                         },
                         {
                             "id":"9",
-                            "title":"Economy - Part 1 - Indroductory Microeconomics",
+                            "title":"Economy - 01 - Indroductory Microeconomics",
                             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
                             "book_list":[
                                 {
@@ -1439,7 +1439,7 @@
                         },
                         {
                             "id":"10",
-                            "title":"Economy - Part 2 - Introductory Macroeconomics",
+                            "title":"Economy - 02 - Introductory Macroeconomics",
                             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
                             "book_list":[
                                 {
@@ -1488,7 +1488,7 @@
                         },
                         {
                             "id":"11",
-                            "title":"Sociology - Part 1 - Indian Society",
+                            "title":"Sociology - 01 - Indian Society",
                             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
                             "book_list":[
                                 {
@@ -1543,7 +1543,7 @@
                         },
                         {
                             "id":"12",
-                            "title":"Sociology - Part 2 - Social Change and Development in India",
+                            "title":"Sociology - 02 - Social Change and Development in India",
                             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
                             "book_list":[
                                 {
