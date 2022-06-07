@@ -32,9 +32,9 @@
         },
         {
             "id":"6",
-            "title":"Notes Builder",
+            "title":"Notes PDF",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/notes-128.png",
-            "cta":"Notes_Builder"
+            "cta":"Notes_PDF"
         }
     ]
 }
