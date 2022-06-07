@@ -1,0 +1,24 @@
+{
+    "Notes_PDF":[
+        {
+            "title":"History Notes",
+            "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/NotesPDF/History_en.pdf"
+        },
+        {
+            "title":"Polity Notes",
+            "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/NotesPDF/Polity_en.pdf"
+        },
+        {
+            "title":"Geography Notes",
+            "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/NotesPDF/Geography_en.pdf"
+        },
+        {
+            "title":"Indian Map Notes",
+            "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/NotesPDF/IndianMap_en.pdf"
+        },
+        {
+            "title":"World Map Notes",
+            "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/NotesPDF/WorldMap_en.pdf"
+        }
+    ]
+}
