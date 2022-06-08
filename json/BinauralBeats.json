@@ -3,47 +3,56 @@
         {
             "name": "Study",
             "sub_name": "Study like a Genius",
-            "link": "https://raw.githubusercontent.com/qnape/qnape_files/main/BinauralBeats/01_study_like_a_genius.mp3"
+            "link": "https://raw.githubusercontent.com/qnape/qnape_files/main/BinauralBeats/01_study_like_a_genius.mp3",
+            "video_link":"https://youtu.be/o6z4lbOih7k"
         },
         {
             "name": "Super Intelligence - Genius Frequency",
             "sub_name": "Genius Frequency",
-            "link": "https://raw.githubusercontent.com/qnape/qnape_files/main/BinauralBeats/02_super_intelligence_genius_frequency.mp3"
+            "link": "https://raw.githubusercontent.com/qnape/qnape_files/main/BinauralBeats/02_super_intelligence_genius_frequency.mp3",
+            "video_link":"https://youtu.be/95oJ6RTIDxc"
         },
         {
             "name": "Memory Power Increase",
             "sub_name": "Increase Memory Power",
-            "link": "https://raw.githubusercontent.com/qnape/qnape_files/main/BinauralBeats/03_memory_power_increase.mp3"
+            "link": "https://raw.githubusercontent.com/qnape/qnape_files/main/BinauralBeats/03_memory_power_increase.mp3",
+            "video_link":"https://youtu.be/o6z4lbOih7k"
         },
         {
             "name": "Concentration and Focus Music",
             "sub_name": "Laser Sharp Focus",
-            "link": "https://raw.githubusercontent.com/qnape/qnape_files/main/BinauralBeats/04_concentration_and_focus_music.mp3"
+            "link": "https://raw.githubusercontent.com/qnape/qnape_files/main/BinauralBeats/04_concentration_and_focus_music.mp3",
+            "video_link":"https://youtu.be/o6z4lbOih7k"
         },
         {
             "name": "Mood Enhancer",
             "sub_name": "Lift Up Your Mood",
-            "link": "https://raw.githubusercontent.com/qnape/qnape_files/main/BinauralBeats/05_mood_enhancer.mp3"
+            "link": "https://raw.githubusercontent.com/qnape/qnape_files/main/BinauralBeats/05_mood_enhancer.mp3",
+            "video_link":"https://youtu.be/95oJ6RTIDxc"
         },
         {
             "name": "Relaxation Music (Stress Relief)",
             "sub_name": "Ultimate Stress Relief",
-            "link": "https://raw.githubusercontent.com/qnape/qnape_files/main/BinauralBeats/06_relaxation_music_stress_relief.mp3"
+            "link": "https://raw.githubusercontent.com/qnape/qnape_files/main/BinauralBeats/06_relaxation_music_stress_relief.mp3",
+            "video_link":"https://youtu.be/o6z4lbOih7k"
         },
         {
             "name": "Sleep Music",
             "sub_name": "Sleep like Kumbhakarna",
-            "link": "https://raw.githubusercontent.com/qnape/qnape_files/main/BinauralBeats/07_sleep_music.mp3"
+            "link": "https://raw.githubusercontent.com/qnape/qnape_files/main/BinauralBeats/07_sleep_music.mp3",
+            "video_link":"https://youtu.be/o6z4lbOih7k"
         },
         {
             "name": "Meditation and All Chakras",
             "sub_name": "Unlock Subconscious Mind Power",
-            "link": "https://raw.githubusercontent.com/qnape/qnape_files/main/BinauralBeats/08_meditation_and_all_chakras.mp3"
+            "link": "https://raw.githubusercontent.com/qnape/qnape_files/main/BinauralBeats/08_meditation_and_all_chakras.mp3",
+            "video_link":"https://youtu.be/95oJ6RTIDxc"
         },
         {
             "name": "Magic Brain Sync",
             "sub_name": "Sync Both Hemispheres",
-            "link": "https://raw.githubusercontent.com/qnape/qnape_files/main/BinauralBeats/09_magic_brain_sync.mp3"
+            "link": "https://raw.githubusercontent.com/qnape/qnape_files/main/BinauralBeats/09_magic_brain_sync.mp3",
+            "video_link":"https://youtu.be/95oJ6RTIDxc"
         }
     ]
 }
