@@ -6,13 +6,12 @@
             "b_en":"Remains same",
             "c_en":"Increase heavily",
             "d_en":"Decreases a little bit",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
 		},       
 		{
 			"q_en":"What is the rank of India as per the global energy transition index, released in March 2019?",
@@ -20,13 +19,12 @@
             "b_en":"68",
             "c_en":"76",
             "d_en":"76",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
 		},       
 		{
 			"q_en":"Great Barrier Reef is located parallel to the ______ coast of Australia.",
@@ -34,13 +32,12 @@
             "b_en":"South",
             "c_en":"East",
             "d_en":"West",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"Which of the following Charter Acts changed the designation of Governor-General of Bengal to Governor General of India?",
@@ -48,13 +45,12 @@
             "b_en":"Charter Act of 1833",
             "c_en":"Charter Act of 1853",
             "d_en":"Charter Act of 1773",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"Which of the following is correctly matched with regard to thermal power projects?",
@@ -62,13 +58,12 @@
             "b_en":"Ramagundam - Tamilnadu",
             "c_en":"Talcher - Andhra Pradesh",
             "d_en":"Kawas - Gujarat",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },       
         {
             "q_en":"A person who is not a member of State Legislature can be appointed as Chief Minister for _______, within which time, he should be elected to state legislature, failing which he ceases to be Chief Minister.",
@@ -76,13 +71,12 @@
             "b_en":"6 Months",
             "c_en":"3 Months",
             "d_en":"2 Months",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"When light travels obliquely from one medium to another, the direction of propagation of light in the second medium changes. The phenomenon is known as -",
@@ -90,13 +84,12 @@
             "b_en":"Reflection",
             "c_en":"Scattering",
             "d_en":"Polarization",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"Through which of the following amendment act constitution 'Socialist, secular and integrity added to the preamble'?",
@@ -104,13 +97,12 @@
             "b_en":"39th Constitutional amendment act, 1975",
             "c_en":"42nd Constitutional amendment act, 1976",
             "d_en":"43rd Constitutional amendment act, 1977",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },
         {
             "q_en":"Jelep La pass is located in",
@@ -118,13 +110,12 @@
             "b_en":"Sikkim Himalaya",
             "c_en":"Kumaon Himalaya",
             "d_en":"Kashmir Himalaya",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },
         {
             "q_en":"For which of the following colours light shows the least scattering?",
@@ -132,13 +123,12 @@
             "b_en":"Blue",
             "c_en":"Green",
             "d_en":"Red",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },
         {
 			"q_en":"GDKP (Gross Domestic Knowledge Product) term was coined by whom?",
@@ -146,13 +136,12 @@
             "b_en":"Kimi Raikkonen",
             "c_en":"Andrew Harris",
             "d_en":"Marat safin",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
 		},       
 		{
 			"q_en":"Which of the following is a helicopter launched version of the Nag Anti-tank guided missile?",
@@ -160,13 +149,12 @@
             "b_en":"Amogha",
             "c_en":"Lakshya",
             "d_en":"Helina",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
 		},       
 		{
 			"q_en":"On the ocassion of the National Sports Day, players were awarded. Who among the following were awarded with Arjun Award in 2019? \n1. Ravindra Jadeja\n2.Pramod Bhagat\n3. Swapna Burman\n4. Gaurav Singh Gill",
@@ -174,13 +162,12 @@
             "b_en":"Only 1, 2 & 3",
             "c_en":"Only 2, 3 & 4",
             "d_en":"All 1, 2, 3 & 4",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },       
         {
             "q_en":"The third battle of Panipat was fought between which of the following two?",
@@ -188,13 +175,12 @@
             "b_en":"Akbar and Hem Chandra Vikramaditya",
             "c_en":"Sikhs and Mughals",
             "d_en":"Maratha Empire and Durrani Empire",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },       
         {
             "q_en":"'Namaste Shalom', is a magazine devoted to _________ relations.",
@@ -202,13 +188,12 @@
             "b_en":"India-Israel",
             "c_en":"India-Sri Lanka",
             "d_en":"India-Laos",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"The longest river of peninsular India is-",
@@ -216,13 +201,12 @@
             "b_en":"Tapti",
             "c_en":"Narmada",
             "d_en":"Godavari",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },       
         {
             "q_en":"Who among the following was given the title of 'Burhan-ul-Mulk' by the Mughal emperor?",
@@ -230,13 +214,12 @@
             "b_en":"Nadir Shah",
             "c_en":"Ahmed Shah Abdali",
             "d_en":"Safdar Jung",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"'Nimari' is a breed of -",
@@ -244,13 +227,12 @@
             "b_en":"Goat",
             "c_en":"Cow",
             "d_en":"Buffalo",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },
         {
             "q_en":"Which is the supreme institution of law making in India?",
@@ -258,13 +240,12 @@
             "b_en":"Parliament",
             "c_en":"Supreme Court",
             "d_en":"Election Commission of India",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },
         {
             "q_en":"In Which of the following states is Murlen National Park Located?",
@@ -272,13 +253,12 @@
             "b_en":"Mizoram",
             "c_en":"Meghalaya",
             "d_en":"Manipur",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },
         {
 		    "q_en":"Which of the following statement regarding Deputy Speaker of Lok Sabha, is NOT true?",
@@ -286,13 +266,12 @@
             "b_en":"Deputy Speaker remains in office during the term of Lok Sabha",
             "c_en":"The Deputy Speaker performs the duties of Speaker's office when it is vacant",
             "d_en":"The Deputy Speaker while presiding over the house can vote in the first instance.",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
 		},       
 		{
 			"q_en":"When is the National Voters' Day (NVD) observed in India?",
@@ -300,13 +279,12 @@
             "b_en":"25 January",
             "c_en":"26 January",
             "d_en":"27 January",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
 		},       
 		{
 			"q_en":"Who is the first Hindu Woman Judge of Pakistan?",
@@ -314,13 +292,12 @@
             "b_en":"Suman Kumari",
             "c_en":"Arunima Sinha",
             "d_en":"Roma",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"What is the name of the podcast app launched by CBSE in March 2019?",
@@ -328,13 +305,12 @@
             "b_en":"Vidya Vani",
             "c_en":"Gyaan Ghoshna",
             "d_en":"Shiksha Ghoshna",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"K.K. Venugopal is holding which of the following important posts in India?",
@@ -342,13 +318,12 @@
             "b_en":"Solicitor General",
             "c_en":"Director, CBI",
             "d_en":"Commissioner, CVC",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },
         {
 			"q_en":"1 ohm = 1 Volt / _____, Fill in the blank.",
@@ -356,13 +331,12 @@
             "b_en":"1/2 ampere",
             "c_en":"2 ampere",
             "d_en":"30.5 ampere",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
 		},       
 		{
 			"q_en":"A Money Bill can be introduced in the state legislature on the recommendation of which of the following?",
@@ -370,13 +344,12 @@
             "b_en":"Speaker",
             "c_en":"Chief Minister",
             "d_en":"Governor",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
 		},       
 		{
 			"q_en":"Who was the Chairman of ISRO when Chandayan-II was launched?",
@@ -384,13 +357,12 @@
             "b_en":"K. Sivan",
             "c_en":"Shailesh Nayak",
             "d_en":"K. Radhakrishnan",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"Gandhi-Irwin pact was signed in which year?",
@@ -398,13 +370,12 @@
             "b_en":"1928 AD",
             "c_en":"1932 AD",
             "d_en":"1942 AD",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"Which of the following artery/vein carries deoxygenated blood?",
@@ -412,13 +383,12 @@
             "b_en":"Pulmonary vein",
             "c_en":"Aorta",
             "d_en":"Renal artery",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"Provisions related to disqualification of the Members of Parliament and State Legislatures on the grounds of defection. Under which of the following schedules of the Indian constitution do the given lines come?",
@@ -426,13 +396,12 @@
             "b_en":"5th schedule",
             "c_en":"6th schedule",
             "d_en":"10th schedule",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },       
         {
             "q_en":"What is the process by which a gas is converted into a solid?",
@@ -440,13 +409,12 @@
             "b_en":"Sublimation",
             "c_en":"Vaporisation",
             "d_en":"Freezing",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"The outermost layer of alimentary canal is called -",
@@ -454,13 +422,12 @@
             "b_en":"Muscularis",
             "c_en":"Mucosa",
             "d_en":"Lumen",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },
         {
             "q_en":"Molecules of carbon are held together by which of the following bonds in Graphite?",
@@ -468,13 +435,12 @@
             "b_en":"Hydrogen bond",
             "c_en":"Covalent bond",
             "d_en":"Van der Walls bond",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },
         {
             "q_en":"Who has been appointed as the Chief Minister of Goa after Manohar Parrikar?",
@@ -482,13 +448,12 @@
             "b_en":"Vijay Sardesai",
             "c_en":"Pramod Sawant",
             "d_en":"Shripad Nayak",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },
         {
 			"q_en":"An electric motor is a device that converts electrical energy mainly in to ______ energy.",
@@ -496,13 +461,12 @@
             "b_en":"Heating",
             "c_en":"Mechanical",
             "d_en":"Chemical",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
 		},       
 		{
 			"q_en":"Zagros Mountains are situated in -",
@@ -510,13 +474,12 @@
             "b_en":"Iraq",
             "c_en":"Syria",
             "d_en":"Yemen",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
 		},       
 		{
 			"q_en":"A train 250 meters long passes a pole in 12 seconds. The speed of train is∶",
@@ -524,13 +487,12 @@
             "b_en":"68 km/hr",
             "c_en":"72 km/hr",
             "d_en":"75 km/hr",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },       
         {
             "q_en":"Who among the following introduced reforms regarding 'Suppressive of Thugi'?",
@@ -538,13 +500,12 @@
             "b_en":"Lord Lytton",
             "c_en":"William Bentinck",
             "d_en":"Lord Dalhousie",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },       
         {
             "q_en":"In September 2019, Governors of few States were changed. Which of the following pair of State and new governor are not correctly matched?\n1. Kalraj Mishra - Rajasthan\n2. Arif Mohammad Khan - Maharashtra\n3. Bhagat Singh Koshyari - Kerala\n4. T. Sunder Rajan - Telangana",
@@ -552,13 +513,12 @@
             "b_en":"Only 2 and 3",
             "c_en":"Only 1 & 2",
             "d_en":"Only 1 & 4",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"Udaypur Wildlife Sanctuary is in which of the following state?",
@@ -566,13 +526,12 @@
             "b_en":"Rajasthan",
             "c_en":"Bihar",
             "d_en":"Gujarat",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },       
         {
             "q_en":"How much time can be banned by the Rajya Sabha on the money bill?",
@@ -580,13 +539,12 @@
             "b_en":"14 Days",
             "c_en":"180 days",
             "d_en":"30 days",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"2018 Commonwealth Games was held in",
@@ -594,13 +552,12 @@
             "b_en":"South Africa",
             "c_en":"England",
             "d_en":"Australia",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },
         {
             "q_en":"Which of the following dance form is not related to Kerala?",
@@ -608,13 +565,12 @@
             "b_en":"Kathakali",
             "c_en":"Mohiniattam",
             "d_en":"Koodiyattam",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },
         {
             "q_en":"Which of the following part of a flower is not a reproductive organ?",
@@ -622,13 +578,12 @@
             "b_en":"Style",
             "c_en":"Anther",
             "d_en":"Sepal",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },
         {
 			"q_en":"Which of the following was not conferred with 'Bharat Ratna' the country's highest civilian award?",
@@ -636,13 +591,12 @@
             "b_en":"Bhupen Hazarika",
             "c_en":"Deendayal Upadhyay",
             "d_en":"Nanaji Deshmukh",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
 		},       
 		{
 			"q_en":"'# Power of 18' was launched by which of the following Social Media Sites?",
@@ -650,13 +604,12 @@
             "b_en":"WhatsApp",
             "c_en":"Twitter",
             "d_en":"Instagram",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
 		},       
 		{
 			"q_en":"Who will develop Uttarakhand's first tulip garden under its corporate social responsibility programme?",
@@ -664,13 +617,12 @@
             "b_en":"ONGC",
             "c_en":"NTPC",
             "d_en":"SAIL",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"Mars rover mission by NASA's Mars exploration program planned to launch in which of the following year?",
@@ -678,13 +630,12 @@
             "b_en":"2021",
             "c_en":"2022",
             "d_en":"2023",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"Which of the following is a local wind of USA?",
@@ -692,13 +643,12 @@
             "b_en":"Foehn",
             "c_en":"Harmattan",
             "d_en":"Mistral",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },
         {
 			"q_en":"The Nagarjunasagar Project is situated on which of the following rivers?",
@@ -706,13 +656,12 @@
             "b_en":"Godavari",
             "c_en":"Krishna",
             "d_en":"Tungbhadra",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
 		},       
 		{
 			"q_en":"Consider the following Mangrove areas -\n1.  Bhitarkanika\n2. Pichavaram\n3.  Coondapur\nWhich among the above is / are situated on eastern coast of India?",
@@ -720,13 +669,12 @@
             "b_en":"1 & 2",
             "c_en":"1 & 3",
             "d_en":"1, 2 & 3",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
 		},       
 		{
 			"q_en":"Which edition of the LAWASIA Human Rights Conference was hosted in New Delhi from 9-10 February 2019?",
@@ -734,13 +682,12 @@
             "b_en":"2nd",
             "c_en":"3rd",
             "d_en":"4th",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"Who was the 23rd Tirthankara of Jainism?",
@@ -748,13 +695,12 @@
             "b_en":"Parsvanatha",
             "c_en":"Ajitanatha",
             "d_en":"Mahavira",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"Which of the following will be the mascot for the 2022 Winter Olympics?",
@@ -762,13 +708,12 @@
             "b_en":"Miraitowa",
             "c_en":"Soohorang",
             "d_en":"Miga",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"Who among the following was the third Jain Tirthankara?",
@@ -776,13 +721,12 @@
             "b_en":"Ajitnath",
             "c_en":"Sambhavnath",
             "d_en":"Sumatinath",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },       
         {
             "q_en":"The first Lokpal Bill was introduced in the Parliament in -",
@@ -790,13 +734,12 @@
             "b_en":"1967",
             "c_en":"1968",
             "d_en":"1972",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },       
         {
             "q_en":"Recently a traditional sweet in Tamil Nadu received the GI tag (Geographical Indication Tag), what is the name of that sweet?",
@@ -804,13 +747,12 @@
             "b_en":"Mysore Pak",
             "c_en":"Boorelu",
             "d_en":"SrivilliputhurPalkova",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },
         {
             "q_en":"Which of the following pairs of Sportsperson and related sport are not correctly matched?\n1. Elise Mertens - Tennis\n2. Divij Sharan - Polo\n3. Arjun Azad - cricket\n4. Simona Halep - Hockey",
@@ -818,13 +760,12 @@
             "b_en":"Only 2 & 4",
             "c_en":"Only 1 & 3",
             "d_en":"Only 3 & 4",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },
         {
             "q_en":"Rabindranath Tagore gave up his knighthood because of:",
@@ -832,13 +773,12 @@
             "b_en":"Brutal suppression of civil disobedience",
             "c_en":"Execution of Bhagat Singh",
             "d_en":"Chauri-Chaura incident",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },
         {
 			"q_en":"When was the Battle of 'Shakar - Kheda' fought?",
@@ -846,13 +786,12 @@
             "b_en":"11 October, 1824",
             "c_en":"11 October, 1724",
             "d_en":"11 October, 1757",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
 		},       
 		{
 			"q_en":"Who is the author of the book 'Hit Refresh'?",
@@ -860,13 +799,12 @@
             "b_en":"Steve Jobs",
             "c_en":"Satya Nadella",
             "d_en":"Steve Ballmer",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
 		},       
 		{
 			"q_en":"According to the Constitution of India prohibition of human trafficking and forced labor is mentioned in which of the following Articles?",
@@ -874,13 +812,12 @@
             "b_en":"Article 24",
             "c_en":"Article 25",
             "d_en":"Article 26",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"Which of the following is correct about Ibn Battuta?\n(i) He was from Morocco.\n(ii) He visited India during the time of Muhammad-bin-Tughlaq.\n(iii) He wrote 'Rihla'",
@@ -888,13 +825,12 @@
             "b_en":"Only (ii) and (iii)",
             "c_en":"Only (i) and (iii)",
             "d_en":"All are true",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },       
         {
             "q_en":"The committee/s regarding the electoral reform/s is/are -\na. Dinesh Goswami Committee\nb. Indrajit Gupta Committee",
@@ -902,13 +838,12 @@
             "b_en":"Only b",
             "c_en":"Both a and b",
             "d_en":"None of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"Who was the founder of the newspaper 'Indian Opinion'?",
@@ -916,13 +851,12 @@
             "b_en":"Gopal Krishna Gokhale",
             "c_en":"Pandit Jawaharlal Nehru",
             "d_en":"Netaji Subhash Chandra Bose",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"In which city are the summer Olympic Games 2024 to be held?",
@@ -930,13 +864,12 @@
             "b_en":"London",
             "c_en":"Beijing",
             "d_en":"Paris",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },       
         {
             "q_en":"Complete the following reaction : Al₂O₃ + 6HCl 2AlC₃ +  . . . . . . .",
@@ -944,13 +877,12 @@
             "b_en":"2H₂O",
             "c_en":"4H₂O",
             "d_en":"3H₂O",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },
         {
             "q_en":"The marked price of a television is 20% more than its cost price. If a discount of 10% is given on the marked price, the profit percentage is :",
@@ -958,13 +890,12 @@
             "b_en":"10%",
             "c_en":"12%",
             "d_en":"15%",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },
         {
             "q_en":"Calculate the rate of interest in percentage per annum of compound interest if Rs. 5,000 becomes Rs. 20,000 in 4 years.",
@@ -972,13 +903,12 @@
             "b_en":"50%",
             "c_en":"41.4%",
             "d_en":"36.4%",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },
         {
 			"q_en":"Which of the following organisations publishes an annual report titled Global Competitiveness Index?",
@@ -986,13 +916,12 @@
             "b_en":"International Monetary Fund",
             "c_en":"Asian Development Bank",
             "d_en":"World Economic Forum",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
 		},       
 		{
 			"q_en":"In which among the following cities has Dr. K Sivan laid foundation stone for Space Situational Awareness Control Centre?",
@@ -1000,13 +929,12 @@
             "b_en":"Lucknow",
             "c_en":"Bengaluru",
             "d_en":"New Delhi",
-            "ans_en":"3",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"3"
+            "ans":"3"
 		},       
 		{
 			"q_en":"Which of the following pairs of books and their writers are correctly matched?\n1) Himalayan Odyssey - M.P. Virendra Kumar\n2) The Kargil Victory - Battles from Peak to Peak - Colonel S.C. Tyagi.\n3) One life is not enough - Natwar Singh\n4) Glorious Diaspora - Pride of India - Rajat Kapoor",
@@ -1014,13 +942,12 @@
             "b_en":"Only 3 & 4",
             "c_en":"Only 1, 2 & 3",
             "d_en":"All 1, 2, 3 & 4",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },       
         {
             "q_en":"Which of the following statement is/are not true about the Nobel prize in economics?\n1) In 1958 Sweden's Central Bank established the Prize in Economic Sciences in the memory of Alfred Nobel.\n2) In 2019 Nobel Prize in Economics was shared by three people.\n3) The 2019 Laureates in Economic Sciences are Abhijit Banerjee, Esther Duflo and Michael Kremer.",
@@ -1028,13 +955,12 @@
             "b_en":"Only 1 & 2",
             "c_en":"Only 3",
             "d_en":"Only 1 & 3",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"The Treaty of Sugauli, 1816 was signed between the British and ______",
@@ -1042,13 +968,12 @@
             "b_en":"Gurkhas",
             "c_en":"Marathas",
             "d_en":"French",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },
         {
 			"q_en":"The first Mufti Mohammad Sayeed award was given to the CM of which State of India?",
@@ -1056,13 +981,12 @@
             "b_en":"Jharkhand",
             "c_en":"Uttar Pradesh",
             "d_en":"Chhattisgarh",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
 		},       
 		{
 		    "q_en":"10 litres of water is added to 50 litres of a solution containing 20% of alcohol in water. What is the concentration of alcohol in the solution now?",
@@ -1070,13 +994,12 @@
             "b_en":"16⅔ %",
             "c_en":"12½ %",
             "d_en":"33⅓ %",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
 		},       
 		{
 			"q_en":"Which of the following is not a part of female reproductive system?",
@@ -1084,13 +1007,12 @@
             "b_en":"Sperm duct",
             "c_en":"Uterus",
             "d_en":"Oviducts",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"Who was felicitated by the Indian Body Builder Federation in August 2019?",
@@ -1098,13 +1020,12 @@
             "b_en":"Rajendran Mani",
             "c_en":"Suhas Khamkar",
             "d_en":"Neeraj Kumar",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"Who was appointed the first Lokpal of India in 2019?",
@@ -1112,13 +1033,12 @@
             "b_en":"Justice Dilip Bhosale",
             "c_en":"Justice Ajaykumar Tripathi",
             "d_en":"Justice Pinaki Chandra Ghose",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },       
         {
             "q_en":"Growth hormone is secreted by which of the following organ/gland of Human body?",
@@ -1126,13 +1046,12 @@
             "b_en":"Thyroid Gland",
             "c_en":"Testes",
             "d_en":"Ovaries",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"Which of the following was the capital of Matsya Mahajanpada?",
@@ -1140,13 +1059,12 @@
             "b_en":"Indraprastha",
             "c_en":"Viratnagar",
             "d_en":"Mathura",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },    
         {
             "q_en":"When hot springs are used to generate electricity, this type of energy produced is called -",
@@ -1154,13 +1072,12 @@
             "b_en":"Tidal Energy",
             "c_en":"Geothermal Energy",
             "d_en":"Thermal Energy",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },   
         {
             "q_en":"Which of the following comes under the category of Pisces?",
@@ -1168,13 +1085,12 @@
             "b_en":"Silver fish",
             "c_en":"Shark",
             "d_en":"Whale",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },
         {
             "q_en":"Which of the following pair is NOT correctly matched?",
@@ -1182,13 +1098,12 @@
             "b_en":"Sharavathy Project - Karnataka",
             "c_en":"Balimela Project - Odisha",
             "d_en":"Sabarigiri Project - Gujarat",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },
         {
             "q_en":"With which of the following country has India signed an agreement for Chakra-III attack submarine?",
@@ -1196,13 +1111,12 @@
             "b_en":"Israel",
             "c_en":"China",
             "d_en":"Russia",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },
         {
 			"q_en":"In Australian Open Nowak Djokowic was the winner of Men's single, Nowak is from -",
@@ -1210,13 +1124,12 @@
             "b_en":"Russia",
             "c_en":"Italy",
             "d_en":"France",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
 		},       
 		{
 			"q_en":"In which of the following year was 'Pluto' demoted from its earlier status of Planet?",
@@ -1224,13 +1137,12 @@
             "b_en":"2006",
             "c_en":"2016",
             "d_en":"2008",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
 		},       
 		{
 			"q_en":"During the reign of Kanishka, which of the following places was chosen as the venue of the fourth Buddhist Council?",
@@ -1238,13 +1150,12 @@
             "b_en":"Kashmir",
             "c_en":"Vaisali",
             "d_en":"Pataliputra",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"Which of the following gas is not responsible for global warming?",
@@ -1252,13 +1163,12 @@
             "b_en":"Water vapour",
             "c_en":"N₂O",
             "d_en":"SO₂",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },       
         {
             "q_en":"Which country has recently changed its capital's name as 'Nur-sultan'?",
@@ -1266,13 +1176,12 @@
             "b_en":"Kazakhstan",
             "c_en":"Kyrgyzstan",
             "d_en":"Tajikistan",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"Which of the following statements are correct about the tourism destinations in Bihar?\n1) Kakolat is a famous waterfall of Bihar State.\n2) Bhim Bandh is situated in the south west of Munger district in Bihar.\n3) Karanda Tank of Bihar is related to the life of Lord Buddha.\n4) Veerayatan is a Jain Temple and Museum.",
@@ -1280,13 +1189,12 @@
             "b_en":"Only 1, 2 & 4",
             "c_en":"Only 2, 3 & 4",
             "d_en":"All 1, 2, 3 & 4",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },       
         {
             "q_en":"By selling 144 chairs a shopkeeper suffered a loss equal to the S.P. of 6 chairs. His loss percent is:",
@@ -1294,13 +1202,12 @@
             "b_en":"4%",
             "c_en":"5%",
             "d_en":"8%",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"Which of the following Thermal power plant is not situated in Bihar?",
@@ -1308,13 +1215,12 @@
             "b_en":"Barauni",
             "c_en":"Auraiya",
             "d_en":"Kahalgaon",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },
         {
             "q_en":"'Gandhi Solar Park' is located at",
@@ -1322,13 +1228,12 @@
             "b_en":"Vladivostok",
             "c_en":"Thimphu",
             "d_en":"Houston",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },
         {
             "q_en":"What is the approximate age of earth?",
@@ -1336,13 +1241,12 @@
             "b_en":"4.4 Billion years",
             "c_en":"3.5 Billion years",
             "d_en":"5 Billion years",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },
         {
 			"q_en":"Absolute Refractive Index of diamond is -",
@@ -1350,13 +1254,12 @@
             "b_en":"1.77",
             "c_en":"2.42",
             "d_en":"2.62",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
 		},       
 		{
 			"q_en":"Balance of payments of a country includes",
@@ -1364,13 +1267,12 @@
             "b_en":"capital receipts and payments",
             "c_en":"saving and investment",
             "d_en":"Both (1) and (2)",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
 		},       
 		{
 			"q_en":"Who among the following has been appointed as President of FICCI for 2018-19?",
@@ -1378,13 +1280,12 @@
             "b_en":"Sandip Somany",
             "c_en":"Uday Shankar",
             "d_en":"Suresh Patnaik",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"Which of the followings are winner of 2019 UNESCO Asia-Pacific Awards?\n1) Vikram Sarabhai Library\n2) Our Lady of Glory Church\n3) Flora Fountain\n4) Chhatrapati Shivaji Terminus",
@@ -1392,13 +1293,12 @@
             "b_en":"Only 1, 2 & 3",
             "c_en":"Only 2 & 3",
             "d_en":"Only 1, 3 & 4",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         }
 	]
 }
