@@ -1,0 +1,58 @@
+{
+	"Quiz":[
+        {
+            "title":"History",
+            "category":"Preparation",
+            "cta":"History_Quiz",
+            "quiz_list":[
+                {
+                    "title":"History Quiz 01",
+                    "total":"10",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
+                    "level":"Easy",
+                    "option_count":"4",
+                    "multiLang":"yes",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_66_PYQ_150.json"
+                }
+            ]
+        },
+        {
+            "title":"BPSC Prelims",
+            "category":"Examination",
+            "cta":"BPSC_Prelims_Quiz",
+            "quiz_list":[
+                {
+                    "title":"BPSC 66 Prelims",
+                    "total":"150",
+                    "correct_points":"2",
+                    "negative_points":"0",
+                    "quiz_ui":"one",
+                    "level":"Moderate",
+                    "option_count":"5",
+                    "multiLang":"no",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_66_PYQ_150.json"
+                }
+            ]
+        },
+        {
+            "title":"Bihar Daroga Prelims",
+            "category":"Examination",
+            "cta":"BiharDaroga_Prelims_Quiz",
+            "quiz_list":[
+                {
+                    "title":"Bihar Daroga 2019",
+                    "total":"100",
+                    "correct_points":"2",
+                    "negative_points":"0",
+                    "quiz_ui":"one",
+                    "level":"Moderate",
+                    "option_count":"4",
+                    "multiLang":"no",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BiharPoliceSI/Quiz_BiharPoliceSI_2019_PYQ_100.json"
+                }
+            ]
+        }
+	]
+}
