@@ -6,13 +6,12 @@
             "b_en":"The crop tax was fixed at 1/6th of what was produced.",
             "c_en":"The taxes were collected in the form of goods only.",
             "d_en":"There were taxes on craftspersons as well.",
-			"ans_en":"c_en",
             "q_hin":"महाजनपदों के संदर्भ में, निम्नलिखित में से कौन सा कथन गलत है ?",
             "a_hin":"महाजनपदों के शासक विशाल किलों का निर्माण कर रहे थे।",
             "b_hin":"फसल कर उत्पादन के 1/6 भाग पर निर्धारित किया गया था। ",
             "c_hin":"कर केवल वस्तुओं के रूप में एकत्र किए जाते थे।",
             "d_hin":"शिल्पकारों पर भी कर लगाया जाता था।",
-            "ans_hin":"c_hin"
+            "ans":"c"
 		},       
 		{
 			"q_en":"With reference to Jainism, which of the following statement is correct?",
@@ -20,13 +19,12 @@
             "b_en":"Jainism spread to different parts of north India, and to Gujarat, Tamil Nadu, and Karnataka.",
             "c_en":"Vardhamana Mahavira was a Brahmin of the Lichchhavi.",
             "d_en":"Parshvanath is considered the first real founder of Jainism.",
-            "ans_en":"b_en",
             "q_hin":"जैन धर्म के संदर्भ में, निम्नलिखित में से कौन सा कथन सही है?",
             "a_hin":"जैन धर्म को मुख्य रूप से किसानों का समर्थन प्राप्त था।",
             "b_hin":"जैन धर्म उत्तर भारत के विभिन्न हिस्सों और गुजरात, तमिलनाडु और कर्नाटक में फैल गया।",
             "c_hin":"वर्धमान महावीर लिच्छवि के ब्राह्मण थे।",
             "d_hin":"पार्श्वनाथ को जैन धर्म का प्रथम वास्तविक संस्थापक माना जाता है।",
-            "ans_hin":"b_hin"
+            "ans":"b"
 		},       
 		{
 			"q_en":"Punch-marked coins were generally found in which shape?",
@@ -34,13 +32,12 @@
             "b_en":"Circular",
             "c_en":"Rectangular",
             "d_en":"Square",
-            "ans_en":"c_en",
             "q_hin":"पंच-चिह्नित सिक्के आमतौर पर किस आकार में पाए जाते थे?",
             "a_hin":"अर्ध-वृत्ताकार",
             "b_hin":"वृत्ताकार",
             "c_hin":"आयताकार",
             "d_hin":"वर्ग",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },       
         {
             "q_en":"The book Harshacharita was written by which of the following?",
@@ -48,13 +45,12 @@
             "b_en":"Banabhatta",
             "c_en":"Charaka",
             "d_en":"Chanakya",
-            "ans_en":"b_en",
             "q_hin":"हर्षचरित पुस्तक निम्नलिखित में से किसके द्वारा लिखी गई थी?",
             "a_hin":"कालिदास",
             "b_hin":"बाणभट्ट",
             "c_hin":"चरक",
             "d_hin":"चाणक्य",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"With reference to the 4th Buddhist Council, Which of the following statement is incorrect?",
@@ -62,13 +58,12 @@
             "b_en":"It was under the patronage of Emperor Ajatashatru.",
             "c_en":"A new form of Buddhism known as Mahayana Buddhism developed.",
             "d_en":"Ashvaghosha and other Buddhist scholars now began writing in Sanskrit.",
-            "ans_en":"b_en",
             "q_hin":"चौथी बौद्ध परिषद के संदर्भ में, निम्नलिखित में से कौन सा कथन गलत है?",
             "a_hin":"यह 72 ईस्वी में कश्मीर के कुंडलवन में आयोजित किया गया था।",
             "b_hin":"यह सम्राट अजातशत्रु के संरक्षण में था।",
             "c_hin":"बौद्ध धर्म का एक नया रूप विकसित हुआ जिसे महायान बौद्ध धर्म के नाम से जाना जाता है।",
             "d_hin":"अश्वघोष और अन्य बौद्ध विद्वानों ने अब संस्कृत में लिखना शुरू किया।",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"Shrenis were associations of",
@@ -76,13 +71,12 @@
             "b_en":"crafts persons",
             "c_en":"farmers",
             "d_en":"herders",
-            "ans_en":"b_en",
             "q_hin":"श्रेणिस _______ के संघ थे",
             "a_hin":"शासकों",
             "b_hin":"शिल्पकार",
             "c_hin":"किसानों",
             "d_hin":"चरवाहों",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"_________are men and women who undertake journeys to holy places in order to offer worship.",
@@ -90,13 +84,12 @@
             "b_en":"Monks",
             "c_en":"Artisan",
             "d_en":"Teachers",
-            "ans_en":"a_en",
             "q_hin":"_________ पुरुष और महिलाएं हैं जो पूजा करने के लिए पवित्र स्थानों की यात्रा करते हैं।",
             "a_hin":"तीर्थयात्री",
             "b_hin":"भिक्षु",
             "c_hin":"शिल्पकार",
             "d_hin":"शिक्षक",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"______ comes from the Sanskrit term bhaj meaning ‘to divide or share.",
@@ -104,13 +97,12 @@
             "b_en":"Pilgrims",
             "c_en":"Literatures",
             "d_en":"Hindu",
-            "ans_en":"a_en",
             "q_hin":"________ संस्कृत शब्द भज से आया है जिसका अर्थ है 'विभाजित करना या बांटना'।",
             "a_hin":"भक्ति",
             "b_hin":"तीर्थयात्री",
             "c_hin":"साहित्य",
             "d_hin":"हिंदू",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },
         {
             "q_en":"Which of the following is not a feature of Ashoka's Dhamma?",
@@ -118,13 +110,12 @@
             "b_en":"Conquest through Dhamma instead of through war.",
             "c_en":"Tolerance among all the religious sects.",
             "d_en":"Humane treatment of servants by masters and prisoners by government officials.",
-            "ans_en":"a_en",
             "q_hin":"निम्नलिखित में से कौन अशोक के धम्म की विशेषता नहीं है?",
             "a_hin":"भगवान की नियमित पूजा और बलिदानों का प्रदर्शन।",
             "b_hin":"युद्ध के बजाय धम्म के माध्यम से विजय।",
             "c_hin":"सभी धार्मिक संप्रदायों के बीच सहिष्णुता।",
             "d_hin":"सरकारी अधिकारियों द्वारा स्वामी और कैदियों द्वारा नौकरों का मानवीय उपचार।",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },
         {
             "q_en":"According to the Jain Philosophy, Which of the following best describes the term 'Jina'?",
@@ -132,13 +123,12 @@
             "b_en":"The conqueror",
             "c_en":"Free from fetters",
             "d_en":"Lord",
-            "ans_en":"b_en",
             "q_hin":"जैन दर्शन के अनुसार, निम्नलिखित में से कौन 'जीना' शब्द का सबसे अच्छा वर्णन करता है?",
             "a_hin":"योग्य",
             "b_hin":"विजेता",
             "c_hin":"भ्रूण से मुक्त",
             "d_hin":"भगवान",
-            "ans_hin":"b_hin"
+            "ans":"b"
         }
 	]
 }
