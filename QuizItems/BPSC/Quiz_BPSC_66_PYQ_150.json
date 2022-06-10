@@ -7,14 +7,13 @@
             "c_en":"vitamin C",
             "d_en":"carbohydrate",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
 		},       
 		{
 			"q_en":"The velocity of electromagnetic waves is",
@@ -23,14 +22,13 @@
             "c_en":"3 × 10⁶ ms¯¹",
             "d_en":"3 × 10⁵ ms¯¹",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
 		},       
 		{
 			"q_en":"The first man who placed his foot on the moon is",
@@ -39,14 +37,13 @@
             "c_en":"Michael Collins",
             "d_en":"James Van Allen",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"The radiation used in the treatment of muscle ache are",
@@ -55,14 +52,13 @@
             "c_en":"UV",
             "d_en":"X-ray",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"The total resistance of a circuit having two parallel resistors is 1.403 kilo-ohm. If one of the resistors is 2.0 kilo-ohm then the other resistor will be",
@@ -71,14 +67,13 @@
             "c_en":"3.403 kilo-ohm",
             "d_en":"4.70 kilo-ohm",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },       
         {
             "q_en":"On heating, the resistance of a semiconductor",
@@ -87,14 +82,13 @@
             "c_en":"remains same",
             "d_en":"first increases and then decreases",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"Faraday constant",
@@ -103,14 +97,13 @@
             "c_en":"depends on the volume of the solvent in which the electrolyte is dissolved",
             "d_en":"is a universal constant",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },       
         {
             "q_en":"'Light-year' is a unit of",
@@ -119,14 +112,13 @@
             "c_en":"distance",
             "d_en":"intensity of light",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },
         {
             "q_en":"Which of the following does not change when light travels from one medium to another?",
@@ -135,14 +127,13 @@
             "c_en":"Frequency",
             "d_en":"Refractive index",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },
         {
             "q_en":"The number of neutrons in the nucleus of plutonium nuclide (₉₄Pu²⁴²) is",
@@ -151,14 +142,13 @@
             "c_en":"242",
             "d_en":"336",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },
         {
 			"q_en":"The highest viscosity among the following is of",
@@ -167,14 +157,13 @@
             "c_en":"blood",
             "d_en":"honey",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
 		},       
 		{
 			"q_en":"The breath test conducted by police to check drunken driver has which one of the following on the filter paper?",
@@ -183,14 +172,13 @@
             "c_en":"Silica gel coated with silver nitrate",
             "d_en":"Turmeric",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
 		},       
 		{
 			"q_en":"Glucose is converted to ethyl alcohol by the enzyme",
@@ -199,14 +187,13 @@
             "c_en":"zymase",
             "d_en":"diastase",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },       
         {
             "q_en":"Limewater is turned milky by",
@@ -215,14 +202,13 @@
             "c_en":"O₂",
             "d_en":"O₃",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"The incomplete burning of petrol and diesel produces",
@@ -231,14 +217,13 @@
             "c_en":"carbon dioxide",
             "d_en":"carbon monoxide",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },       
         {
             "q_en":"The pH of a solution changes from 3 to 6. The H+ ion concentration will",
@@ -247,14 +232,13 @@
             "c_en":"decrease 10 times",
             "d_en":"decrease 1000 times",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },       
         {
             "q_en":"A mixture of sand and naphthalene can be separated by",
@@ -263,14 +247,13 @@
             "c_en":"chromatography",
             "d_en":"fractional distillation",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"The numbers of sigma and pi bonds in benzene are",
@@ -279,14 +262,13 @@
             "c_en":"12, 3",
             "d_en":"12, 6",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },
         {
             "q_en":"The elements present in urea are",
@@ -295,14 +277,13 @@
             "c_en":"C, H,  N",
             "d_en":"C, H, N, O",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },
         {
             "q_en":"The poorest conductor of heat among the following is",
@@ -311,14 +292,13 @@
             "c_en":"mercury",
             "d_en":"zinc",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },
         {
 		    "q_en":"The vitamin which is effective in blood clotting is",
@@ -327,14 +307,13 @@
             "c_en":"vitamin D",
             "d_en":"vitamin K",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
 		},       
 		{
 			"q_en":"The female sex hormone is",
@@ -343,14 +322,13 @@
             "c_en":"insulin",
             "d_en":"oxytocin",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
 		},       
 		{
 			"q_en":"The Nobel Prize for developing treatment of Parkinson's disease was given to",
@@ -359,14 +337,13 @@
             "c_en":"Robert B. Laughlin",
             "d_en":"Walter Kohn",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"The malfunctioning of thyroid gland is due to the deficiency of",
@@ -375,14 +352,13 @@
             "c_en":"iodine",
             "d_en":"iron",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },       
         {
             "q_en":"The sensitive area of the human tongue to bitterness is",
@@ -391,14 +367,13 @@
             "c_en":"posterior part",
             "d_en":"edge",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },
         {
 			"q_en":"Ginger is a stem and not root because",
@@ -407,14 +382,13 @@
             "c_en":"it grows horizontally in the soil",
             "d_en":"it lacks chlorophyll",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
 		},       
 		{
 			"q_en":"The sweetest sugar among the following is",
@@ -423,14 +397,13 @@
             "c_en":"maltose",
             "d_en":"sucrose",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
 		},       
 		{
 			"q_en":"Among the following, which is not a true fruit?",
@@ -439,14 +412,13 @@
             "c_en":"Date",
             "d_en":"Plum",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"Legumes are highly nutritious because they are rich in",
@@ -455,14 +427,13 @@
             "c_en":"Oil",
             "d_en":"Starch",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"Clove, a spice, is obtained from which part of the plant?",
@@ -471,14 +442,13 @@
             "c_en":"Root",
             "d_en":"Flower bud",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },       
         {
             "q_en":"Who has been appointed by the Board of Control for Cricket in India as the Head of All India Women's Selection Committee?",
@@ -487,14 +457,13 @@
             "c_en":"Renu Margrate",
             "d_en":"V. Kalpana",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"Who has won the Women's Singles US Open Tennis Tournament, 2020?",
@@ -503,14 +472,13 @@
             "c_en":"Sofia Kenin",
             "d_en":"K. Pliskova",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"Which athlete scored first position in the London Marathon held on 4th October, 2020?",
@@ -519,14 +487,13 @@
             "c_en":"Vincent Kipchumba",
             "d_en":"Sisay Lemma",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },
         {
             "q_en":"Which Indian cricketer along with M. S. Dhoni announced retirement from the international cricket on 15th August, 2020?",
@@ -535,14 +502,13 @@
             "c_en":"Bhuvneshwar Kumar",
             "d_en":"Rohit Sharma",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },
         {
             "q_en":"Who has been appointed as the Chairperson of the National School of Drama recently?",
@@ -551,14 +517,13 @@
             "c_en":"Anupam Kher",
             "d_en":"Paresh Rawal",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },
         {
 			"q_en":"Who is the Chairman of the Defence Research and Development Organization?",
@@ -567,14 +532,13 @@
             "c_en":"Arvind Saxena",
             "d_en":"Charanjit Singh Attra",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
 		},       
 		{
 			"q_en":"For which discipline, Dr. Bushra Ateeq and Dr. Ritesh Agarwal have been selected for Shanti Swarup Bhatnagar Prize, 2020?",
@@ -583,14 +547,13 @@
             "c_en":"Medical Sciences",
             "d_en":"Mathematical Sciences",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
 		},       
 		{
 			"q_en":"Who has been selected for the Nobel Peace Prize, 2020?",
@@ -599,14 +562,13 @@
             "c_en":"Robert B. Wilson",
             "d_en":"Paul R. Milgrom",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"Which Indian film actor has been included in the Time Magazine's list of hundred most influential people of 2020?",
@@ -615,14 +577,13 @@
             "c_en":"Ajay Devgan",
             "d_en":"Sunny Deol",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"How many Indian beaches have been recommended for the Blue Flag Certification recently?",
@@ -631,14 +592,13 @@
             "c_en":"Eight",
             "d_en":"Nine",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },       
         {
             "q_en":"Ram Vilas Paswan started his political career from which political party?",
@@ -647,14 +607,13 @@
             "c_en":"Samyukta Socialist Party",
             "d_en":"Praja Socialist Party",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },       
         {
             "q_en":"When did the Election Commission of India issue a Press Note for the General Election to the Legislative Assembly of Bihar, 2020?",
@@ -663,14 +622,13 @@
             "c_en":"25th September, 2020",
             "d_en":"26th September, 2020",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },       
         {
             "q_en":"In which State, 'Ghar Tak Fiber' Scheme has been launched on 21st September, 2020 through a video conference?",
@@ -679,14 +637,13 @@
             "c_en":"Bihar",
             "d_en":"Karnataka",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },
         {
             "q_en":"Bihar politician Late Raghuvansh Prasad Singh was for the first time elected to which Lok Sabha?",
@@ -695,14 +652,13 @@
             "c_en":"Twelfth Lok Sabha",
             "d_en":"Thirteenth Lok Sabha",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },
         {
             "q_en":"Which among the following is not a member of the Quadrilateral Security Dialogue - an informal strategic forum?",
@@ -711,14 +667,13 @@
             "c_en":"China",
             "d_en":"Australia",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },
         {
 			"q_en":"Who represented India's perspective in the Fifth BRICS Culture Minister's Meeting held through a video conference in September 2020?",
@@ -727,14 +682,13 @@
             "c_en":"Nitin Gadkari",
             "d_en":"Ravi Shankar Prasad",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
 		},       
 		{
 			"q_en":"Where was the 36th ASEAN Summit virtually held in June 2020?",
@@ -743,14 +697,13 @@
             "c_en":"Indonesia",
             "d_en":"Vietnam",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
 		},       
 		{
 			"q_en":"Which of the following has topped in the Human Capital Index, 2020?",
@@ -759,14 +712,13 @@
             "c_en":"Singapore",
             "d_en":"Hong Kong",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },       
         {
             "q_en":"Recently in USA, 'Operation MAGA' is related to",
@@ -775,14 +727,13 @@
             "c_en":"Joseph Biden's election campaign",
             "d_en":"'make army great again' campaign",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"Which Arab state has started first nuclear power plant?",
@@ -791,14 +742,13 @@
             "c_en":"United Arab Emirates",
             "d_en":"Egypt",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },
         {
 			"q_en":"Which was the first Arab state to sign peace deal with Israel?",
@@ -807,14 +757,13 @@
             "c_en":"Bahrain",
             "d_en":"Sudan",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
 		},       
 		{
 			"q_en":"Which country assumed the role of Chairman of the International Labour Organization's Governing Body for the period of October 2020 till June 2021?",
@@ -823,14 +772,13 @@
             "c_en":"Australia",
             "d_en":"India",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
 		},       
 		{
 			"q_en":"'Operation My Saheli' launched in September 2020 aims",
@@ -839,14 +787,13 @@
             "c_en":"to explore new job opportunities for women",
             "d_en":"to boost awareness against girl child labour",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"On the occasion of the first anniversary of the Fit India Movement, who gave the Mantra, 'Fitness Ki Dose, Aadha Ghanta Roz (Fitness Dose, Half and Hour Daily)'?",
@@ -855,14 +802,13 @@
             "c_en":"Union Health Minister Dr. Harsh Vardhan",
             "d_en":"Yoga Guru Baba Ramdev",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"On the one hundred birth anniversary of Rajmata Vijaya Raje Scindia, Prime Minister Narendra Modi released a",
@@ -871,14 +817,13 @@
             "c_en":"one hundred rupees coin",
             "d_en":"one hundred rupees note",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },       
         {
             "q_en":"Which State's short documentary film, Chi Lupo has won Dada Saheb Phalke Award, 2020?",
@@ -887,14 +832,13 @@
             "c_en":"Meghalaya",
             "d_en":"Arunachal Pradesh",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },       
         {
             "q_en":"Which private sector bank has launched 'e-Kisan Dhan' app for farmers?",
@@ -903,14 +847,13 @@
             "c_en":"IDBI Bank",
             "d_en":"Kotak Mahindra Bank",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"At the international airport of which city, India launched its first COVID-19 testing facility?",
@@ -919,14 +862,13 @@
             "c_en":"Mumbai",
             "d_en":"Bengaluru",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },
         {
             "q_en":"Rafale fighter aircraft has been formally inducted into the Indian Air Force at which Air Force Station?",
@@ -935,14 +877,13 @@
             "c_en":"Ambala",
             "d_en":"Amritsar",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },
         {
             "q_en":"The name of India's first indigenous anti-radiation missile is",
@@ -951,14 +892,13 @@
             "c_en":"Saksham",
             "d_en":"Rudram",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },
         {
 			"q_en":"In which of the following Harappan city have traces of tillage fields found?",
@@ -967,14 +907,13 @@
             "c_en":"Mohenjodaro",
             "d_en":"Lothal",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
 		},       
 		{
 			"q_en":"Triratna or three gems, such as precise knowledge, true faith and precise action, are related to which of the following?",
@@ -983,14 +922,13 @@
             "c_en":"Jainism",
             "d_en":"Christianity",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
 		},       
 		{
 			"q_en":"Which of these rulers organized the fourth Buddhist musical association in Kashmir?",
@@ -999,14 +937,13 @@
             "c_en":"Kanishka",
             "d_en":"Kalashok",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },       
         {
             "q_en":"Which of the following Indian philosophies propounded atomic theory?",
@@ -1015,14 +952,13 @@
             "c_en":"Sankhya",
             "d_en":"Vaiseshika",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },       
         {
             "q_en":"Which Delhi Sultan adopted the policy of 'blood and iron'?",
@@ -1031,14 +967,13 @@
             "c_en":"Alauddin Khilji",
             "d_en":"Muhammad bin Tughluq",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"Which medieval Indian empire was widely known for local self-government?",
@@ -1047,14 +982,13 @@
             "c_en":"Solanki",
             "d_en":"Parmar",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"Pietra dura is related to which of the following?",
@@ -1063,14 +997,13 @@
             "c_en":"Use of arch in construction",
             "d_en":"Use of marble in buildings",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"Which Mughal ruler established Karkhanas for painting?",
@@ -1079,14 +1012,13 @@
             "c_en":"Jahangir",
             "d_en":"Shah Jahan",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },
         {
             "q_en":"The dual system of governance in Bengal was enforced by",
@@ -1095,14 +1027,13 @@
             "c_en":"Robert Clive",
             "d_en":"Lord Curzon",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },
         {
             "q_en":"Who among the following participated in the Parliament of Religions held at Chicago in 1893?",
@@ -1111,14 +1042,13 @@
             "c_en":"Mahatma Gandhi",
             "d_en":"Raja Rammohan Roy",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },
         {
 			"q_en":"Who established Swaraj Party in 1923?",
@@ -1127,14 +1057,13 @@
             "c_en":"C. R. Das and Motilal Nehru",
             "d_en":"B. R. Ambedkar",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
 		},       
 		{
 			"q_en":"Who wrote the famous play, Neel Darpan in which oppression of indigo farmers is displayed?",
@@ -1143,14 +1072,13 @@
             "c_en":"Barindra Ghosh",
             "d_en":"Dinabandhu Mitra",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
 		},       
 		{
 			"q_en":"The famous Battle of Wandiwash in 1760 was fought by the British against whom?",
@@ -1159,14 +1087,13 @@
             "c_en":"Mysore",
             "d_en":"Carnatic",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"Which of the following Acts introduced separate electorate system in India?",
@@ -1175,14 +1102,13 @@
             "c_en":"The Pitt's India Act, 1784",
             "d_en":"The Indian Councils Act, 1909",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },       
         {
             "q_en":"Kol Mutiny of 1831 under Buddho Bhagat took place in which of the following regions?",
@@ -1191,14 +1117,13 @@
             "c_en":"Western Ghats",
             "d_en":"Satara",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },
         {
 			"q_en":"Who spearheaded the 1857 Revolt in Bihar?",
@@ -1207,14 +1132,13 @@
             "c_en":"Kunwar Singh",
             "d_en":"Maulavi Ahmadullah",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
 		},       
 		{
 		    "q_en":"Who drew Gandhiji's attention to the plight of indigo peasants in Champaran?",
@@ -1223,14 +1147,13 @@
             "c_en":"Acharya Kripalani",
             "d_en":"Raj kumar Shukla",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
 		},       
 		{
 			"q_en":"Which was the first capital of ancient Mahajanapada Magadh?",
@@ -1239,14 +1162,13 @@
             "c_en":"Champa",
             "d_en":"Anga",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"e_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"e_hin"
+            "ans":"e"
         },       
         {
             "q_en":"Swami Sahajananda was related to which of the following?",
@@ -1255,14 +1177,13 @@
             "c_en":"Peasant Movement in Bihar",
             "d_en":"Caste Movement in Bihar",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },       
         {
             "q_en":"Which of the following was Gandhiji’s first Satyagraha Movement-in India in which he used Civil Disobedience?",
@@ -1271,14 +1192,13 @@
             "c_en":"Ahmedabad",
             "d_en":"Rowlatt Satyagraha",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"The largest island of Japan in term of the geographical area is",
@@ -1287,14 +1207,13 @@
             "c_en":"Shikoku",
             "d_en":"Kyushu",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"Greenland is a part of which one of the following countries?",
@@ -1303,14 +1222,13 @@
             "c_en":"Canada",
             "d_en":"United Kingdom",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },    
         {
             "q_en":"Which one of the following countries of the world has the largest Indian population as on December 2018?",
@@ -1319,14 +1237,13 @@
             "c_en":"United Kingdom",
             "d_en":"United States of America",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },   
         {
             "q_en":"Among the following countries, which country has recorded the highest annual gold output (in tonnes) in 2019?",
@@ -1335,14 +1252,13 @@
             "c_en":"China",
             "d_en":"United states of America",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },
         {
             "q_en":"Among the following continents, which one has the highest number of countries? (not in Population)",
@@ -1351,14 +1267,13 @@
             "c_en":"Africa",
             "d_en":"North America",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },
         {
             "q_en":"The State of India with the highest percentage of tribal population to its total population as per the 2011 Census is",
@@ -1367,14 +1282,13 @@
             "c_en":"Mizoram",
             "d_en":"Meghalaya",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },
         {
 			"q_en":"Which one of the following coffee growing areas is not in Karnataka?",
@@ -1383,14 +1297,13 @@
             "c_en":"Baba Budangin",
             "d_en":"Pulneys",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
 		},       
 		{
 			"q_en":"Which one of the following districts of India is the largest in terms of geographical area?",
@@ -1399,14 +1312,13 @@
             "c_en":"Jaisalmer",
             "d_en":"Barmer",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
 		},       
 		{
 			"q_en":"The State of India with maximum number of wildlife sanctuaries is",
@@ -1415,14 +1327,13 @@
             "c_en":"Maharashtra",
             "d_en":"Madhya Pradesh",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },       
         {
             "q_en":"Which of the following rivers flowing in Bihar is a north flowing river?",
@@ -1431,14 +1342,13 @@
             "c_en":"Kosi",
             "d_en":"Gandak",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"e_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"e_hin"
+            "ans":"e"
         },       
         {
             "q_en":"Atal Tunnel is across which one of the following Himalayan ranges?",
@@ -1447,14 +1357,13 @@
             "c_en":"Ladakh",
             "d_en":"Eastern Pir Panjal",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },       
         {
             "q_en":"India's 13th major port is going to be set up in which state?",
@@ -1463,14 +1372,13 @@
             "c_en":"Maharashtra",
             "d_en":"Tamil Nadu",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },       
         {
             "q_en":"Which one of the following States is a leading producer of solar energy in India?",
@@ -1479,14 +1387,13 @@
             "c_en":"Andhra Pradesh",
             "d_en":"Rajasthan",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"Among the following pairs of minerals and districts, which one is correctly matched?",
@@ -1495,14 +1402,13 @@
             "c_en":"Quartzite - Madhubani",
             "d_en":"Lead zinc - Gaya",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },
         {
             "q_en":"Which one of the following pairs of industry and place is not correctly matched?",
@@ -1511,14 +1417,13 @@
             "c_en":"Fertilizer - Bhaurahi",
             "d_en":"Wagon and engineering - Bhagalpur",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },
         {
             "q_en":"Piedmont Swamp Soil is found only in which one of the following districts of Bihar?",
@@ -1527,14 +1432,13 @@
             "c_en":"West Champaran",
             "d_en":"Sitamarhi",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },
         {
 			"q_en":"In which one of the following pairs of Administrative Divisions of Bihar Ganga river does not flow?",
@@ -1543,14 +1447,13 @@
             "c_en":"Tirhut - Saran",
             "d_en":"Kosi - Magadh",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
 		},       
 		{
 			"q_en":"Among the following pairs of tribe and district, which one is not correctly matched?",
@@ -1559,14 +1462,13 @@
             "c_en":"Oraon - Supaul",
             "d_en":"Kharwar - Bhagalpur",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
 		},       
 		{
 			"q_en":"What is the percentage of all types of forest area to the total geographical area of Bihar State?",
@@ -1575,14 +1477,13 @@
             "c_en":"3.21",
             "d_en":"12.77",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"e_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"e_hin"
+            "ans":"e"
         },       
         {
             "q_en":"Which one of the following districts is having the only National Park of Bihar?",
@@ -1591,14 +1492,13 @@
             "c_en":"West Champaran",
             "d_en":"East Champaran",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },       
         {
             "q_en":"Who won the bid to construct the new Parliament building recently?",
@@ -1607,14 +1507,13 @@
             "c_en":"Tata Projects Limited",
             "d_en":"The National Highways Authority of India",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },
         {
 			"q_en":"Which Article in the Indian Constitution is related with the establishment of the Election Commission of India?",
@@ -1623,14 +1522,13 @@
             "c_en":"Article 342",
             "d_en":"Article 325",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
 		},       
 		{
 		    "q_en":"Who is the Head of the National Commission for Women at present?",
@@ -1639,14 +1537,13 @@
             "c_en":"Rekha Sharma",
             "d_en":"Smriti Irani",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
 		},       
 		{
 		    "q_en":"What is meant by 'Rule of Law'?",
@@ -1655,14 +1552,13 @@
             "c_en":"One State for all and one judiciary for all",
             "d_en":"All acts for one and one judiciary for all",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"Which Article gives the list of 29 functions to be performed by the Panchayati Raj Institutions?",
@@ -1671,14 +1567,13 @@
             "c_en":"Article 243(F)",
             "d_en":"Article 243(G)",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },       
         {
             "q_en":"When was the Citizenship (Amendment Act) passed?",
@@ -1687,14 +1582,13 @@
             "c_en":"11th October, 2019",
             "d_en":"11th October, 2020",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"The legislative origins of the 73rd Constitutional Amendment Act can be traced back to which Constitutional Amendment Bill?",
@@ -1703,14 +1597,13 @@
             "c_en":"63rd Constitutional Amendment Bill",
             "d_en":"64th Constitutional Amendment Bill",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },       
         {
             "q_en":"Which company established its factory in 1632 at Patna, Bihar?",
@@ -1719,14 +1612,13 @@
             "c_en":"Portuguese East India Company",
             "d_en":"French East India Company",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"Which one of the following is not the characteristic of decentralization? ",
@@ -1735,14 +1627,13 @@
             "c_en":"To instil non-confidence among local communities",
             "d_en":"To empower local communities",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },
         {
             "q_en":"Which Act is not the landmark in the development of the Constitution during the British Rule?",
@@ -1751,14 +1642,13 @@
             "c_en":"The Government of India Act, 1919",
             "d_en":"The Protection of Civil Rights Act, 1955",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },
         {
             "q_en":"Which one among the following is not an objective of food management in India ?",
@@ -1767,14 +1657,13 @@
             "c_en":"Maintenance of food grain buffer stock",
             "d_en":"Export of food grains",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },
         {
 			"q_en":"Revenue deficit in India implies that",
@@ -1783,14 +1672,13 @@
             "c_en":"the Indian Government needs to borrow from the Reserve Bank of India against government Securities",
             "d_en":"the Indian Government needs to borrow from international financial institutions",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
 		},       
 		{
 			"q_en":"Which of the following countries is India's top trading partner in 2019-20?",
@@ -1799,14 +1687,13 @@
             "c_en":"UAE",
             "d_en":"Saudi Arabia",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
 		},       
 		{
 			"q_en":"Which of the following infrastructure sectors of India is related with Bharatmala Project?",
@@ -1815,14 +1702,13 @@
             "c_en":"Road infrasturcture",
             "d_en":"Port sector",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },       
         {
             "q_en":"Which of the following agencies release the index of industrial production to measure industrial performance in India?",
@@ -1831,14 +1717,13 @@
             "c_en":"The Central Statistics Office (CSO)",
             "d_en":"The Indian Statistical Institute (ISI)",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },       
         {
             "q_en":"According to the Ease of Doing Business Report, 2020, India improved their rank from",
@@ -1847,14 +1732,13 @@
             "c_en":"100th in previous year to 77th position",
             "d_en":"77th in previous year to 67th positio",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"To improve institutional agricultural credit flow, what credit target for 2020-21 has been fixed in the Union Budget of India ?",
@@ -1863,14 +1747,13 @@
             "c_en":"Rs. 15 lakh crore",
             "d_en":"Rs. 16.5 lakh crore",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },       
         {
             "q_en":"The objective of PM-KUSUM Scheme is",
@@ -1879,14 +1762,13 @@
             "c_en":"promotion of floriculture in India",
             "d_en":"to remove farmers' dependence on diesel and kerosene and to link pump sets to solar energy",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },       
         {
             "q_en":"Which of the following commercial banks of India comes in top 100 global banks?",
@@ -1895,14 +1777,13 @@
             "c_en":"HDFC Bank",
             "d_en":"Kotak Mahindra Bank",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },
         {
             "q_en":"The Government of India announced new scheme ‘NIRVIK’ in the Budget for 2020-21. Which of the following sectors of economy will take the benefit from this scheme?",
@@ -1911,14 +1792,13 @@
             "c_en":"Health sector",
             "d_en":"Export sector",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },
         {
             "q_en":"Bihar Government has introduced the Comprehensive Financial Management System (CFMS) on 1st April, 2019. This system",
@@ -1927,14 +1807,13 @@
             "c_en":"will ensure effective implementation of State projects",
             "d_en":"will manage State Government finances including local bodies",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },
         {
 			"q_en":"The Government of India conferred the Krishi Karman Award to Bihar State on 2nd January, 2020. This award was given for",
@@ -1943,14 +1822,13 @@
             "c_en":"production of rice",
             "d_en":"production of oilseeds",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
 		},       
 		{
 			"q_en":"Bihar Government launched a new scheme 'Satat Jivikoparjan Yojana' in August 2018. The objective of this scheme is",
@@ -1959,14 +1837,13 @@
             "c_en":"to provide sustainable income generating assets to extremely poor household",
             "d_en":"to provide free training for skill upgradation of youth",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"e_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"e_hin"
+            "ans":"e"
 		},       
 		{
 			"q_en":"Which of the following is not included in Seven Resolves (Saat Nishchay) of Bihar Government?",
@@ -1975,14 +1852,13 @@
             "c_en":"Supply of electricity to all household",
             "d_en":"Child welfare",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },       
         {
             "q_en":"The per capita Net State Domestic Product at constant prices for Bihar is less than the country. In the year 2018-19, it was",
@@ -1991,14 +1867,13 @@
             "c_en":"50 percent of the national average",
             "d_en":"33 percent of the national average",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
         },       
         {
             "q_en":"In which of the following colleges, Gandhiji had studied?",
@@ -2007,14 +1882,13 @@
             "c_en":"Gujarat College, Ahmedabad",
             "d_en":"Bahauddin College, Junagadh",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },
         {
 			"q_en":"Which of the following persons had participated activity in the Revolt of 1857?",
@@ -2023,14 +1897,13 @@
             "c_en":"Maulavi Ahmadullah (Faizabad)",
             "d_en":"Begum Zeenat Mahal (Delhi)",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"e_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"e_hin"
+            "ans":"e"
 		},       
 		{
 			"q_en":"About which Act, Jawaharlal Nehru had said, 'We were provided with a car with all brakes and no engine'?",
@@ -2039,14 +1912,13 @@
             "c_en":"Act of 1919",
             "d_en":"Act of 1935",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"d_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"d_hin"
+            "ans":"d"
 		},       
 		{
 			"q_en":"For how many days did Dandi March last?",
@@ -2055,14 +1927,13 @@
             "c_en":"24 days",
             "d_en":"30 days",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },       
         {
             "q_en":"Who is the author of the popular song, Sarfaroshi ki Tamanna Ab Hamare Dil mein Hai?",
@@ -2071,14 +1942,13 @@
             "c_en":"Sardar Bhagat Singh",
             "d_en":"Ram Prasad Bismil",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"e_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"e_hin"
+            "ans":"e"
         },       
         {
             "q_en":"Which movement was started as a reaction to the Partition of Bengal?",
@@ -2087,14 +1957,13 @@
             "c_en":"Swadeshi Movement",
             "d_en":"Purna Swaraj Movement",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },       
         {
             "q_en":"Who among the following advocates had appeared for the INA Trials at Delhi in 1945-46?",
@@ -2103,14 +1972,13 @@
             "c_en":"K. M. Munshi",
             "d_en":"Sardar Patel",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"Where did Madam Cama hoist India's tricolour flag of freedom?",
@@ -2119,14 +1987,13 @@
             "c_en":"Stuttgart",
             "d_en":"Geneva",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },       
         {
             "q_en":"Which of the following pairs is correct?",
@@ -2135,14 +2002,13 @@
             "c_en":"William Wedderburn - Congress President in 1907",
             "d_en":"Shyamji Krishna Varma - Founder of India House in Paris",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },
         {
             "q_en":"Which day was declared as 'Purna Swaraj Day' by the Indian National Congress?",
@@ -2151,14 +2017,13 @@
             "c_en":"30-01-1948",
             "d_en":"31-12-1950",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },
         {
             "q_en":"When was Bihar established?",
@@ -2167,14 +2032,13 @@
             "c_en":"1913",
             "d_en":"1914",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },
         {
 			"q_en":"In Tinkathia System in Bihar, how much land was to be reserved for indigo cultivation?",
@@ -2183,14 +2047,13 @@
             "c_en":"03/20",
             "d_en":"03/25",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
 		},       
 		{
 			"q_en":"Who was the first Chief Minister of Bihar?",
@@ -2199,14 +2062,13 @@
             "c_en":"Nitish Kumar",
             "d_en":"Rabri Devi",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
 		},       
 		{
 			"q_en":"Where was the first Congress Session in Bihar held?",
@@ -2215,14 +2077,13 @@
             "c_en":"Muzaffarpur",
             "d_en":"Darbhanga",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"Which title was given to Jayaprakash Narayan?",
@@ -2231,14 +2092,13 @@
             "c_en":"Lokmanya",
             "d_en":"Rashtra Nayak",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },       
         {
             "q_en":"The missing number in the sequence 4, 18, 48, 100, ?, 294, 448",
@@ -2247,14 +2107,13 @@
             "c_en":"180",
             "d_en":"192",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },       
         {
             "q_en":"If ²nC₃:nC₂ = 44:3, then the value of n is",
@@ -2263,14 +2122,13 @@
             "c_en":"11",
             "d_en":"17/2",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"If the average of m number is n² and that of n numbers is m², then the average of m + n numbers is",
@@ -2279,14 +2137,13 @@
             "c_en":"mn",
             "d_en":"m - n",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },       
         {
             "q_en":"In a group of athletic teams in a school, 21 are in the basketball team, 26 in the hockey team and 29 in the football team. If 14 play hockey and basketball, 12 play football and basketball, 15 play hockey and football, 8 play all the three games, then how many play football only?",
@@ -2295,14 +2152,13 @@
             "c_en":"21",
             "d_en":"18",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },
         {
             "q_en":"Mohan can do a bit of work in 25 days which can be completed by Sohan in 20 days. Both together labour for 5 days and afterward Mohan leaves off. How long will Sohan take to complete the remaining work ?",
@@ -2311,14 +2167,13 @@
             "c_en":"14 days",
             "d_en":"21 days",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
         },
         {
             "q_en":"A clock is started at 12 : 00 noon, By 10 minutes past 5 : 00, the hour hand has turned through",
@@ -2327,14 +2182,13 @@
             "c_en":"155°",
             "d_en":"165°",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"c_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"c_hin"
+            "ans":"c"
         },
         {
 			"q_en":"Which one of the following cannot be the square of a natural number?",
@@ -2343,14 +2197,13 @@
             "c_en":"30976",
             "d_en":"28561",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
 		},       
 		{
 			"q_en":"Given that 217x + 131y = 913; 131x + 217y = 827; then x and y are respectively",
@@ -2359,14 +2212,13 @@
             "c_en":"-5 and -7",
             "d_en":"2 and 5",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"b_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"b_hin"
+            "ans":"b"
 		},       
 		{
 			"q_en":"[(598 + 479)² − (598 − 479)² / (598 × 479)] = ?",
@@ -2375,14 +2227,13 @@
             "c_en":"132",
             "d_en":"8",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         },       
         {
             "q_en":"The population of a town is 176400. If it increase annually at the rate of 5%, then what will be its population after two years ?",
@@ -2391,14 +2242,13 @@
             "c_en":"394481",
             "d_en":"396841",
             "e_en":"None of the above / More than one of the above",
-            "ans_en":"a_en",
             "q_hin":"",
             "a_hin":"",
             "b_hin":"",
             "c_hin":"",
             "d_hin":"",
             "e_hin":"",
-            "ans_hin":"a_hin"
+            "ans":"a"
         }
 	]
 }
