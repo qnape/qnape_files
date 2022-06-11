@@ -30,6 +30,35 @@
             ]
         },
         {
+            "title":"Polity",
+            "category":"Preparation",
+            "cta":"Polity_Quiz",
+            "quiz_list":[
+                {
+                    "title":"Polity Quiz 01",
+                    "total":"10",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
+                    "level":"Easy",
+                    "option_count":"4",
+                    "multiLang":"yes",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Polity/Quiz_Polity_001_10.json"
+                },
+                {
+                    "title":"Polity Quiz 02",
+                    "total":"10",
+                    "correct_points":"2",
+                    "negative_points":"0.66",
+                    "quiz_ui":"one",
+                    "level":"Easy",
+                    "option_count":"4",
+                    "multiLang":"yes",
+                    "quiz_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Polity/Quiz_Polity_002_10.json"
+                }
+            ]
+        },
+        {
             "title":"BPSC Prelims",
             "category":"Examination",
             "cta":"BPSC_Prelims_Quiz",
