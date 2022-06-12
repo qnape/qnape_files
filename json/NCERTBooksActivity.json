@@ -1820,58 +1820,6 @@
                             ]
                         }
                     ]
-                },
-                {
-                    "id":"6",
-                    "title":"Class 11",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
-                    "subject_list":[
-                        {
-                            "id":"1",
-                            "title":"History",
-                            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
-                            "book_list":[
-                                {
-                                    "id":"1",
-                                    "title":"C11 History Tamil Nadu Board Vol 1",
-                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
-                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C11_History_TNB_V01.pdf"
-                                },
-                                {
-                                    "id":"2",
-                                    "title":"C11 History Tamil Nadu Board Vol 2",
-                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
-                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C11_History_TNB_V02.pdf"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "id":"7",
-                    "title":"Class 12",
-                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
-                    "subject_list":[
-                        {
-                            "id":"1",
-                            "title":"History",
-                            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
-                            "book_list":[
-                                {
-                                    "id":"1",
-                                    "title":"C12 History Tamil Nadu Board Vol 1",
-                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
-                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_History_TNB_V01.pdf"
-                                },
-                                {
-                                    "id":"2",
-                                    "title":"C12 History Tamil Nadu Board Vol 2",
-                                    "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
-                                    "download_link":"https://raw.githubusercontent.com/qnape/qnape_files/main/Books/C12_History_TNB_V02.pdf"
-                                }
-                            ]
-                        }
-                    ]
                 }
             ]
         }
