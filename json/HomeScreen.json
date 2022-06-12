@@ -8,30 +8,24 @@
         },
         {
             "id":"2",
-            "title":"Prev. Yr Questions",
-            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/pyq-128.png",
-            "cta":"Previous_Year_Questions"
-        },
-        {
-            "id":"3",
             "title":"NCERT Books",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
             "cta":"NCERT_Books"
         },
         {
-            "id":"4",
+            "id":"3",
             "title":"Quiz",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/quiz-128.png",
             "cta":"Quiz"
         },
         {
-            "id":"5",
+            "id":"4",
             "title":"Short Notes",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/short_notes-128.png",
             "cta":"Short_Notes"
         },
         {
-            "id":"6",
+            "id":"5",
             "title":"Notes PDF",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/notes-128.png",
             "cta":"Notes_PDF"
