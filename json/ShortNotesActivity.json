@@ -3543,133 +3543,133 @@
 			"ls":[
 				{
 					"t":"Astronomy",
-					"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+					"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 					"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 					"i":"",
 					"ls_status":"1",
 					"ls":[
 						{
 							"t":"Star",
-							"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+							"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 							"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 							"i":"",
 							"ls_status":"0"
 						},
 						{
 							"t":"Universe",
-							"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+							"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 							"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 							"i":"",
 							"ls_status":"1",
 							"ls":[
 								{
 									"t":"Super Cluster",
-									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 									"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 									"i":"",
 									"ls_status":"0"
 								},
 								{
 									"t":"Galaxies",
-									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 									"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 									"i":"",
 									"ls_status":"1",
 									"ls":[
 										{
 											"t":"Milkyway Galaxy",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
 										},
 										{
 											"t":"Andromeda Galaxy",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
 										},
 										{
 											"t":"NGC-33",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
 										},
 										{
 											"t":"Concept",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"1",
 											"ls":[
 												{
 													"t":"Shape of the Galaxy",
-													"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+													"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 													"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 													"i":"",
 													"ls_status":"0"
 												},
 												{
 													"t":"Bulge",
-													"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+													"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 													"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 													"i":"",
 													"ls_status":"0"
 												},
 												{
 													"t":"Planetarium (89)",
-													"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+													"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 													"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 													"i":"",
 													"ls_status":"0"
 												},
 												{
 													"t":"Constellation (27)",
-													"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+													"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 													"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 													"i":"",
 													"ls_status":"0"
 												},
 												{
 													"t":"Solar System (8)",
-													"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+													"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 													"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 													"i":"",
 													"ls_status":"0"
 												},
 												{
 													"t":"Sun",
-													"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+													"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 													"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 													"i":"",
 													"ls_status":"1",
 													"ls":[
 														{
 															"t":"Cosmic Year",
-															"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+															"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 															"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 															"i":"",
 															"ls_status":"0"
 														},
 														{
 															"t":"Solar Year",
-															"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+															"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 															"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 															"i":"",
 															"ls_status":"0"
 														},
 														{
 															"t":"Light Years",
-															"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+															"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 															"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 															"i":"",
 															"ls_status":"0"
 														},
 														{
 															"t":"Speed of Sun",
-															"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+															"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 															"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 															"i":"",
 															"ls_status":"0"
@@ -3684,35 +3684,35 @@
 						},
 						{
 							"t":"Scientist's Theory related to Revolution of Earth and Sun",
-							"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+							"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 							"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 							"i":"",
 							"ls_status":"0"
 						},
 						{
 							"t":"Big Ban Theory",
-							"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+							"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 							"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 							"i":"",
 							"ls_status":"1",
 							"ls":[
 								{
 									"t":"Concept",
-									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 									"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 									"i":"",
 									"ls_status":"0"
 								},
 								{
 									"t":"Edwin Hubble's Theory",
-									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 									"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 									"i":"",
 									"ls_status":"0"
 								},
 								{
 									"t":"Big Crunch",
-									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 									"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 									"i":"",
 									"ls_status":"0"
@@ -3721,56 +3721,56 @@
 						},
 						{
 							"t":"Revolution of Earth",
-							"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+							"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 							"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 							"i":"",
 							"ls_status":"1",
 							"ls":[
 								{
 									"t":"Concept",
-									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 									"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 									"i":"",
 									"ls_status":"1",
 									"ls":[
 										{
 											"t":"Northern Hemisphere",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
 										},
 										{
 											"t":"Equator",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
 										},
 										{
 											"t":"Southern Hemisphere",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
 										},
 										{
 											"t":"Aphellion",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
 										},
 										{
 											"t":"Perihelion",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
 										},
 										{
 											"t":"Apsideline",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
@@ -3779,7 +3779,7 @@
 								},
 								{
 									"t":"Astronomical Unit",
-									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 									"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 									"i":"",
 									"ls_status":"0"
@@ -3787,7 +3787,7 @@
 								
 								{
 									"t":"Angle of Inclination of Earth",
-									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 									"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 									"i":"",
 									"ls_status":"0"
@@ -3796,35 +3796,35 @@
 						},
 						{
 							"t":"Planetarium (89)",
-							"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+							"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 							"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 							"i":"",
 							"ls_status":"1",
 							"ls":[
 								{
 									"t":"Polar Star",
-									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 									"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 									"i":"",
 									"ls_status":"0"
 								},
 								{
 									"t":"Saptarishi",
-									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 									"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 									"i":"",
 									"ls_status":"1",
 									"ls":[
 										{
 											"t":"Ursa Minor",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
 										},
 										{
 											"t":"Ursa Major",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
@@ -3833,14 +3833,14 @@
 								},
 								{
 									"t":"Orion",
-									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 									"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 									"i":"",
 									"ls_status":"0"
 								},
 								{
 									"t":"Hydra",
-									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 									"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 									"i":"",
 									"ls_status":"0"
@@ -3849,28 +3849,28 @@
 						},
 						{
 							"t":"The Origin of our Solar System",
-							"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+							"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 							"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 							"i":"",
 							"ls_status":"1",
 							"ls":[
 								{
 									"t":"Mono-Star Theory",
-									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 									"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 									"i":"",
 									"ls_status":"1",
 									"ls":[
 										{
 											"t":"Kant",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
 										},
 										{
 											"t":"Laplace",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
@@ -3879,21 +3879,21 @@
 								},
 								{
 									"t":"Dual-Star Theory",
-									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 									"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 									"i":"",
 									"ls_status":"1",
 									"ls":[
 										{
 											"t":"Chamberlin",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
 										},
 										{
 											"t":"James Jeans",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
@@ -3902,14 +3902,14 @@
 								},
 								{
 									"t":"Double Star Theory",
-									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 									"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 									"i":"",
 									"ls_status":"1",
 									"ls":[
 										{
 											"t":"Littleton",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
@@ -3920,84 +3920,84 @@
 						},
 						{
 							"t":"Solar System",
-							"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+							"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 							"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 							"i":"",
 							"ls_status":"1",
 							"ls":[
 								{
 									"t":"Sun",
-									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 									"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 									"i":"",
 									"ls_status":"0"
 								},
 								{
 									"t":"Planet",
-									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 									"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 									"i":"",
 									"ls_status":"1",
 									"ls":[
 										{
 											"t":"Concept",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
 										},
 										{
 											"t":"Mercury",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
 										},
 										{
 											"t":"Venus",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
 										},
 										{
 											"t":"Earth",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
 										},
 										{
 											"t":"Mars",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
 										},
 										{
 											"t":"Jupiter",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
 										},
 										{
 											"t":"Saturn",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
 										},
 										{
 											"t":"Uranus",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
 										},
 										{
 											"t":"Neptune",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
@@ -4006,28 +4006,28 @@
 								},
 								{
 									"t":"Earth (in Detail)",
-									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 									"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 									"i":"",
 									"ls_status":"1",
 									"ls":[
 										{
 											"t":"Density",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
 										},
 										{
 											"t":"Rotation of Earth",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
 										},
 										{
 											"t":"Revolution of Earth",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
@@ -4036,42 +4036,42 @@
 								},
 								{
 									"t":"Moon (Natural Satellite)",
-									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 									"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 									"i":"",
 									"ls_status":"1",
 									"ls":[
 										{
 											"t":"Concept",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
 										},
 										{
 											"t":"Revolution of Moon",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
 										},
 										{
 											"t":"Phases of Moon",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
 										},
 										{
 											"t":"Red Moon",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
 										},
 										{
 											"t":"Facts",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
@@ -4080,56 +4080,56 @@
 								},
 								{
 									"t":"Eclipse",
-									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 									"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 									"i":"",
 									"ls_status":"1",
 									"ls":[
 										{
 											"t":"Lunar Eclipse",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
 										},
 										{
 											"t":"Solar Eclipse",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
 										},
 										{
 											"t":"Moon Transit",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
 										},
 										{
 											"t":"Tides & Syzygy",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"1",
 											"ls":[
 												{
 													"t":"High Tide",
-													"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+													"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 													"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 													"i":"",
 													"ls_status":"0"
 												},
 												{
 													"t":"Low Tide",
-													"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+													"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 													"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 													"i":"",
 													"ls_status":"0"
 												},
 												{
 													"t":"Syzygy",
-													"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+													"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 													"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 													"i":"",
 													"ls_status":"0"
@@ -4138,7 +4138,7 @@
 										},
 										{
 											"t":"Linear Eclipse",
-											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+											"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 											"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 											"i":"",
 											"ls_status":"0"
@@ -4147,14 +4147,14 @@
 								},
 								{
 									"t":"Pluto",
-									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 									"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 									"i":"",
 									"ls_status":"0"
 								},
 								{
 									"t":"Goldilocks Zone",
-									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+									"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Astronomy_ShortNotesBg.png",
 									"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 									"i":"",
 									"ls_status":"0"
@@ -4172,7 +4172,7 @@
 				},
 				{
 					"t":"Geology",
-					"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
+					"img":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geology_ShortNotesBg.png",
 					"icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
 					"i":"",
 					"ls_status":"0"
