@@ -146,6 +146,24 @@
             ]
         },
         {
+            "title": "UPSC CSE",
+            "category": "Examination",
+            "cta": "UPSC_CSE_Prelims_Quiz",
+            "quiz_list": [
+                {
+                    "title": "UPSC CSE 2022 Prelims",
+                    "total": "100",
+                    "correct_points": "2",
+                    "negative_points": "0.66",
+                    "quiz_ui": "one",
+                    "level": "Moderate",
+                    "option_count": "4",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/UPSC/Quiz_UPSC_CSE_Prelims_2022_100.json"
+                }
+            ]
+        },
+        {
             "title": "BPSC Prelims",
             "category": "Examination",
             "cta": "BPSC_Prelims_Quiz",
