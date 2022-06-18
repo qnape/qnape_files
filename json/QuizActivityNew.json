@@ -70,6 +70,72 @@
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/History/Quiz_History_006_10.json"
+                },
+                {
+                    "title": "History Quiz 07",
+                    "total": "10",
+                    "correct_points": "2",
+                    "negative_points": "0.66",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "4",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/History/Quiz_History_007_10.json"
+                },
+                {
+                    "title": "History Quiz 08",
+                    "total": "10",
+                    "correct_points": "2",
+                    "negative_points": "0.66",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "4",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/History/Quiz_History_008_10.json"
+                },
+                {
+                    "title": "History Quiz 09",
+                    "total": "10",
+                    "correct_points": "2",
+                    "negative_points": "0.66",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "4",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/History/Quiz_History_009_10.json"
+                },
+                {
+                    "title": "History Quiz 10",
+                    "total": "10",
+                    "correct_points": "2",
+                    "negative_points": "0.66",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "4",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/History/Quiz_History_010_10.json"
+                },
+                {
+                    "title": "History Quiz 11",
+                    "total": "10",
+                    "correct_points": "2",
+                    "negative_points": "0.66",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "4",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/History/Quiz_History_011_10.json"
+                },
+                {
+                    "title": "History Quiz 12",
+                    "total": "10",
+                    "correct_points": "2",
+                    "negative_points": "0.66",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "4",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/History/Quiz_History_012_10.json"
                 }
             ]
         },
