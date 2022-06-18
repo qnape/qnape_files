@@ -165,6 +165,116 @@
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Polity/Quiz_Polity_002_10.json"
+                },
+                {
+                    "title": "Polity Quiz 03",
+                    "total": "10",
+                    "correct_points": "2",
+                    "negative_points": "0.66",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "4",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Polity/Quiz_Polity_003_10.json"
+                },
+                {
+                    "title": "Polity Quiz 04",
+                    "total": "10",
+                    "correct_points": "2",
+                    "negative_points": "0.66",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "4",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Polity/Quiz_Polity_004_10.json"
+                },
+                {
+                    "title": "Polity Quiz 05",
+                    "total": "10",
+                    "correct_points": "2",
+                    "negative_points": "0.66",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "4",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Polity/Quiz_Polity_005_10.json"
+                },
+                {
+                    "title": "Polity Quiz 06",
+                    "total": "10",
+                    "correct_points": "2",
+                    "negative_points": "0.66",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "4",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Polity/Quiz_Polity_006_10.json"
+                },
+                {
+                    "title": "Polity Quiz 07",
+                    "total": "10",
+                    "correct_points": "2",
+                    "negative_points": "0.66",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "4",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Polity/Quiz_Polity_007_10.json"
+                },
+                {
+                    "title": "Polity Quiz 08",
+                    "total": "10",
+                    "correct_points": "2",
+                    "negative_points": "0.66",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "4",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Polity/Quiz_Polity_008_10.json"
+                },
+                {
+                    "title": "Polity Quiz 09",
+                    "total": "10",
+                    "correct_points": "2",
+                    "negative_points": "0.66",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "4",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Polity/Quiz_Polity_009_10.json"
+                },
+                {
+                    "title": "Polity Quiz 10",
+                    "total": "10",
+                    "correct_points": "2",
+                    "negative_points": "0.66",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "4",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Polity/Quiz_Polity_010_10.json"
+                },
+                {
+                    "title": "Polity Quiz 11",
+                    "total": "10",
+                    "correct_points": "2",
+                    "negative_points": "0.66",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "4",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Polity/Quiz_Polity_011_10.json"
+                },
+                {
+                    "title": "Polity Quiz 12",
+                    "total": "10",
+                    "correct_points": "2",
+                    "negative_points": "0.66",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "4",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Polity/Quiz_Polity_012_10.json"
                 }
             ]
         },
