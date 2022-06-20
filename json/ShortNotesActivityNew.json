@@ -4,8 +4,8 @@
 			"t": "History",
 			"img": "https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/History_ShortNotesBg.png",
 			"icon": "https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/history.png",
-			"h": "This is the Heading. This is the Heading.",
-			"sd": "This is the Short Description. This is the Short Description. This is the Short Description. This is the Short Description.",
+			"h": "",
+			"sd": "",
 			"i": "Coming Soon...\n\n\n\n\n\n\n\n\n\n\n",
 			"ls_status": "1",
 			"ls": [
@@ -1816,8 +1816,8 @@
 			"t": "Polity",
 			"img": "https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Polity_ShortNotesBg.png",
 			"icon": "https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/polity.png",
-			"h": "This is the Heading. This is the Heading.",
-			"sd": "This is the Short Description. This is the Short Description. This is the Short Description. This is the Short Description.",
+			"h": "",
+			"sd": "",
 			"i": "Coming Soon...\n\n\n\n\n\n\n\n\n\n\n",
 			"ls_status": "1",
 			"ls": [
@@ -1825,8 +1825,8 @@
 					"t": "Schedules",
 					"img": "https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Polity_ShortNotesBg.png",
 					"icon": "https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/polity.png",
-					"h": "This is the Heading. This is the Heading.",
-					"sd": "This is the Short Description. This is the Short Description. This is the Short Description. This is the Short Description.",
+					"h": "12 Schedules in the Indian Constitution",
+					"sd": "Originally there were only 8 schedules in the constitution. Later by the 1st, 52nd, 73rd & 74th Constitutional Amendments Acts the 9th, 10th, 11th & 12th schedules were added respectively.",
 					"i": "Coming Soon...\n\n\n\n\n\n\n\n\n\n\n",
 					"ls_status": "1",
 					"ls": [
@@ -1944,8 +1944,8 @@
 					"t": "Articles",
 					"img": "https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Polity_ShortNotesBg.png",
 					"icon": "https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/polity.png",
-					"h": "This is the Heading. This is the Heading.",
-					"sd": "This is the Short Description. This is the Short Description. This is the Short Description. This is the Short Description.",
+					"h": "Constitution of India contains 395 articles in 22 parts.",
+					"sd": "The Indian constitution is the world's longest for a sovereign nation. At its enactment, it had 395 articles in 22 parts and 8 schedules.",
 					"i": "Coming Soon...\n\n\n\n\n\n\n\n\n\n\n",
 					"ls_status": "1",
 					"ls": [
@@ -4209,8 +4209,8 @@
 					"t": "Amendments",
 					"img": "https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Polity_ShortNotesBg.png",
 					"icon": "https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/polity.png",
-					"h": "This is the Heading. This is the Heading.",
-					"sd": "This is the Short Description. This is the Short Description. This is the Short Description. This is the Short Description.",
+					"h": "105 amendments of the Constitution of India since it was first enacted in 1950.",
+					"sd": "There are three types of amendments to the Constitution of India of which second and third type of amendments are governed by Article 368.",
 					"i": "Coming Soon...\n\n\n\n\n\n\n\n\n\n\n",
 					"ls_status": "1",
 					"ls": [
@@ -4478,11 +4478,11 @@
 					]
 				},
 				{
-					"t": "Case Studies",
+					"t": "Case Studies - Judgements",
 					"img": "https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Polity_ShortNotesBg.png",
 					"icon": "https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/polity.png",
-					"h": "This is the Heading. This is the Heading.",
-					"sd": "This is the Short Description. This is the Short Description. This is the Short Description. This is the Short Description.",
+					"h": "Important Judgements of Independent India",
+					"sd": "These judgements are to be appreciated not only as precedents, but also as having laid down the law on issues of paramount importance — law that is binding on all courts and authorities in the country.",
 					"i": "Coming Soon...\n\n\n\n\n\n\n\n\n\n\n",
 					"ls_status": "0"
 				},
@@ -4490,8 +4490,8 @@
 					"t": "Making of Indian Constitution",
 					"img": "https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Polity_ShortNotesBg.png",
 					"icon": "https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/polity.png",
-					"h": "This is the Heading. This is the Heading.",
-					"sd": "This is the Short Description. This is the Short Description. This is the Short Description. This is the Short Description.",
+					"h": "The constitution was drafted by the Constituent Assembly, which was elected by elected members of the provincial assemblies.",
+					"sd": "The 389-member assembly (reduced to 299 after the partition of India) took almost three years to draft the constitution holding eleven sessions over a 165-day period.",
 					"i": "Coming Soon...\n\n\n\n\n\n\n\n\n\n\n",
 					"ls_status": "0"
 				},
@@ -4499,8 +4499,8 @@
 					"t": "International Relations",
 					"img": "https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Polity_ShortNotesBg.png",
 					"icon": "https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/polity.png",
-					"h": "This is the Heading. This is the Heading.",
-					"sd": "This is the Short Description. This is the Short Description. This is the Short Description. This is the Short Description.",
+					"h": "Internal Relations & Geo-Politics",
+					"sd": "International relations, international studies or international affairs is the scientific study of interactions between sovereign states.",
 					"i": "Coming Soon...\n\n\n\n\n\n\n\n\n\n\n",
 					"ls_status": "0"
 				}
@@ -4510,8 +4510,8 @@
 			"t": "Geography",
 			"img": "https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Geography_ShortNotesBg.png",
 			"icon": "https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/geography.png",
-			"h": "This is the Heading. This is the Heading.",
-			"sd": "This is the Short Description. This is the Short Description. This is the Short Description. This is the Short Description.",
+			"h": "",
+			"sd": "",
 			"i": "Coming Soon...\n\n\n\n\n\n\n\n\n\n\n",
 			"ls_status": "1",
 			"ls": [
@@ -5344,8 +5344,8 @@
 			"t": "Map",
 			"img": "https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Map_ShortNotesBg.png",
 			"icon": "https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/map.png",
-			"h": "This is the Heading. This is the Heading.",
-			"sd": "This is the Short Description. This is the Short Description. This is the Short Description. This is the Short Description.",
+			"h": "",
+			"sd": "",
 			"i": "Coming Soon...\n\n\n\n\n\n\n\n\n\n\n",
 			"ls_status": "1",
 			"ls": [
@@ -14207,8 +14207,8 @@
 			"t": "Economics",
 			"img": "https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/Economics_ShortNotesBg.png",
 			"icon": "https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/economics.png",
-			"h": "This is the Heading. This is the Heading.",
-			"sd": "This is the Short Description. This is the Short Description. This is the Short Description. This is the Short Description.",
+			"h": "",
+			"sd": "",
 			"i": "Coming Soon...\n\n\n\n\n\n\n\n\n\n\n",
 			"ls_status": "1",
 			"ls": [
@@ -14263,8 +14263,8 @@
 			"t": "Current Affairs",
 			"img": "https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/CA_ShortNotesBg.png",
 			"icon": "https://raw.githubusercontent.com/qnape/qnape_files/main/ShortNotes/ca.png",
-			"h": "This is the Heading. This is the Heading.",
-			"sd": "This is the Short Description. This is the Short Description. This is the Short Description. This is the Short Description.",
+			"h": "",
+			"sd": "",
 			"i": "Coming Soon...\n\n\n\n\n\n\n\n\n\n\n",
 			"ls_status": "1",
 			"ls": [
