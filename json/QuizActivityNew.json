@@ -7,6 +7,7 @@
             "quiz_list": [
                 {
                     "title": "History Quiz 01",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -18,6 +19,7 @@
                 },
                 {
                     "title": "History Quiz 02",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -29,6 +31,7 @@
                 },
                 {
                     "title": "History Quiz 03",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -40,6 +43,7 @@
                 },
                 {
                     "title": "History Quiz 04",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -51,6 +55,7 @@
                 },
                 {
                     "title": "History Quiz 05",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -62,6 +67,7 @@
                 },
                 {
                     "title": "History Quiz 06",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -73,6 +79,7 @@
                 },
                 {
                     "title": "History Quiz 07",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -84,6 +91,7 @@
                 },
                 {
                     "title": "History Quiz 08",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -95,6 +103,7 @@
                 },
                 {
                     "title": "History Quiz 09",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -106,6 +115,7 @@
                 },
                 {
                     "title": "History Quiz 10",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -117,6 +127,7 @@
                 },
                 {
                     "title": "History Quiz 11",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -128,6 +139,7 @@
                 },
                 {
                     "title": "History Quiz 12",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -146,6 +158,7 @@
             "quiz_list": [
                 {
                     "title": "Polity Quiz 01",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -157,6 +170,7 @@
                 },
                 {
                     "title": "Polity Quiz 02",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -168,6 +182,7 @@
                 },
                 {
                     "title": "Polity Quiz 03",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -179,6 +194,7 @@
                 },
                 {
                     "title": "Polity Quiz 04",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -190,6 +206,7 @@
                 },
                 {
                     "title": "Polity Quiz 05",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -201,6 +218,7 @@
                 },
                 {
                     "title": "Polity Quiz 06",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -212,6 +230,7 @@
                 },
                 {
                     "title": "Polity Quiz 07",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -223,6 +242,7 @@
                 },
                 {
                     "title": "Polity Quiz 08",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -234,6 +254,7 @@
                 },
                 {
                     "title": "Polity Quiz 09",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -245,6 +266,7 @@
                 },
                 {
                     "title": "Polity Quiz 10",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -256,6 +278,7 @@
                 },
                 {
                     "title": "Polity Quiz 11",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -267,6 +290,7 @@
                 },
                 {
                     "title": "Polity Quiz 12",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -285,6 +309,7 @@
             "quiz_list": [
                 {
                     "title": "Geography Quiz 01",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -296,6 +321,7 @@
                 },
                 {
                     "title": "Geography Quiz 02",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -307,6 +333,7 @@
                 },
                 {
                     "title": "Geography Quiz 03",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -318,6 +345,7 @@
                 },
                 {
                     "title": "Geography Quiz 04",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -329,6 +357,7 @@
                 },
                 {
                     "title": "Geography Quiz 05",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -340,6 +369,7 @@
                 },
                 {
                     "title": "Geography Quiz 06",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -351,6 +381,7 @@
                 },
                 {
                     "title": "Geography Quiz 07",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -362,6 +393,7 @@
                 },
                 {
                     "title": "Geography Quiz 08",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -373,6 +405,7 @@
                 },
                 {
                     "title": "Geography Quiz 09",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -384,6 +417,7 @@
                 },
                 {
                     "title": "Geography Quiz 10",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -395,6 +429,7 @@
                 },
                 {
                     "title": "Geography Quiz 11",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -406,6 +441,7 @@
                 },
                 {
                     "title": "Geography Quiz 12",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -424,6 +460,7 @@
             "quiz_list": [
                 {
                     "title": "Economics Quiz 01",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -435,6 +472,7 @@
                 },
                 {
                     "title": "Economics Quiz 02",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -446,6 +484,7 @@
                 },
                 {
                     "title": "Economics Quiz 03",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -457,6 +496,7 @@
                 },
                 {
                     "title": "Economics Quiz 04",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -468,6 +508,7 @@
                 },
                 {
                     "title": "Economics Quiz 05",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -479,6 +520,7 @@
                 },
                 {
                     "title": "Economics Quiz 06",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -490,6 +532,7 @@
                 },
                 {
                     "title": "Economics Quiz 07",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -501,6 +544,7 @@
                 },
                 {
                     "title": "Economics Quiz 08",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -512,6 +556,7 @@
                 },
                 {
                     "title": "Economics Quiz 09",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -523,6 +568,7 @@
                 },
                 {
                     "title": "Economics Quiz 10",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -541,6 +587,7 @@
             "quiz_list": [
                 {
                     "title": "Art & Culture Quiz 01",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -552,6 +599,7 @@
                 },
                 {
                     "title": "Art & Culture Quiz 02",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -563,6 +611,7 @@
                 },
                 {
                     "title": "Art & Culture Quiz 03",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -574,6 +623,7 @@
                 },
                 {
                     "title": "Art & Culture Quiz 04",
+                    "category":"NCERT",
                     "total": "10",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -592,6 +642,7 @@
             "quiz_list": [
                 {
                     "title": "UPSC CSE 2022 Prelims",
+                    "category":"PYQ",
                     "total": "100",
                     "correct_points": "2",
                     "negative_points": "0.66",
@@ -610,6 +661,7 @@
             "quiz_list": [
                 {
                     "title": "BPSC 66 Prelims",
+                    "category":"PYQ",
                     "total": "150",
                     "correct_points": "2",
                     "negative_points": "0",
@@ -628,6 +680,7 @@
             "quiz_list": [
                 {
                     "title": "Bihar Daroga 2019",
+                    "category":"PYQ",
                     "total": "100",
                     "correct_points": "2",
                     "negative_points": "0",
