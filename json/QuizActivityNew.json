@@ -136,105 +136,6 @@
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/History/Quiz_History_012_10.json"
-                },
-                {
-                    "title": "History Quiz Easy 01",
-                    "total": "25",
-                    "correct_points": "2",
-                    "negative_points": "0.66",
-                    "quiz_ui": "one",
-                    "level": "Easy",
-                    "option_count": "4",
-                    "multiLang": "yes",
-                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/History/Quiz_History_001_25.json"
-                },
-                {
-                    "title": "History Quiz Moderate 01",
-                    "total": "25",
-                    "correct_points": "2",
-                    "negative_points": "0.66",
-                    "quiz_ui": "one",
-                    "level": "Moderate",
-                    "option_count": "4",
-                    "multiLang": "yes",
-                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/History/Quiz_History_001_25.json"
-                },
-                {
-                    "title": "History Quiz Hard 01",
-                    "total": "25",
-                    "correct_points": "2",
-                    "negative_points": "0.66",
-                    "quiz_ui": "one",
-                    "level": "Hard",
-                    "option_count": "4",
-                    "multiLang": "yes",
-                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/History/Quiz_History_001_25.json"
-                },
-                {
-                    "title": "History Quiz Easy 01",
-                    "total": "50",
-                    "correct_points": "2",
-                    "negative_points": "0.66",
-                    "quiz_ui": "one",
-                    "level": "Easy",
-                    "option_count": "4",
-                    "multiLang": "yes",
-                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/History/Quiz_History_001_50.json"
-                },
-                {
-                    "title": "History Quiz Moderate 01",
-                    "total": "50",
-                    "correct_points": "2",
-                    "negative_points": "0.66",
-                    "quiz_ui": "one",
-                    "level": "Moderate",
-                    "option_count": "4",
-                    "multiLang": "yes",
-                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/History/Quiz_History_001_50.json"
-                },
-                {
-                    "title": "History Quiz Hard 01",
-                    "total": "50",
-                    "correct_points": "2",
-                    "negative_points": "0.66",
-                    "quiz_ui": "one",
-                    "level": "Hard",
-                    "option_count": "4",
-                    "multiLang": "yes",
-                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/History/Quiz_History_001_50.json"
-                },
-                {
-                    "title": "History Quiz Easy 01",
-                    "total": "100",
-                    "correct_points": "2",
-                    "negative_points": "0.66",
-                    "quiz_ui": "one",
-                    "level": "Easy",
-                    "option_count": "4",
-                    "multiLang": "yes",
-                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/History/Quiz_History_001_100.json"
-                },
-                {
-                    "title": "History Quiz Moderate 01",
-                    "total": "100",
-                    "correct_points": "2",
-                    "negative_points": "0.66",
-                    "quiz_ui": "one",
-                    "level": "Moderate",
-                    "option_count": "4",
-                    "multiLang": "yes",
-                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/History/Quiz_History_001_100.json"
-                },
-                {
-                    "title": "History Quiz Hard 01",
-                    "total": "100",
-                    "correct_points": "2",
-                    "negative_points": "0.66",
-                    "quiz_ui": "one",
-                    "level": "Hard",
-                    "option_count": "4",
-                    "multiLang": "yes",
-                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/History/Quiz_History_001_100.json"
                 }
             ]
         },
@@ -293,7 +194,7 @@
                     "correct_points": "2",
                     "negative_points": "0.66",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Polity/Quiz_Polity_005_10.json"
@@ -304,7 +205,7 @@
                     "correct_points": "2",
                     "negative_points": "0.66",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Polity/Quiz_Polity_006_10.json"
@@ -315,7 +216,7 @@
                     "correct_points": "2",
                     "negative_points": "0.66",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Polity/Quiz_Polity_007_10.json"
@@ -326,7 +227,7 @@
                     "correct_points": "2",
                     "negative_points": "0.66",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Polity/Quiz_Polity_008_10.json"
@@ -337,7 +238,7 @@
                     "correct_points": "2",
                     "negative_points": "0.66",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Hard",
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Polity/Quiz_Polity_009_10.json"
@@ -348,7 +249,7 @@
                     "correct_points": "2",
                     "negative_points": "0.66",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Hard",
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Polity/Quiz_Polity_010_10.json"
@@ -359,7 +260,7 @@
                     "correct_points": "2",
                     "negative_points": "0.66",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Hard",
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Polity/Quiz_Polity_011_10.json"
@@ -370,7 +271,7 @@
                     "correct_points": "2",
                     "negative_points": "0.66",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Hard",
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Polity/Quiz_Polity_012_10.json"
@@ -432,7 +333,7 @@
                     "correct_points": "2",
                     "negative_points": "0.66",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Geography/Quiz_Geography_005_10.json"
@@ -443,7 +344,7 @@
                     "correct_points": "2",
                     "negative_points": "0.66",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Geography/Quiz_Geography_006_10.json"
@@ -454,7 +355,7 @@
                     "correct_points": "2",
                     "negative_points": "0.66",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Geography/Quiz_Geography_007_10.json"
@@ -465,7 +366,7 @@
                     "correct_points": "2",
                     "negative_points": "0.66",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Geography/Quiz_Geography_008_10.json"
@@ -476,7 +377,7 @@
                     "correct_points": "2",
                     "negative_points": "0.66",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Hard",
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Geography/Quiz_Geography_009_10.json"
@@ -487,7 +388,7 @@
                     "correct_points": "2",
                     "negative_points": "0.66",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Hard",
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Geography/Quiz_Geography_010_10.json"
@@ -498,7 +399,7 @@
                     "correct_points": "2",
                     "negative_points": "0.66",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Hard",
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Geography/Quiz_Geography_011_10.json"
@@ -509,7 +410,7 @@
                     "correct_points": "2",
                     "negative_points": "0.66",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Hard",
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Geography/Quiz_Geography_012_10.json"
@@ -571,7 +472,7 @@
                     "correct_points": "2",
                     "negative_points": "0.66",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Economics/Quiz_Economics_005_10.json"
@@ -582,7 +483,7 @@
                     "correct_points": "2",
                     "negative_points": "0.66",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Economics/Quiz_Economics_006_10.json"
@@ -593,7 +494,7 @@
                     "correct_points": "2",
                     "negative_points": "0.66",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Economics/Quiz_Economics_007_10.json"
@@ -604,7 +505,7 @@
                     "correct_points": "2",
                     "negative_points": "0.66",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Economics/Quiz_Economics_008_10.json"
@@ -615,7 +516,7 @@
                     "correct_points": "2",
                     "negative_points": "0.66",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Hard",
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Economics/Quiz_Economics_009_10.json"
@@ -626,7 +527,7 @@
                     "correct_points": "2",
                     "negative_points": "0.66",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Hard",
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/Economics/Quiz_Economics_010_10.json"
@@ -655,7 +556,7 @@
                     "correct_points": "2",
                     "negative_points": "0.66",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/ArtCulture/Quiz_ArtCulture_002_10.json"
@@ -666,7 +567,7 @@
                     "correct_points": "2",
                     "negative_points": "0.66",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/ArtCulture/Quiz_ArtCulture_003_10.json"
@@ -677,7 +578,7 @@
                     "correct_points": "2",
                     "negative_points": "0.66",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Hard",
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/ArtCulture/Quiz_ArtCulture_004                                                                                _10.json"
@@ -695,7 +596,7 @@
                     "correct_points": "2",
                     "negative_points": "0.66",
                     "quiz_ui": "one",
-                    "level": "Moderate",
+                    "level": "Easy",
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/UPSC/Quiz_UPSC_CSE_Prelims_2022_100.json"
@@ -713,7 +614,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Moderate",
+                    "level": "Easy",
                     "option_count": "5",
                     "multiLang": "en",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_66_PYQ_150.json"
@@ -731,7 +632,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Moderate",
+                    "level": "Easy",
                     "option_count": "4",
                     "multiLang": "en",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BiharPoliceSI/Quiz_BiharPoliceSI_2019_PYQ_100.json"
