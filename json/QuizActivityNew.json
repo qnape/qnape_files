@@ -641,13 +641,37 @@
             "cta": "UPSC_CSE_Prelims_Quiz",
             "quiz_list": [
                 {
+                    "title": "Indian Economy Quiz 01",
+                    "category":"Subjective",
+                    "total": "30",
+                    "correct_points": "2",
+                    "negative_points": "0.66",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "4",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/UPSC/Quiz_UPSC_CSE_Subjective_IndianEconomy_001_30.json"
+                },
+                {
+                    "title": "Environment & Ecology Quiz 01",
+                    "category":"Subjective",
+                    "total": "30",
+                    "correct_points": "2",
+                    "negative_points": "0.66",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "4",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/UPSC/Quiz_UPSC_CSE_Subjective_EnvironmentEcology_001_30.json"
+                },
+                {
                     "title": "UPSC CSE 2022 Prelims",
                     "category":"PYQ",
                     "total": "100",
                     "correct_points": "2",
                     "negative_points": "0.66",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Hard",
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/UPSC/Quiz_UPSC_CSE_Prelims_2022_100.json"
