@@ -693,7 +693,7 @@
                     "level": "Easy",
                     "option_count": "5",
                     "multiLang": "yes",
-                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_Subjective_BiharStateHistory_001_25.json"
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_BiharStateHistory_001_25.json"
                 },
                 {
                     "title": "Bihar State History Quiz 02",
@@ -705,7 +705,7 @@
                     "level": "Easy",
                     "option_count": "5",
                     "multiLang": "yes",
-                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_Subjective_BiharStateHistory_002_25.json"
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_BiharStateHistory_002_25.json"
                 },
                 {
                     "title": "Bihar State Geography Quiz 01",
@@ -717,7 +717,7 @@
                     "level": "Easy",
                     "option_count": "5",
                     "multiLang": "yes",
-                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_Subjective_BiharStateGeography_001_25.json"
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_BiharStateGeography_001_25.json"
                 },
                 {
                     "title": "Bihar State Geography Quiz 02",
@@ -729,7 +729,7 @@
                     "level": "Easy",
                     "option_count": "5",
                     "multiLang": "yes",
-                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_Subjective_BiharStateGeography_002_25.json"
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_BiharStateGeography_002_25.json"
                 },
                 {
                     "title": "Art & Culture Quiz 01",
@@ -741,7 +741,43 @@
                     "level": "Easy",
                     "option_count": "5",
                     "multiLang": "yes",
-                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_Subjective_ArtCulture_001_25.json"
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_ArtCulture_001_25.json"
+                },
+                {
+                    "title": "Ancient History Quiz 01",
+                    "category":"Subjective",
+                    "total": "25",
+                    "correct_points": "2",
+                    "negative_points": "0",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "5",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_AncientHistory_001_25.json"
+                },
+                {
+                    "title": "Ancient History Quiz 02",
+                    "category":"Subjective",
+                    "total": "25",
+                    "correct_points": "2",
+                    "negative_points": "0",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "5",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_AncientHistory_002_25.json"
+                },
+                {
+                    "title": "Medieval History Quiz 01",
+                    "category":"Subjective",
+                    "total": "25",
+                    "correct_points": "2",
+                    "negative_points": "0",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "5",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_MedievalHistory_001_25.json"
                 },
                 {
                     "title": "BPSC 66 Prelims",
@@ -753,7 +789,7 @@
                     "level": "Hard",
                     "option_count": "5",
                     "multiLang": "en",
-                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_66_PYQ_150.json"
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_BPSC_66_PYQ_150.json"
                 }
             ]
         },
