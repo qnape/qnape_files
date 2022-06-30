@@ -1,6 +1,207 @@
 {
     "Quiz": [
         {
+            "title": "UPSC CSE",
+            "category": "Examination",
+            "cta": "UPSC_CSE_Prelims_Quiz",
+            "quiz_list": [
+                {
+                    "title": "Indian Economy Quiz 01",
+                    "category":"Subjective",
+                    "total": "30",
+                    "correct_points": "2",
+                    "negative_points": "0.66",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "4",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/UPSC/Quiz_UPSC_CSE_Subjective_IndianEconomy_001_30.json"
+                },
+                {
+                    "title": "Environment & Ecology Quiz 01",
+                    "category":"Subjective",
+                    "total": "30",
+                    "correct_points": "2",
+                    "negative_points": "0.66",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "4",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/UPSC/Quiz_UPSC_CSE_Subjective_EnvironmentEcology_001_30.json"
+                },
+                {
+                    "title": "UPSC CSE 2022 Prelims",
+                    "category":"PYQ",
+                    "total": "100",
+                    "correct_points": "2",
+                    "negative_points": "0.66",
+                    "quiz_ui": "one",
+                    "level": "Hard",
+                    "option_count": "4",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/UPSC/Quiz_UPSC_CSE_Prelims_2022_100.json"
+                }
+            ]
+        },
+        {
+            "title": "BPSC",
+            "category": "Examination",
+            "cta": "BPSC_Prelims_Quiz",
+            "quiz_list": [
+                {
+                    "title": "Bihar State History Quiz 01",
+                    "category":"Subjective",
+                    "total": "25",
+                    "correct_points": "2",
+                    "negative_points": "0",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "5",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_BiharStateHistory_001_25.json"
+                },
+                {
+                    "title": "Bihar State History Quiz 02",
+                    "category":"Subjective",
+                    "total": "25",
+                    "correct_points": "2",
+                    "negative_points": "0",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "5",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_BiharStateHistory_002_25.json"
+                },
+                {
+                    "title": "Bihar State Geography Quiz 01",
+                    "category":"Subjective",
+                    "total": "25",
+                    "correct_points": "2",
+                    "negative_points": "0",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "5",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_BiharStateGeography_001_25.json"
+                },
+                {
+                    "title": "Bihar State Geography Quiz 02",
+                    "category":"Subjective",
+                    "total": "25",
+                    "correct_points": "2",
+                    "negative_points": "0",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "5",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_BiharStateGeography_002_25.json"
+                },
+                {
+                    "title": "Art & Culture Quiz 01",
+                    "category":"Subjective",
+                    "total": "25",
+                    "correct_points": "2",
+                    "negative_points": "0",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "5",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_ArtCulture_001_25.json"
+                },
+                {
+                    "title": "Ancient History Quiz 01",
+                    "category":"Subjective",
+                    "total": "25",
+                    "correct_points": "2",
+                    "negative_points": "0",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "5",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_AncientHistory_001_25.json"
+                },
+                {
+                    "title": "Ancient History Quiz 02",
+                    "category":"Subjective",
+                    "total": "25",
+                    "correct_points": "2",
+                    "negative_points": "0",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "5",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_AncientHistory_002_25.json"
+                },
+                {
+                    "title": "Medieval History Quiz 01",
+                    "category":"Subjective",
+                    "total": "25",
+                    "correct_points": "2",
+                    "negative_points": "0",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "5",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_MedievalHistory_001_25.json"
+                },
+                {
+                    "title": "Pre-Congress Modern Indian History Quiz 01",
+                    "category":"Subjective",
+                    "total": "25",
+                    "correct_points": "2",
+                    "negative_points": "0",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "5",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_PreCongressModernIndiaHistory_001_25.json"
+                },
+                {
+                    "title": "Pre-Congress Modern Indian History Quiz 02",
+                    "category":"Subjective",
+                    "total": "25",
+                    "correct_points": "2",
+                    "negative_points": "0",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "5",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_PreCongressModernIndiaHistory_002_25.json"
+                },
+                {
+                    "title": "BPSC 66 Prelims",
+                    "category":"PYQ",
+                    "total": "150",
+                    "correct_points": "2",
+                    "negative_points": "0",
+                    "quiz_ui": "one",
+                    "level": "Hard",
+                    "option_count": "5",
+                    "multiLang": "en",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_66_PYQ_150.json"
+                }
+            ]
+        },
+        {
+            "title": "Bihar Daroga",
+            "category": "Examination",
+            "cta": "BiharDaroga_Prelims_Quiz",
+            "quiz_list": [
+                {
+                    "title": "Bihar Daroga 2019",
+                    "category":"PYQ",
+                    "total": "100",
+                    "correct_points": "2",
+                    "negative_points": "0",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "4",
+                    "multiLang": "en",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BiharPoliceSI/Quiz_BiharPoliceSI_2019_PYQ_100.json"
+                }
+            ]
+        },
+        {
             "title": "History",
             "category": "Preparation",
             "cta": "History_Quiz",
@@ -632,207 +833,6 @@
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/ArtCulture/Quiz_ArtCulture_004                                                                                _10.json"
-                }
-            ]
-        },
-        {
-            "title": "UPSC CSE",
-            "category": "Examination",
-            "cta": "UPSC_CSE_Prelims_Quiz",
-            "quiz_list": [
-                {
-                    "title": "Indian Economy Quiz 01",
-                    "category":"Subjective",
-                    "total": "30",
-                    "correct_points": "2",
-                    "negative_points": "0.66",
-                    "quiz_ui": "one",
-                    "level": "Easy",
-                    "option_count": "4",
-                    "multiLang": "yes",
-                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/UPSC/Quiz_UPSC_CSE_Subjective_IndianEconomy_001_30.json"
-                },
-                {
-                    "title": "Environment & Ecology Quiz 01",
-                    "category":"Subjective",
-                    "total": "30",
-                    "correct_points": "2",
-                    "negative_points": "0.66",
-                    "quiz_ui": "one",
-                    "level": "Easy",
-                    "option_count": "4",
-                    "multiLang": "yes",
-                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/UPSC/Quiz_UPSC_CSE_Subjective_EnvironmentEcology_001_30.json"
-                },
-                {
-                    "title": "UPSC CSE 2022 Prelims",
-                    "category":"PYQ",
-                    "total": "100",
-                    "correct_points": "2",
-                    "negative_points": "0.66",
-                    "quiz_ui": "one",
-                    "level": "Hard",
-                    "option_count": "4",
-                    "multiLang": "yes",
-                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/UPSC/Quiz_UPSC_CSE_Prelims_2022_100.json"
-                }
-            ]
-        },
-        {
-            "title": "BPSC Prelims",
-            "category": "Examination",
-            "cta": "BPSC_Prelims_Quiz",
-            "quiz_list": [
-                {
-                    "title": "Bihar State History Quiz 01",
-                    "category":"Subjective",
-                    "total": "25",
-                    "correct_points": "2",
-                    "negative_points": "0",
-                    "quiz_ui": "one",
-                    "level": "Easy",
-                    "option_count": "5",
-                    "multiLang": "yes",
-                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_BiharStateHistory_001_25.json"
-                },
-                {
-                    "title": "Bihar State History Quiz 02",
-                    "category":"Subjective",
-                    "total": "25",
-                    "correct_points": "2",
-                    "negative_points": "0",
-                    "quiz_ui": "one",
-                    "level": "Easy",
-                    "option_count": "5",
-                    "multiLang": "yes",
-                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_BiharStateHistory_002_25.json"
-                },
-                {
-                    "title": "Bihar State Geography Quiz 01",
-                    "category":"Subjective",
-                    "total": "25",
-                    "correct_points": "2",
-                    "negative_points": "0",
-                    "quiz_ui": "one",
-                    "level": "Easy",
-                    "option_count": "5",
-                    "multiLang": "yes",
-                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_BiharStateGeography_001_25.json"
-                },
-                {
-                    "title": "Bihar State Geography Quiz 02",
-                    "category":"Subjective",
-                    "total": "25",
-                    "correct_points": "2",
-                    "negative_points": "0",
-                    "quiz_ui": "one",
-                    "level": "Easy",
-                    "option_count": "5",
-                    "multiLang": "yes",
-                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_BiharStateGeography_002_25.json"
-                },
-                {
-                    "title": "Art & Culture Quiz 01",
-                    "category":"Subjective",
-                    "total": "25",
-                    "correct_points": "2",
-                    "negative_points": "0",
-                    "quiz_ui": "one",
-                    "level": "Easy",
-                    "option_count": "5",
-                    "multiLang": "yes",
-                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_ArtCulture_001_25.json"
-                },
-                {
-                    "title": "Ancient History Quiz 01",
-                    "category":"Subjective",
-                    "total": "25",
-                    "correct_points": "2",
-                    "negative_points": "0",
-                    "quiz_ui": "one",
-                    "level": "Easy",
-                    "option_count": "5",
-                    "multiLang": "yes",
-                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_AncientHistory_001_25.json"
-                },
-                {
-                    "title": "Ancient History Quiz 02",
-                    "category":"Subjective",
-                    "total": "25",
-                    "correct_points": "2",
-                    "negative_points": "0",
-                    "quiz_ui": "one",
-                    "level": "Easy",
-                    "option_count": "5",
-                    "multiLang": "yes",
-                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_AncientHistory_002_25.json"
-                },
-                {
-                    "title": "Medieval History Quiz 01",
-                    "category":"Subjective",
-                    "total": "25",
-                    "correct_points": "2",
-                    "negative_points": "0",
-                    "quiz_ui": "one",
-                    "level": "Easy",
-                    "option_count": "5",
-                    "multiLang": "yes",
-                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_MedievalHistory_001_25.json"
-                },
-                {
-                    "title": "Pre-Congress Modern Indian History Quiz 01",
-                    "category":"Subjective",
-                    "total": "25",
-                    "correct_points": "2",
-                    "negative_points": "0",
-                    "quiz_ui": "one",
-                    "level": "Easy",
-                    "option_count": "5",
-                    "multiLang": "yes",
-                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_PreCongressModernIndiaHistory_001_25.json"
-                },
-                {
-                    "title": "Pre-Congress Modern Indian History Quiz 02",
-                    "category":"Subjective",
-                    "total": "25",
-                    "correct_points": "2",
-                    "negative_points": "0",
-                    "quiz_ui": "one",
-                    "level": "Easy",
-                    "option_count": "5",
-                    "multiLang": "yes",
-                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_PreCongressModernIndiaHistory_002_25.json"
-                },
-                {
-                    "title": "BPSC 66 Prelims",
-                    "category":"PYQ",
-                    "total": "150",
-                    "correct_points": "2",
-                    "negative_points": "0",
-                    "quiz_ui": "one",
-                    "level": "Hard",
-                    "option_count": "5",
-                    "multiLang": "en",
-                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_66_PYQ_150.json"
-                }
-            ]
-        },
-        {
-            "title": "Bihar Daroga Prelims",
-            "category": "Examination",
-            "cta": "BiharDaroga_Prelims_Quiz",
-            "quiz_list": [
-                {
-                    "title": "Bihar Daroga 2019",
-                    "category":"PYQ",
-                    "total": "100",
-                    "correct_points": "2",
-                    "negative_points": "0",
-                    "quiz_ui": "one",
-                    "level": "Easy",
-                    "option_count": "4",
-                    "multiLang": "en",
-                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BiharPoliceSI/Quiz_BiharPoliceSI_2019_PYQ_100.json"
                 }
             ]
         }
