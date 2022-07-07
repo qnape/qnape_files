@@ -373,6 +373,30 @@
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_Chemistry_001_25.json"
                 },
                 {
+                    "title": "BPSC - Enivironment & Ecology Quiz 01",
+                    "category":"Subjective",
+                    "total": "25",
+                    "correct_points": "2",
+                    "negative_points": "0",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "5",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_EnvironmentEcology_001_25.json"
+                },
+                {
+                    "title": "BPSC - Art & Culture (Ancient + Medieval) Quiz 01",
+                    "category":"Subjective",
+                    "total": "25",
+                    "correct_points": "2",
+                    "negative_points": "0",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "5",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_ArtCulture_AncientMedievalHistory_001_25.json"
+                },
+                {
                     "title": "BPSC 66 Prelims",
                     "category":"PYQ",
                     "total": "150",
