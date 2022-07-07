@@ -361,19 +361,19 @@
             "ans":"e"
         },       
         {
-            "q_en":"",
-            "a_en":"",
-            "b_en":"",
-            "c_en":"",
-            "d_en":"",
+            "q_en":"From which of the following places, coins of the Satavahana dynasty have been obtained?",
+            "a_en":"Ujjain",
+            "b_en":"Bhelsa and Dewas",
+            "c_en":"Tripuri",
+            "d_en":"Magadh",
             "e_en":"None of the above/More than one of the above",
-            "q_hin":"",
-            "a_hin":"",
-            "b_hin":"",
-            "c_hin":"",
-            "d_hin":"",
+            "q_hin":"निम्नलिखित में से किस स्थान से सातवाहन वंश के सिक्के प्राप्त हुए हैं?",
+            "a_hin":"उज्जैन",
+            "b_hin":"भेलसा और देवास",
+            "c_hin":"त्रिपुरी",
+            "d_hin":"मगध",
             "e_hin":"उपरोक्त में से कोई नहीं/उपरोक्त में से एक से अधिक",
-            "ans":""
+            "ans":"e"
         }
 	]
 }
