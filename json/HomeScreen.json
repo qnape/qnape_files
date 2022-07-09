@@ -1,6 +1,5 @@
 {
     "qnape_home_screen":[
-        
         {
             "id":"1",
             "title":"Quiz",
@@ -30,6 +29,6 @@
             "title":"Notes PDF",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/notes-128.png",
             "cta":"Notes_PDF"
-        },
+        }
     ]
 }
