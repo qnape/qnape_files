@@ -30,7 +30,7 @@
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/UPSC/Quiz_UPSC_CSE_Subjective_EnvironmentEcology_001_30.json"
                 },
                 {
-                    "title": "UPSC CSE 2022 Prelims",
+                    "title": "UPSC CSE 2022 - GS Prelims",
                     "category":"PYQ",
                     "total": "100",
                     "correct_points": "2",
@@ -40,6 +40,18 @@
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/UPSC/Quiz_UPSC_CSE_Prelims_2022_100.json"
+                },
+                {
+                    "title": "UPSC CSE 2021 - GS Prelims",
+                    "category":"PYQ",
+                    "total": "100",
+                    "correct_points": "2",
+                    "negative_points": "0.66",
+                    "quiz_ui": "one",
+                    "level": "Hard",
+                    "option_count": "4",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/UPSC/Quiz_UPSC_CSE_Prelims_2021_100.json"
                 }
             ]
         },
