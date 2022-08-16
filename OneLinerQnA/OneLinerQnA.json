@@ -1275,81 +1275,632 @@
                     ]
                 },
                 {
-                    "n":"",
+                    "n":"Post-Mughal Period and The Rise of Regional Power",
                     "qna":[
                         {
-                            "q":"",
-                            "a":""
+                            "q":"Since when is the post-Mughal period considered to have begun?",
+                            "a":"Since Aurangzeb's death (March 3, 1707)"
                         },
                         {
-                            "q":"",
-                            "a":""
+                            "q":"How many provinces in the Mughal Empire were there at the time of Aurangzeb's death?",
+                            "a":"21 Provinces"
                         },
                         {
-                            "q":"",
-                            "a":""
+                            "q":"In 1707, Mu'azaam Bahadur Shah I ascended the throne of Delhi, Who did he defeat in the war of succession?",
+                            "a":"Muhammad Azam Shah"
                         },
                         {
-                            "q":"",
-                            "a":""
+                            "q":"Bahadur Shah offered a Khill' at a mark of gratitude and high mansab in honor of which Sikh Guru?",
+                            "a":"Guru Govind Singh"
                         },
                         {
-                            "q":"",
-                            "a":""
+                            "q":"In the battle campaign against which Sikh leaderdid Bahadur I die and when?",
+                            "a":"Against Banda Bahadur on February 27, 1712"
                         },
                         {
-                            "q":"",
-                            "a":""
+                            "q":"Why was Bahadur Shah I called Shahe Bekhabar?",
+                            "a":"Because of Negligence in State Affairs"
                         },
                         {
-                            "q":"",
-                            "a":""
+                            "q":"Jahandar Shah succeeded Bahadur Shah as the Mughal emperor is 1712. Whose help did he get to ascend the throne?",
+                            "a":"Amir Zulfiqar Khan"
                         },
                         {
-                            "q":"",
-                            "a":""
+                            "q":"Who conferred the titles of Mirza on King Sawai Jaisingh of Amer and Maharaja on King Ajit Singh of Marwar?",
+                            "a":"by Jahandar Shah"
+                        },
+                        {
+                            "q":"With whose help did Farruksiyar sit on the Mughal throne?",
+                            "a":"Syed brothers - Abdullah Khan and Hussain Ali Khan Baraha"
+                        },
+                        {
+                            "q":"At this time, the Amirs of Turani, Iranian and Hindustani factories were active in the Mughal court. The Turani Amirs were of Central Asian origin and Iranians of Persian and Khorasanian Origin. The Amirs of Hindustani faction were related to:",
+                            "a":"Muslim of foreign origin who were born in India"
+                        },
+                        {
+                            "q":"Between whom was the Treaty of Delhi concluded in 1719?",
+                            "a":"Between Hussain Ali Khan and Maratha Peshwa Balaji Vishwanath"
+                        },
+                        {
+                            "q":"Why was Farrukhsiyar called a disgusting coward?",
+                            "a":"He was weak, cowardly and despicable"
+                        },
+                        {
+                            "q":"Muhammad Shah ascended the Mughal throne in 1719 with the cooperation of the Sayyid brothers. What was the real name of Muhammad Shah?",
+                            "a":"Roshan Akhtar"
+                        },
+                        {
+                            "q":"In 1722, Nizam-ul-Mulk got the Syed brothers killed. In 1722, Muhammad Shah made ChinKilich Khan or Nizam-ul-Mulk as the Wazir. But which state did he establish in 1724?",
+                            "a":"Hyderabad"
+                        },
+                        {
+                            "q":"When and under whose reign did Nadir Shah invade India?",
+                            "a":"At the time of Muhammad Shah in 1738-39"
+                        },
+                        {
+                            "q":"Nadir Shah looted a lot from Delhi. Which main items did he carry along with him after 57 days of plunder?",
+                            "a":"Takht-e-Taus and Kohinoor Daimond"
+                        },
+                        {
+                            "q":"Another important foreign invasion during the time of Muhammad Shah was that of:",
+                            "a":"Ahmad Shah Abdali (in 1748)"
+                        },
+                        {
+                            "q":"Muhammad Shah was succeeded by his son Ahmad Shah. Whom did he appoint to the post of Wazir?",
+                            "a":"Safdar Jung"
+                        },
+                        {
+                            "q":"How many times did Ahmad Shah Abdali invade India during the period of Ahmad Shah?",
+                            "a":"Five times"
+                        },
+                        {
+                            "q":"Who became the Mughal emperor after Ahmad Shah?",
+                            "a":"Alamgir II and Shah Alam II"
+                        },
+                        {
+                            "q":"During the reign of which emperor did the British gain control over Delhi in 1803 AD?",
+                            "a":"Shah Alam II"
+                        },
+                        {
+                            "q":"Who was the first Mughal emperor to ascend the throne under the protection of the British?",
+                            "a":"Akbar II"
+                        },
+                        {
+                            "q":"Which Mughal emperor did shayari under the pen name of Zafar?",
+                            "a":"Bahadur Shah Zafar"
+                        },
+                        {
+                            "q":"Who received the title of king makers in the Mughal period for their role in helping six Mughal emperors seize the throne?",
+                            "a":"Sayyid Brothers"
+                        },
+                        {
+                            "q":"The independence of Awadh was declared by Saadar Khan Burhan Mulk in 1722 AD. Who was the Mughal Emperor at this time?",
+                            "a":"Muhammad Shah"
+                        },
+                        {
+                            "q":"Safdarjung (Abul Mansoor Khan) because the Nawab of Awadh After Saadat Khan. During his reign, which battle was fought between the Mughals and Ahmad Shah Abdali in 1748 AD?",
+                            "a":"Battle of Manipur"
+                        },
+                        {
+                            "q":"Shuja-ud-Daula became the ruler after Safdar Jung. Which important battles were fought during his time, in which he also participated?",
+                            "a":"Third Battle of Panipat (1761) and Battle of Buxar (1764)"
+                        },
+                        {
+                            "q":"Which Hindu was appointed to the highest position in Safdar Jung's courth?",
+                            "a":"Maharaja Nawab Rai"
+                        },
+                        {
+                            "q":"According to the first Treaty of Banaras in 1713 AD, the districts of Kara and Allahabad were given to the Nawab of Awadh, that were earlier with Mughal emperor Shah Alam II. This treaty was signed between which Nawab of Awadh and the East India Company?",
+                            "a":"Nawab Shuja-ud-Daula"
+                        },
+                        {
+                            "q":"After the death of Shuja-ud-Daula in 1775, Asaf-ud-Daulah became the Nawab. Where did he move his capital to front Faizabad?",
+                            "a":"Lucknow"
+                        },
+                        {
+                            "q":"Which title did the seventh ruler of this dynasty, Saadat Khan, hold in 1819 AD?",
+                            "a":"Title of King"
+                        },
+                        {
+                            "q":"Who was the Nawab of Awadh who entered into subsidary alliance with the British?",
+                            "a":"Saadat Khan"
+                        },
+                        {
+                            "q":"Who was the last Nawab of Awadh, under whose reign Lord Dalhausie annexed Awadh into the British Empire in 1856 after accusing him of misrule?",
+                            "a":"Wajid Ali Shah"
+                        },
+                        {
+                            "q":"The independent Asaf Jahi dynasty in Hyderabad was founded in  1724 by ChinKilich Khan (Nizam ul Mulk). Nizam ul Mulk was appointed to which post in the Mughal court?",
+                            "a":"Subedar of Deccan"
+                        },
+                        {
+                            "q":"Nizam ul-Mulk had six subas in the Deccan, whoose headquarters were at?",
+                            "a":"Aurangabad"
+                        },
+                        {
+                            "q":"By whom was the title of Asaf Jahan conferred on ChinKilich Khan?",
+                            "a":"by Muhammad Shah"
+                        },
+                        {
+                            "q":"Saadullah is considered as the founder of the independent state of Karnataka. He made which city has his capital?",
+                            "a":"Arcot"
+                        },
+                        {
+                            "q":"Which British Governor General gained control over Karnataka by accusing its Nawab and successor of having consipired and held secret corresponding with Tipu Sultan of Mysore?",
+                            "a":"Lord Wellesley"
+                        },
+                        {
+                            "q":"Observatories with modern equipment were built by Sawai Raja Mirza Jaisingh, the Rajput ruler of Jaipur. Where were these observatories located?",
+                            "a":"Mathura, Ujjain, Jaipur and Delhi"
+                        },
+                        {
+                            "q":"'Jij Muhammad Shahi' was a work related to",
+                            "a":"Astronomy"
+                        },
+                        {
+                            "q":"The independent Jat kingdom of Bharatpur was founded by Chudaman and Ali Muhammad Khan. Who is known as 'Plato of Jat' caste?",
+                            "a":"Surajmal"
+                        },
+                        {
+                            "q":"Who established the Kingdom of Mysore in 1612 AD, during the reign of Venkata II pf Aravidu dynasty?",
+                            "a":"Chhikka Krishnaraja II"
+                        },
+                        {
+                            "q":"Who held the real power of the state during the reign of Chhikka Krishnaraja II?",
+                            "a":"Devraj and Nanraj"
+                        },
+                        {
+                            "q":"By 1761, all of Mysore's power was concentrated in the hands of Hyder Ali. Hyder Ali established a modern arsenal in collaboration with the French in 1755. Where was this arsenal located?",
+                            "a":"in Dingigul"
+                        },
+                        {
+                            "q":"Which Brahmin was appointed by Haider Ali as his advisor?",
+                            "a":"Khanderao"
+                        },
+                        {
+                            "q":"Hyder Ali had renamed Vednoor to Haidarnagar. Where did he shift his capital to from Mysore?",
+                            "a":"Srirangapatna"
+                        },
+                        {
+                            "q":"The First Anglo Mysore War took place between 1767 - 1769. By which treaty did this war between Hyder Ali and the British end?",
+                            "a":"Treaty of Madras"
+                        },
+                        {
+                            "q":"Hyder Ali's invasion of Karnataka in 1780 is considered as the begining of the Second Anglo-Mysore War (1780-84). In this context the British defeated Haider in the battle of Porto Novo. Who was the British Genral at this time?",
+                            "a":"Eyre Coote"
+                        },
+                        {
+                            "q":"The Second Anglo Mysore War ended with the Treaty of Mangalore (1784). Between whom was this treaty signed?",
+                            "a":"between Tipu Sultan and the British"
+                        },
+                        {
+                            "q":"Tipu Sultan became the ruler of Mysore in 1782 after his father's death. Tipu founded the 'Jacobin Club' in Srirangpatna. Influenced by which revolution did he establish this club?",
+                            "a":"from the French Revolution"
+                        },
+                        {
+                            "q":"The coins of Tipu Sultan had images of Hindu deities and figures of Hindu Samvat. In whose honor did he donate money to rebuild the temples?",
+                            "a":"Jagaguru Shankaracharya, Shringeri Pith"
+                        },
+                        {
+                            "q":"Tipu sent emissaries to foreign states, including the Ottoman Empire, Afghanistan, Mauritius and France, in an attempt to rally opposition to the British. In which year did he also set up a naval board?",
+                            "a":"In 1796"
+                        },
+                        {
+                            "q":"Accusing Tipu of which crime did the British start the Third Anglo Mysore War?",
+                            "a":"Secret agreement with the French against the British"
+                        },
+                        {
+                            "q":"The Third Mysore War ended in 1792 by the Treaty of Srirangapatna between the British and Tipu. With reference to this war, who said, 'We have effectively crippled our enemy without making our friends too formidable'?",
+                            "a":"Lord Cornawallis"
+                        },
+                        {
+                            "q":"Who led the British Army during the Fourth Anglo-Mysore War?",
+                            "a":"Lord Wellesley, Harris and Stuart"
+                        },
+                        {
+                            "q":"Tipu was killed while fighting in the Fourth Anglo-Mysore War on 4 May 1799. After this, who was installed by the British on the throne of Mysore?",
+                            "a":"Adyar dynasty boy Krishnarai"
+                        },
+                        {
+                            "q":"When was Khalsa established by Guru Govind Singh (tenth Guru) by ending individual Guruship?",
+                            "a":"In 1699"
+                        },
+                        {
+                            "q":"Which Sikh religious scripture was accorded the status of religious Guru after ending the lineage of the ten human gurus of the religion?",
+                            "a":"To Guru Granth Sahib"
+                        },
+                        {
+                            "q":"After the death of Guru Givind Singh, Banda Bahadur led the Sikhs. Banda Bahadur's followers referred to him by which name?",
+                            "a":"Sachcha Padshah or True ruler"
+                        },
+                        {
+                            "q":"In 1716, Banda Bahadur was killed along with his sons by the Mughal emperor Farrukhsiyar. What was the reason that led to the reorganization of the Sikhs after the death of Farrukhsiyar and during the period of Muhammad Shah?",
+                            "a":"Nadir Shah's invasion of Punjab"
+                        },
+                        {
+                            "q":"The Sikh clans were organised as the Khalsa under the leadership of Kapoor Singh. Who constituted Dal Khalsa in the form of 12 Misls?",
+                            "a":"Jassa Singh Ahluwalia"
+                        },
+                        {
+                            "q":"Dal Khalsa used to manage to manage its security by taking 1/5 of the produce from each village. What was this practice called?",
+                            "a":"Rakhi System"
+                        },
+                        {
+                            "q":"To head of Sukerchakia Misl was Ranjit Singh, son of Maha Singh. The doab region between which two rivers formed the sphere of influence of Maha Singh's Misl?",
+                            "a":"Ravi and Chenab"
+                        },
+                        {
+                            "q":"By whom was Ranjit Singh confered the title of King and the Subedari (Governorship) of Lahore?",
+                            "a":"by Zaman Shah"
+                        },
+                        {
+                            "q":"Apprehensive of the British and opposing Sikh states, Ranjit Singh signed the treaty of Amritar with Lord Minto's envoy Charles Metacalfe in 1809. To what extent was the expansion of Ranjit Singh's Kingdom permitted by this treaty?",
+                            "a":"It limited expansion on the estern bank of Sutlej and allowed expansion to the north"
+                        },
+                        {
+                            "q":"From where did Raja Ranjit Singh get the Kohinoor daimond?",
+                            "a":"From Afghan ruler Shah Shuja"
+                        },
+                        {
+                            "q":"Ranjit Singh's army was at second place in the Asia at that time. By which name was his permanent army known?",
+                            "a":"Fauj-e-Ain"
+                        },
+                        {
+                            "q":"Ranjit Singh named the Sikh state as Sarkar-e-Khalsa for the purpose of organizing Sikh Misls. What was the name given to the coins circulated by him?",
+                            "a":"Nanak Shahi Coins"
+                        },
+                        {
+                            "q":"Under whose protection did Dilip Singh, the youngest son of Maharaja Ranjit Singh, ascend the throne in 1843?",
+                            "a":"Dowager Queen Jindan"
+                        },
+                        {
+                            "q":"The First Anglo-Sikh War began in 1845. Who led the English army in this war?",
+                            "a":"Sir Hugh Gaugh"
+                        },
+                        {
+                            "q":"The First Anglo-Sikh War concluded by the Treaty of Lahore on 8 March, 1846. As a result of this treaty, which areas cames under the direct control of the British?",
+                            "a":"All areas to the south of Sutlej river."
+                        },
+                        {
+                            "q":"According to which treaty, the British army was required to stay in Lahore till Dilip Singh became an adult. Simultaneously, the administration of Lahore was handed over to the council of eight Sikh chieftains and Rani Jindan was sent to Sheikhpur on a pension of Rs 48,000 per annum.",
+                            "a":"Treaty of Bhairowal (16 December, 1846)"
+                        },
+                        {
+                            "q":"The Battle of Chillianwala during the second anglo-sikh war (1848-49) ended inconclusively. Regarding this battle, who said, 'We have achieved a victory by incurring heavy expenditure, which is equivalent to defeat.'?",
+                            "a":"Lord Dalhausie"
+                        },
+                        {
+                            "q":"After which battle did the British defeat the Sikh army and annexed Punjab into the British empire?",
+                            "a":"Battle of Gujarat"
+                        },
+                        {
+                            "q":"Which treaty of 1809 disturbed destabilized a generation of Anglo-Sikh relations and established a border Sutlej river for Ranjit Singh?",
+                            "a":"Amritsar Treaty"
+                        },
+                        {
+                            "q":"During the time of which Governor General Punjab was amalgated into the British empire?",
+                            "a":"Lord Dalhausie"
+                        },
+                        {
+                            "q":"After the death of Aurangzeb, Bengal became completely independent under the leadership of Murshid Quli Khan. Where did he shift his capital from Dhaka?",
+                            "a":"Murshidabad"
+                        },
+                        {
+                            "q":"Murshid Quli Khan became a Muslim after conversion. What was he before?",
+                            "a":"A Brahmin of South India"
+                        },
+                        {
+                            "q":"There were three revolts during the reign of Murshid Quli Khan. The first rebellion was carried out by Sitaram Rai, Uday Narayan and Ghulam Muhammad, and the second rebellion by Shujaat Khan. Who did the third rebellion?",
+                            "a":"Najat Khan"
+                        },
+                        {
+                            "q":"After defeating the rebels in the above mentioned three revolts, to whom did Murshid Quli Khan hand over their Zamindaris?",
+                            "a":"Ramjeevan"
+                        },
+                        {
+                            "q":"Which Nawab of Bengal signed an agreement with the Marathas with an aim to save Bengak from Maratha invasion?",
+                            "a":"Alivardi Khan"
+                        },
+                        {
+                            "q":"Who said about the Europeans, 'If they are not disturbed they yield honey and if they are disturbed, they will tear us apart and kill us'?",
+                            "a":"Alivardi Khan"
+                        },
+                        {
+                            "q":"The best Rajput ruler of the 18th century was Sawai Jaisingh (1681 - 1743) of Amer. Which city did he established in 1722?",
+                            "a":"Jaipur"
+                        },
+                        {
+                            "q":"Sawai Jai Singh was a skilled ruler as well as a great jurist, astronomer, city planner and scientist. In which four cities did he build observatories (Jantar Mantar) with modern equipments?",
+                            "a":"Marathas, Ujjain, Jaipur and Delhi"
+                        },
+                        {
+                            "q":"Under which name did Sawai Jai Singh compile planetary tables for the purpose astronomical observation?",
+                            "a":"Zij Muhammad Shahi"
+                        },
+                        {
+                            "q":"In which language did Sawai Jai Singh translate Euclid's 'Elements of Geometry' and Napter's Trigonometry?",
+                            "a":"Sanskrit"
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "s":"Polity",
-            "c":[
+                },
                 {
-                    "n":"",
+                    "n":"Advent of European Companies in India",
                     "qna":[
                         {
-                            "q":"",
-                            "a":""
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "s":"Geography",
-            "c":[
-                {
-                    "n":"",
-                    "qna":[
+                            "q":"The first Portuguese and first European traveler Vasco da Gama landed on the coast of Calicut (India) in 1498 after a 90-days voyage. he reached Calicut with the help of which Gujarat merchand?",
+                            "a":"Abdul Manik"
+                        },
                         {
-                            "q":"",
-                            "a":""
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "s":"Economics",
-            "c":[
-                {
-                    "n":"",
-                    "qna":[
+                            "q":"The arrival of the Portuguese to India had two main objective - to end the influence of Arab and Venetian merchants from India and to propagate Christianity. What name was given by the Portuguese to their maritime empire (company)?",
+                            "a":"Estado da India"
+                        },
                         {
-                            "q":"",
-                            "a":""
+                            "q":"Who was the first Portuguese Viceroy in India?",
+                            "a":"Francisco de Almeida"
+                        },
+                        {
+                            "q":"Who is believed to the real founder of the Portuguese Empire in India?",
+                            "a":"Alphonso de Albuquerque"
+                        },
+                        {
+                            "q":"Cochin was initially the Portuguese capital; later Viceroy Nunu da Cunha changed the capital. Where was the new Portuguese capital built?",
+                            "a":"Goa"
+                        },
+                        {
+                            "q":"Indian and Arabic ships were prohibited from entering the Arabian Sea without cartage or permits. What was this method called?",
+                            "a":"Cartaz Armada Method (Tax)"
+                        },
+                        {
+                            "q":"Arabic and Indian ships that had received Cartaz were not permitted to carry which commodities?",
+                            "a":"Pepper and ammunition"
+                        },
+                        {
+                            "q":"Small local merchant ships were protected bt the Portuguese during sea voyages. For this, ships also had to pay octroi. This system was called?",
+                            "a":"Convoy System"
+                        },
+                        {
+                            "q":"With which Portuguese viceroy did the famous Jesuit saint Francisco Xavier come to India?",
+                            "a":"Alfonso de Sausa"
+                        },
+                        {
+                            "q":"How long did the Portuguese rule Goa, Daman and Dui?",
+                            "a":"By 1961"
+                        },
+                        {
+                            "q":"The introduction of which items in India are mainly attributed to the Portuguese?",
+                            "a":"Tobacco farming, ship-building and printing press"
+                        },
+                        {
+                            "q":"Which architectural style came to India along with the Portuguese?",
+                            "a":"Gothic Architecture"
+                        },
+                        {
+                            "q":"The Dutch East India Company was established in 1602 by the the Dutch Parliament. What kind of rights did the company get with respect to India and the countries of the East?",
+                            "a":"Related to trade, invasion and conquest of these countries"
+                        },
+                        {
+                            "q":"At which place in Andhra Pradesh was the first Dutch factory in India established by the Dutch in 1605?",
+                            "a":"In Machilipatnam"
+                        },
+                        {
+                            "q":"Which items were mainly exported from India by the Dutch?",
+                            "a":"Indigo, Opium, Rice, Salt and Cottom textiles"
+                        },
+                        {
+                            "q":"The Dutch were forced to leave Indian trade by the British after suffering decrisive defeat in which battle against them?",
+                            "a":"In the Battle of Bedara, 1759"
+                        },
+                        {
+                            "q":"The Dutch issued gold pagoda coins bearing the portrait of which god from their mint at Pulicat?",
+                            "a":"Lord Venkateswara (Vishnu)"
+                        },
+                        {
+                            "q":"Which group founded the English East India Company or the Governor and Company of Merchants of London Trading into the East-Indies in 1599?",
+                            "a":"Merchants Adventures"
+                        },
+                        {
+                            "q":"When did the East India Company receive a Royal Charter from Queen Elizabeth I for trading with the East?",
+                            "a":"On 31 December 1600"
+                        },
+                        {
+                            "q":"Which Mughal emperor granted Captain Hawkins permission to settle in Agra and a Mansab and Jagir of 400?",
+                            "a":"by Jahangir"
+                        },
+                        {
+                            "q":"By issuing a royal decree on 6 February 1613. which Mughal ruler allowed the British to establish a factory in Surat?",
+                            "a":"by Jahangir"
+                        },
+                        {
+                            "q":"Who was the Englishman to appear in the Ajmer courth of Jahangir on 10 January 1616?",
+                            "a":"Sir Tomas Roe"
+                        },
+                        {
+                            "q":"When and where was the first factory of East India Company established in South India?",
+                            "a":"In 1611 at Machalipatnam and Petapuli"
+                        },
+                        {
+                            "q":"Which fort was established in Madras after the British obtained the lease of Madras lease from the king of Chandragiri?",
+                            "a":"Fort St. George"
+                        },
+                        {
+                            "q":"Bombay was given to the East India Company by Prince Charles in 1668 at an annual rental of 10 pounds. How had the Prince obtained Bombay?",
+                            "a":"In dowry on account of his marriage of Portuguese princess Catherine of Branganza"
+                        },
+                        {
+                            "q":"By whom was a Firman granted to the British in 1650 to trade in Bengal for an annual fee of Rs 3,000?",
+                            "a":"by Shah Shuja"
+                        },
+                        {
+                            "q":"Who was the first British Governor of Bengal?",
+                            "a":"William Hedges"
+                        },
+                        {
+                            "q":"When and where did the first confrontation between the Mughal emperor Aurangzeb and the British take place?",
+                            "a":"in Hooghly in 1686"
+                        },
+                        {
+                            "q":"From whom did the company get zamindari of Kalikata, Gobindapur and Sutanuti village?",
+                            "a":"From Ibrahim Khan"
+                        },
+                        {
+                            "q":"Who laid the foundation of Modern Calcutta by combining Kalikata, Gobindapur and Sutanuti?",
+                            "a":"Job Charnock"
+                        },
+                        {
+                            "q":"Who was the first governor of Fort William, established in Calcutta in 1700?",
+                            "a":"Sir Charles Eyre"
+                        },
+                        {
+                            "q":"On the passage of a resolution in the British Parliament, in 1634 all the British subjects got the right to trade in India. As a result, the English company 'Trading in the East' was born. With the later merger of new and old companies, how wss it rechristended?",
+                            "a":"The United Company of Merchants of England Trading to the East Indies"
+                        },
+                        {
+                            "q":"The Danish East India Company maintained its colonies in India for about 225 years. Which country was that company from?",
+                            "a":"Denmark"
+                        },
+                        {
+                            "q":"Where did the Danish East India Company established its first factory in India in 1620?",
+                            "a":"Tranquebar in Tamil Nadu"
+                        },
+                        {
+                            "q":"Apart from established settlements in Tranquebar, the Danes also set up their settlements in Seramphore (West Bengal) and Nicobar Islands. When did the company establish its settlememnt in Serampore?",
+                            "a":"In 1755"
+                        },
+                        {
+                            "q":"Where did the Danish missionary establish a press in 1799 where printed books in 40 different languages from 1801 to 1832?",
+                            "a":"Serampore"
+                        },
+                        {
+                            "q":"During which was did the British attack Danish ships, destroy the Danish East India Company's trade with India and eventually capture Danish settlements and make them part of British India?",
+                            "a":"Napoleonic Wars (1803 - 15)"
+                        },
+                        {
+                            "q":"The Danish East India Company could never take roots in India. In which year did Denmark transfer its last Dutch settlement Serampore to Britain?",
+                            "a":"In 1845"
+                        },
+                        {
+                            "q":"When and under which name was the French East India Company established in India?",
+                            "a":"As Compare des Indes Orientales in 1664"
+                        },
+                        {
+                            "q":"When and where did the French established their first factory?",
+                            "a":"In Surat in 1668"
+                        },
+                        {
+                            "q":"From whom was Pondicherry obtained by the company?",
+                            "a":"From Sher Khan Lodi, Governor of Valikondapuram"
+                        },
+                        {
+                            "q":"Pondicherry was captured by the Dutch in  1693 with the help of the British, later, under which treaty did the French regained Pondicherry?",
+                            "a":"Treaty of Rijswijk"
+                        },
+                        {
+                            "q":"Where was the Fort Louis founded?",
+                            "a":"in Pondicherry"
+                        },
+                        {
+                            "q":"Under which name wars fought between British and the French?",
+                            "a":"Carnatic Wars"
+                        },
+                        {
+                            "q":"What was the immediate cause of the First Carnatic War?",
+                            "a":"The capture of some French ships by the British"
+                        },
+                        {
+                            "q":"In which battle did the French army led by Captain Paradise defeat the army of Nawab Anwaruddin of Karnataka in the First Carnatic War?",
+                            "a":"Battle of St. Thome"
+                        },
+                        {
+                            "q":"The first Carnatic war in India came to an end with the conclusion of the treaty of Aix-la-chapelle of 1740 that also marked the end of the War of the Austrian Succession between the British and the French in Europe. After this, who got control over Madras?",
+                            "a":"British"
+                        },
+                        {
+                            "q":"The Second Carnatic War was triggered by a succession struggle for the Nawabship. In this, the French supported the Nawab and Muzaffar Jung. Whom did the British support?",
+                            "a":"Anwaruddin and Nasir Jung"
+                        },
+                        {
+                            "q":"What was the immediate cause of the Third Carnatic War?",
+                            "a":"Seize of Chandernagore in Bengal by Clive and Watson"
+                        },
+                        {
+                            "q":"Sir Eyre Coote led the British army in the Battle of Wandiwash that was fougth on 22 January 1760 as a part of the Third Carnatic War. Who led the French army?",
+                            "a":"Count de Lally"
+                        },
+                        {
+                            "q":"When did the Britishers begin direct rule in India?",
+                            "a":"After the Battle of Plassey"
+                        },
+                        {
+                            "q":"In which state is the Plassey battle-field located?",
+                            "a":"After the Battle of Plassey"
+                        },
+                        {
+                            "q":"In which state is the Plassey battle-field located?",
+                            "a":"West Bengal"
+                        },
+                        {
+                            "q":"What was the correct sequence (chronological order) of the arrival of European trading companies in India?",
+                            "a":"Portuguese - Dutch - English - Dane - French"
+                        },
+                        {
+                            "q":"Siraj-ud-Daula succeeded Alivardi Khan as the Nawab of Bengal. Who were the main contestants and opponents of Siraj?",
+                            "a":"Shaukat Jung, the Nawab of Purnia, Aunt Ghasiti Begum and General Mir Zafar"
+                        },
+                        {
+                            "q":"In 1717, Mughal emperor Farruksiyar issued a farman allowing the British East Company to carry out tax-free monopoly trade. The President of the British factory now issued dastaks for trade. What was a dastak?",
+                            "a":"Permit to do tax-free trade"
+                        },
+                        {
+                            "q":"Siraj took possession of Kasim Bazar (in May 1756) and Calcutta (June 15, 1756). Who led the British army against Siraj?",
+                            "a":"Robert Clive"
+                        },
+                        {
+                            "q":"Clive led the British army in the Battle of Plassey. Who led the Nawab's army?",
+                            "a":"Mir Jafar, Yarlatif Khan and Rai Durlabh"
+                        },
+                        {
+                            "q":"Siraj-ud-Daula was killed in the Battle of Plassey. After this, who became the new Nawab of Bengal of Plassey?",
+                            "a":"Luke Scrafton"
+                        },
+                        {
+                            "q":"After receiving the Nawabship of Bengal, Mir  Zafar gave the zamindari rights of 24 Paraganas to the company. The jagir of 24 Paraganas is known by which name?",
+                            "a":"Clive's Jagir"
+                        },
+                        {
+                            "q":"Mir Zafar relinquished his post in October 1760 due to the huge increase in the expenses of the British Government and his inhability to bear it. Whom did he appoint as the new Nawab?",
+                            "a":"Mir Qasim"
+                        },
+                        {
+                            "q":"Where did Mir Qasim move his capital from Murshidabad with an aim to avoid British intervension?",
+                            "a":"Munger"
+                        },
+                        {
+                            "q":"Mir Qasim reformed his military system. He increased the number of soldiers in his army and trained them in a European manner. He placed his army under whose control?",
+                            "a":"Gurgin Khan (Armenian)"
+                        },
+                        {
+                            "q":"Due to Mir Qasim 1764, the combined forces of Nawab Shuja-ud-Daulah of Awadh, Mughal Emperor Shah Alam II and Mir Qasim arrived in the plains of Buxar, east of Banaras. Under whose leadership did the English army reach the Battlefield?",
+                            "a":"Hector Munro"
+                        },
+                        {
+                            "q":"The first treay of Allahabad ceded to the company the Diwani Rights of Bengal, Bihar, and Orissa. This treaty was concluded between whom?",
+                            "a":"between Clive and Mughal Emperor Shah Alam (12 August, 1765)"
+                        },
+                        {
+                            "q":"Diarchy in Bengal is considered to have begum in 1765. Who is considered as the father of diarchy?",
+                            "a":"To Lionel Curtis"
+                        },
+                        {
+                            "q":"Between whom was the second treaty of Allahabad concluded?",
+                            "a":"Between Clive and Shuja-ud-Daula, the Nawab of Awadh (16 August, 1765)"
+                        },
+                        {
+                            "q":"'I can say with full confidence that there has been no government in the world that is so corrupt, treacherous and greedy as the government of India.' It was said by whom and in which context?",
+                            "a":"with reference to diarchy in Bengal by Lord Cornawallis"
+                        },
+                        {
+                            "q":"Who was the last Nawab of Bengal?",
+                            "a":"Mubarak-ud-Daulah (1770 - 1775)"
                         }
                     ]
                 }
