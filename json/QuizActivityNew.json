@@ -6,6 +6,30 @@
             "cta": "UPSC_CSE_Prelims_Quiz",
             "quiz_list": [
                 {
+                    "title": "UPSC CSE - History Class 6 Quiz 01",
+                    "category":"NCERT",
+                    "total": "10",
+                    "correct_points": "2",
+                    "negative_points": "0.66",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "4",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/UPSC/Quiz_UPSC_CSE_NCERT_HistoryClass6_001_10.json"
+                },
+                {
+                    "title": "UPSC CSE - History Class 7 Quiz 02",
+                    "category":"NCERT",
+                    "total": "10",
+                    "correct_points": "2",
+                    "negative_points": "0.66",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "4",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/UPSC/Quiz_UPSC_CSE_NCERT_HistoryClass7_002_10.json"
+                },
+                {
                     "title": "UPSC CSE - Indian Economy Quiz 01",
                     "category":"Subjective",
                     "total": "30",
