@@ -12,7 +12,7 @@
                     "correct_points": "2",
                     "negative_points": "0.66",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/UPSC/Quiz_UPSC_CSE_Subjective_IndianEconomy_001_30.json"
@@ -24,7 +24,7 @@
                     "correct_points": "2",
                     "negative_points": "0.66",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/UPSC/Quiz_UPSC_CSE_Subjective_EnvironmentEcology_001_30.json"
@@ -36,7 +36,7 @@
                     "correct_points": "2",
                     "negative_points": "0.66",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "4",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/UPSC/Quiz_UPSC_CSE_Subjective_AncientMedievalIndianHistory_001_30.json"
@@ -103,7 +103,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_BiharStateHistory_001_25.json"
@@ -115,7 +115,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_BiharStateHistory_002_25.json"
@@ -127,7 +127,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_BiharStateGeography_001_25.json"
@@ -139,7 +139,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_BiharStateGeography_002_25.json"
@@ -151,7 +151,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_BiharSpecific_001_25.json"
@@ -163,7 +163,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_BiharSpecific_002_25.json"
@@ -175,7 +175,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_ArtCulture_001_25.json"
@@ -187,7 +187,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_AncientHistory_001_25.json"
@@ -199,7 +199,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_AncientHistory_002_25.json"
@@ -211,7 +211,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_MedievalHistory_001_25.json"
@@ -223,7 +223,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_PreCongressModernIndiaHistory_001_25.json"
@@ -235,7 +235,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_PreCongressModernIndiaHistory_002_25.json"
@@ -247,7 +247,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_NatonalMovementModernIndiaHistory_001_25.json"
@@ -259,7 +259,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_NatonalMovementModernIndiaHistory_002_25.json"
@@ -271,7 +271,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_NatonalMovementModernIndiaHistory_003_25.json"
@@ -283,7 +283,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_PhysicalWorldGeography_001_25.json"
@@ -295,7 +295,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_PhysicalWorldGeography_002_25.json"
@@ -307,7 +307,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_IndianGeography_001_25.json"
@@ -319,7 +319,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_IndianGeography_002_25.json"
@@ -331,7 +331,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_IndianGeography_003_25.json"
@@ -343,7 +343,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_IndianPolity_001_25.json"
@@ -355,7 +355,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_IndianPolity_002_25.json"
@@ -367,7 +367,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_IndianPolity_003_25.json"
@@ -379,7 +379,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_IndianPolity_004_25.json"
@@ -391,7 +391,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_IndianEconomy_001_25.json"
@@ -403,7 +403,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_IndianEconomy_002_25.json"
@@ -415,7 +415,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_Biology_001_25.json"
@@ -427,7 +427,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_Physics_001_25.json"
@@ -439,7 +439,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_Chemistry_001_25.json"
@@ -451,7 +451,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_EnvironmentEcology_001_25.json"
@@ -463,7 +463,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_ArtCulture_AncientMedievalHistory_001_25.json"
@@ -475,7 +475,7 @@
                     "correct_points": "2",
                     "negative_points": "0",
                     "quiz_ui": "one",
-                    "level": "Easy",
+                    "level": "Moderate",
                     "option_count": "5",
                     "multiLang": "yes",
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_Subjective_BiologyEnvironment_001_25.json"
