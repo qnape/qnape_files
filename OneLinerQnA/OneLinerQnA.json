@@ -2016,7 +2016,7 @@
                             "a":"1866 - 67"
                         },
                         {
-                            "q":"When and under whose leadership did Governor General Lord Harding establish the Industrial Commission of India?",
+                            "q":"When and under whose leadership did Governor General Lord Hardinge establish the Industrial Commission of India?",
                             "a":"In 1916, under the leadership of Sir Thomas Holland"
                         },
                         {
@@ -2348,6 +2348,477 @@
                         {
                             "q":"When did Ho rebellion took place under Poto Ho?",
                             "a":"1820 - 21"
+                        }
+                    ]
+                },
+                {
+                    "n":"Development of Education in India during the British Period",
+                    "qna":[
+                        {
+                            "q":"When and by whom was the Asiatic Society of Bengal founded?",
+                            "a":"by Sir William Jones in 1784"
+                        },
+                        {
+                            "q":"The development of education in India by the British started with the establishment of Calcutta Madrasa in 1781, the purpose of which was to teach Muslim laws and other subjects related to it?",
+                            "a":"Warren Hastings"
+                        },
+                        {
+                            "q":"Which college was established for Hindu law and philosophy in Varanasi in 1791 with the efforts of Jonathan Duncan?",
+                            "a":"Sanskrit College"
+                        },
+                        {
+                            "q":"Which college was founded by Lord Wellesley on 10 July 1800, where officers were taught various languages and different Indian customs?",
+                            "a":"Fort William College"
+                        },
+                        {
+                            "q":"The idea of opening a network of schools for imparting English education in India first came to the mind of which civil servant of the East India Company.",
+                            "a":"Charles Grant"
+                        },
+                        {
+                            "q":"Where was Bishop College established by Bishop Thomas Middleton on 15 December 1820?",
+                            "a":"In Calcutta"
+                        },
+                        {
+                            "q":"Raja Ram Mohan Roy, David Hare and Sir Hyde East together established which college in Calcutta in 1817, which later became the Presidency College?",
+                            "a":"Hindu College"
+                        },
+                        {
+                            "q":"Which act is considered as the first endeavour of the East Indian Company into education in India?",
+                            "a":"Charter Act of 1813"
+                        },
+                        {
+                            "q":"By which act was the Governor General empowered to spend one lakh rupees every year for the encouragement of learned Indians and for the improvement and revival of literature?",
+                            "a":"Charter Act of 1813"
+                        },
+                        {
+                            "q":"The real work of spreading education in India was started by Christian missionaries, whose main objective was to propagate Christianity in India. Where did these missionaries make their centre?",
+                            "a":"Serampore, Bengal"
+                        },
+                        {
+                            "q":"Which college was the General Committee of Public Instruction were divided into two groups on the question of medium of education in India. Among them, H.T. Prinsep and H.H. Wilson belonged to the Orientalist group. Who represented the Anglicist group?",
+                            "a":"Monroe and Elphinstone"
+                        },
+                        {
+                            "q":"On 2 February 1835, Macaulay submitted his 'Minute on Education'. He sharply criticized the Indian languages and literature, while praising the English language and literature. When did this Minute get approval?",
+                            "a":"on 7 March 1835"
+                        },
+                        {
+                            "q":"In which year was English made the medium of instruction in India on the recommendation of Lord Macaulay?",
+                            "a":"In 1835"
+                        },
+                        {
+                            "q":"Under which Act English was made a medium for all schools and colleges supported by the govenment?",
+                            "a":"Macaulay's Minutes, 1835"
+                        },
+                        {
+                            "q":"Who said, 'A single shelf of a good European library was worth the whole native literature of India and Arabia'?",
+                            "a":"Lord Macaulay"
+                        },
+                        {
+                            "q":"Who propounded the Downward Filtration Theory of education?",
+                            "a":"Lord Auckland"
+                        },
+                        {
+                            "q":"Which Governor General established the Normal School in Calcutta for the training of teachers in 1847?",
+                            "a":"Lord Hardinge"
+                        },
+                        {
+                            "q":"Who established the Engineering College at Roorkee in 1847?",
+                            "a":"James Thomson"
+                        },
+                        {
+                            "q":"J.E.D. Bethune established a school for Indian girls in 1849. In 1879, under which name was it converted into a college, the first women's college in India?",
+                            "a":"Bethune College"
+                        },
+                        {
+                            "q":"Which Governor General took control of Bethune College and made it main centre of Indian women's education in India?",
+                            "a":"Lord Dalhausie"
+                        },
+                        {
+                            "q":"The committee, constituted under the chairmanship of Sir Charles Wood, prepared a comprehensive plan for future education in India. This plan envisaged regular system of education at the all-India level. In which year was the Charles Wood's Dispatch brought out?",
+                            "a":"On 1854"
+                        },
+                        {
+                            "q":"What is known as the magna carta of Indian education?",
+                            "a":"Charles Wood's Dispatch"
+                        },
+                        {
+                            "q":"Which department was established in 1855 on the basis of Wood's Dispatch?",
+                            "a":"Public Education Department"
+                        },
+                        {
+                            "q":"Based on Charles Wood's recommendation, in which three cities were universities established in 1857?",
+                            "a":"Bombay, Calcutta and Madras"
+                        },
+                        {
+                            "q":"Under whose chairmanship did Lord Ripon set up a commission in 1882 to review the progress made in the field of education under the Wood's Dispatch.",
+                            "a":"W.W. Hunter"
+                        },
+                        {
+                            "q":"Calcutta University came into existence as a result of which educational report?",
+                            "a":"Wood's Dispatch"
+                        },
+                        {
+                            "q":"Which type of education was given importance by Hunter Commission that suggested that this education should be in local language and useful subjects?",
+                            "a":"Primary Education"
+                        },
+                        {
+                            "q":"In 1898, Mrs. Annie Besant established the Central Hindu College in Varanasi, which developed into the Banaras Hindu University in 1916. Who was its founded?",
+                            "a":"Pt. Madan Mohan Malaviya"
+                        },
+                        {
+                            "q":"Which commission was established by Lord Curzon in 1902 under the chairmanship of Thomas Raleigh?",
+                            "a":"University Commission"
+                        },
+                        {
+                            "q":"In whose time was the Department of Archaeology Department Curzon's time. Who was the first person to sit on this post?",
+                            "a":"H.W. Orange"
+                        },
+                        {
+                            "q":"Which act was passed in the year 1904 based on the recommendations of the Raleigh Commission?",
+                            "a":"Indian Universities Act"
+                        },
+                        {
+                            "q":"From which year did the state of Baroda start free and compulsory primary education?",
+                            "a":"Since 1906"
+                        },
+                        {
+                            "q":"Who demanded free primary education in the Legislative Council for the spread of education, on the basis of which the govenment announced an education policy on 21 February 1913?",
+                            "a":"Gopal Krishna Gokhale"
+                        },
+                        {
+                            "q":"In which year the policy of ending illiteracy in the country was accepted for the first time through a government proporsal and a university was announced to be opened in each province?",
+                            "a":"In the year 1913"
+                        },
+                        {
+                            "q":"In which year a Commission (Sandler Commission) was constituted under the chairmanship of Dr. M. Sandler, Vice Chancellor of the University of Leeds, to study the problems of the University of Calcutta?",
+                            "a":"In 1917"
+                        },
+                        {
+                            "q":"Who were the two Indian members of the Sandler Commission?",
+                            "a":"Ashutosh Mukherjee and Dr. Ziauddin Ahmed"
+                        },
+                        {
+                            "q":"Under which reforms the central grant for education was discontinued and the education department in the provinces was placed under the control of the elected minister?",
+                            "a":"Montague-Chelmsford Reforms, 1919"
+                        },
+                        {
+                            "q":"Under whose chairmanship did the Statutory Commission of India appointed a subsidiary committee in 1929 to review the decline in education level due to indiscriminate growth of educational institutions?",
+                            "a":"Sir Philip Hartog"
+                        },
+                        {
+                            "q":"Which board was reorganized in the year 1935 on the recommendation of Hartog Committee?",
+                            "a":"Central Education Advisory Board"
+                        },
+                        {
+                            "q":"In 1937, Mahatma Gandhi proposed an education scheme through his articles in 'The Harijan'. By which name is it known?",
+                            "a":"Wardha Basic Education Scheme"
+                        },
+                        {
+                            "q":"The Central Advisory Board of Education recommended a national scheme in 1944, under which primary schools and higher secondary schools were to be establised across the nation for providing free and compulsory education for all Indian children in the 6 - 11 years age group. By which name is it known?",
+                            "a":"Sargent Scheme"
+                        },
+                        {
+                            "q":"What was the name of the final plan on education during the British period?",
+                            "a":"Sergeant Plan"
+                        }
+                    ]
+                },
+                {
+                    "n":"History of Indian Newspapers",
+                    "qna":[
+                        {
+                            "q":"The history of Indian newspapers begins with the arrival of Europeans. To whom goes the credit of setting up a printing press in India?",
+                            "a":"to the Portuguese"
+                        },
+                        {
+                            "q":"Which newspapers is considered as the first newspaper of India?",
+                            "a":"The Bengal Gazette"
+                        },
+                        {
+                            "q":"Who was the founder of The Bengal Gazette published from the year 1780?",
+                            "a":"James Augustus Hickey"
+                        },
+                        {
+                            "q":"Gangadhar Bhattachatya's weekly 'Bengal Gazette' was the first newspaper published in English by any Indian. In which year did its publication start?",
+                            "a":"In 1816"
+                        },
+                        {
+                            "q":"Who is credited with modernizing the press in India?",
+                            "a":"James Silk Buckingham"
+                        },
+                        {
+                            "q":"Which newspaper was edited by British businessman James Silk Buckingham in 1818?",
+                            "a":"Calcutta Journal"
+                        },
+                        {
+                            "q":"The Weekly newspaper named 'Samachar Darpan' on 23 March 1818 began to be published from Shrirampur College, Bengal, under the leadership of 'Marshman'. In which language was it published?",
+                            "a":"Bangla"
+                        },
+                        {
+                            "q":"Which newspaper published in Varanasi was the first Hindi newspaper of India, whose founder was Jugal Kishore?",
+                            "a":"Udand Martland (1826)"
+                        },
+                        {
+                            "q":"Raja Ram Mohan Roy is credited with the establishment of a national press in India. What were the names of newspapers published by him?",
+                            "a":"Samvad Kaumudi (1821) and Mirat-ul Akhbar (1822)"
+                        },
+                        {
+                            "q":"Raja Ram Mohan Roy started publishing which newspaper to oppose social and religious orthodoxy in March 1822?",
+                            "a":"Samachar Chandrika"
+                        },
+                        {
+                            "q":"In which language did Raja Rammohun Roy start publishing a weekly called 'Mirat-ul Akhbar' in April 1822?",
+                            "a":"Persian language"
+                        },
+                        {
+                            "q":"Who published a pamphlet, titled 'Tuhatul Muwahhiddin' in Persian language?",
+                            "a":"Raja Ram Mohan Roy"
+                        },
+                        {
+                            "q":"In which language did Pestonji Manekji Motiwala publish the newspaper titled Jam-e-Jamshed and Akhbar-e-Saudagar?",
+                            "a":"Gujarati"
+                        },
+                        {
+                            "q":"The first newspaper to be published in Gujarati language was 'Rasta Goftar'. Who was its founder editor?",
+                            "a":"Dadabhai Naoroji (1851)"
+                        },
+                        {
+                            "q":"By whom was 'Som Prakash' published in 1859?",
+                            "a":"Ishwar Chandra Vidyasagar"
+                        },
+                        {
+                            "q":"Amrit Bazar Patrika was converted into an English weekly to avoid the Vernacular Press Act. In which language was it published earlier?",
+                            "a":"In Bangla"
+                        },
+                        {
+                            "q":"There were two newspapers published by Bal Gangadhar Tilak - 'Maratha' and 'Kesari' the publication of which started in Mumbai from 1881. Of these two, the newspaper named 'Kesari' was published in Marathi. In which language was 'Maratha' published?",
+                            "a":"English"
+                        },
+                        {
+                            "q":"India's first evening newspaper was published in English from Madras in 1868. What was the name of this newspaper?",
+                            "a":"Madras Mail"
+                        },
+                        {
+                            "q":"Mahatma Gandhi's 'Indian Opinion', 'Young India' and 'Harijan' newspaper were published in English language. In which language was his 'Navjivam' newspaper published?",
+                            "a":"English"
+                        },
+                        {
+                            "q":"In order to control all newspapers, the Press Control Act of 1799 made it mandatory to give the name of editor, printer and owner on the newspaper. During whose time was this act passed?",
+                            "a":"Lord Wellesley"
+                        },
+                        {
+                            "q":"The District Magistrate was empowered by Vernacullar Press Act to get any Indian-language newspaper to sign bond paper paper that it would not print any material that was anti-govenment. In which year was this act passed?",
+                            "a":"In 1878"
+                        },
+                        {
+                            "q":"Which act was passed by Lord Curzon implement to prevent unrest in the country caused by the Partition of Bengal and the growing influence of Indian revolutionaries?",
+                            "a":"Newspaper Act, 1908"
+                        },
+                        {
+                            "q":"The 'Pioneer' received special favors from the British Govenment. From where was this newspaper published in English?",
+                            "a":"from Allahabad"
+                        },
+                        {
+                            "q":"The Statesman was famous for its liberal views under its editor Robert Knight. Which newspaper was the most conservative and reactionary among Anglo-Indian newspaper?",
+                            "a":"English Man"
+                        },
+                        {
+                            "q":"Who was the chairman of the Press Committee appointed in 1921 for the purpose of reviewing laws related to newspaper?",
+                            "a":"English Man"
+                        },
+                        {
+                            "q":"Who was the chairman of the Press Committee appointed in 1921 for the purpose of reviewing laws related to newspapers?",
+                            "a":"Sir Tej Bahadur Sapru"
+                        },
+                        {
+                            "q":"In 1823, which Acting Governor General enacted 'Licensing Regulations' under which it was made mandatory for printer and publisher to receive license before setting up a press?",
+                            "a":"John Adams"
+                        },
+                        {
+                            "q":"Who had to stop the publication of 'Mirat-ul Akbar' under the Licensing Regulations?",
+                            "a":"Raja Ram Mohan Roy"
+                        },
+                        {
+                            "q":"Implementing the Liberation of the Indian Press Act, the acting Govenor General Charles Metcalfe (1835-36) repealed the sobering license rules of 1823. How did he begin to be called after this?",
+                            "a":"Liberator of Indian Newspapers"
+                        },
+                        {
+                            "q":"The License Rule was re-enacted to deal with the rebellion of which year?",
+                            "a":"Of 1857"
+                        },
+                        {
+                            "q":"Which Viceroy passed the Indigenous Language Newspaper Act (Vernacular Press Act), 1878 during his tenure?",
+                            "a":"Lord Lytton"
+                        },
+                        {
+                            "q":"Under which act, newspapers had no right to appeal before the court, and so consequently it began to be called 'gagging act'?",
+                            "a":"Vernacular Press Act"
+                        },
+                        {
+                            "q":"The Vernacular Press Act was primarily brought against which newspaper, that overnight changed from Bangla ti English langauge to escape the provisions of the said Act?",
+                            "a":"Amrit Bazar Patrika"
+                        },
+                        {
+                            "q":"Which newspaper fully supported the Vernacular Press Act?",
+                            "a":"Pioneer"
+                        },
+                        {
+                            "q":"Which Viceroy repealed the Vernacular Press Act?",
+                            "a":"Lord Ripon"
+                        },
+                        {
+                            "q":"By which act were the provincial govenments granted immense powers to stop the civil disobedience movement?",
+                            "a":"Indian Press (Emergency Powers) Act, 1931"
+                        },
+                        {
+                            "q":"Which committee was formed in the year 1947 by the Govenment of India to review the Newspapers Act, that recommended the repeal of the Indian Press (Emergency Powers) Act, 1931 and amending the Act for the registration of newspapers and books?",
+                            "a":"Newspaper Investigation Committee, 1947"
+                        }
+                    ]
+                },
+                {
+                    "n":"Social and Religious Reform Movements",
+                    "qna":[
+                        {
+                            "q":"Who is also known as the 'bridge between past and future'. 'father of Indian nationalism', 'father of modern India', 'forerunner of Indian renaissance', etc",
+                            "a":"Raja Ram Mohan Roy"
+                        },
+                        {
+                            "q":"In 1809, Raja Ram Mohan Roy's book Tuhfat-ul-Muwahhidin (gift to monotheists) was published. In which language was this book published?",
+                            "a":"Persian"
+                        },
+                        {
+                            "q":"Raha Ram Mohan Roy attacked the evils of Hinduism by establishing the Atmiya Sabha in Calcutta in 1815. He was a believer in which concept of Hinduism?",
+                            "a":"Monotheism"
+                        },
+                        {
+                            "q":"Vedanta College was established by Raja Ram Mohan Roy in 1825. When was the Brahma Samaj established by him?",
+                            "a":"August 20, 1828"
+                        },
+                        {
+                            "q":"Which social reformer vehementhly opposed the 1826 Jury Act?",
+                            "a":"Raja Ram Mohan Roy"
+                        },
+                        {
+                            "q":"Which institutions did Raja Ram Mohan Roy established in Kolkata in 1828, through which he fougth against the evils of Sati, Polygamy, Prostitution, caste system, etc. prevalent in Hindu society?",
+                            "a":"Brahmo Samaj"
+                        },
+                        {
+                            "q":"Where did Raja Ram Mohan Roy establish the Hindu College in 1817 in collaboration with David Hare?",
+                            "a":"In Calcutta"
+                        },
+                        {
+                            "q":"Raja Ram Mohan Roy studied Christianity and wrote a book on this religion. What was the title of this book?",
+                            "a":"Precept of Jesus"
+                        },
+                        {
+                            "q":"After the death of Raja Ram Mohan Roy, the activities of the Brahmo Samaj were conducted by Maharishi Dwarkanath Tagore and Pandir Ramchandra Vidya Bagish. Who took care of it after Dwarkanath?",
+                            "a":"Devendranath Tagore"
+                        },
+                        {
+                            "q":"Who founded the Tattvaranjini Sabha in 1839, that later came to be known as the Tatvabodhini Sabha?",
+                            "a":"Devendranath Tagore"
+                        },
+                        {
+                            "q":"The first division took place in the Brahmo Samaj in 1865. The Devendranath group called itself as the Adi Brahmo Samaj. What did the faction of Acharya Keshav Chandra Sen call themself?",
+                            "a":"Brahmo Samaj of India"
+                        },
+                        {
+                            "q":"Acharya Keshav Chandra Sen violated the Brahma Marriage Act (1872) and married his young daughter to the king of Cooch Behar. This led to the second schism within the Brahmo Samaj. The Sadharan Brahmo Samaj, the group created by the second split, was founded by whom?",
+                            "a":"by Anand Mohan Bose"
+                        },
+                        {
+                            "q":"Who founded the Prarthana Samaj in Mumbai in 1867 with the inspiration of Keshav Chandra in which Mahadev Govind Ranade and R.G. Bhandarkar played an important role?",
+                            "a":"Atmaram Pandurang"
+                        },
+                        {
+                            "q":"Mahadev Govid Ranade founded the Sarvajanik Samaj in 1871. What was the famous book written by him?",
+                            "a":"Theist's Confession of Faith"
+                        },
+                        {
+                            "q":"Who is known as the harbinger of culture renaissance in western India?",
+                            "a":"Mahadev Govid Ranade"
+                        },
+                        {
+                            "q":"When and by whom was the Hindu Social Reform Association established in Madras?",
+                            "a":"In 1892 by Veresalingam Pantulu and R. Venakaratnam"
+                        },
+                        {
+                            "q":"When and by whom was the Rahanumai Mazdayasanam Sabha (Religious Reform Association) established with regard to the Parsi Reform Movement?",
+                            "a":"By S.S. Bangali and Naoroji Furdonji and Dadabhai Naoroji in 1851"
+                        },
+                        {
+                            "q":"Who was the leader of the Aligarh movement?",
+                            "a":"Sir Syed Ahmed Khan"
+                        },
+                        {
+                            "q":"Who established the Scientific Society in 1864 and Muhammadan Anglo Oriental College in 1875?",
+                            "a":"Sir Syed Ahmed Khan"
+                        },
+                        {
+                            "q":"The Deoband movement was started by whom?",
+                            "a":"by Muhammad Qasim Nanautavi and Rashid Ahmad Gangohi"
+                        },
+                        {
+                            "q":"In which year was the Ahmadiyya movement founded by Mirza Ghulan Ahmad?",
+                            "a":"In 1889"
+                        },
+                        {
+                            "q":"Who played an important role in prohibiting Sati system under Rule 17 of 1829?",
+                            "a":"Lord William Bentinck"
+                        },
+                        {
+                            "q":"Under the Widow Remarriage Act of 1856, widow marriages were regalized, and children born to them were considered legitimate. Who requested the British govenment to enact a law on widow remarriage?",
+                            "a":"Ishwar Chandra Vidyasagar"
+                        },
+                        {
+                            "q":"Inter-Caste marriage were recognized by the Native Marriage Act (Civil Marriage Act). In which year did this act come into being?",
+                            "a":"In 1872"
+                        },
+                        {
+                            "q":"In 1930, the Age of Consent Act (1891) was amended to be named Shasda Act. Under this, what was the marriageable age?",
+                            "a":"14 years (girl) and 18 years (boy)"
+                        },
+                        {
+                            "q":"Officially, stress was laid on women's education for the first time in:",
+                            "a":"Charles Wood's Dispatch of 1854"
+                        },
+                        {
+                            "q":"The British govenment imposed a complete ban on slavery through the 1833 Charter Act. In which year was slavery declared illegal all over India?",
+                            "a":"In 1843"
+                        },
+                        {
+                            "q":"When and who founded the All-India Anti-untouchability League that was later renamed as Harijan Sevak Sangh?",
+                            "a":"Mahatma Gandhi in 1832"
+                        },
+                        {
+                            "q":"Mahatma Gandhi established the Sabarmati Ashram in 1915. By what name was this ashram formerly known?",
+                            "a":"Satyagraha Ashram"
+                        },
+                        {
+                            "q":"Who started the self-respect movement in south India in 1920?",
+                            "a":"E.V. Ramasamy Periyar"
+                        },
+                        {
+                            "q":"Which non-violent movement was initiated against the Mahants of Gurudwaras in 1921, as a result of which the Sikh Gurudwara Act was passed in 1922, which is in effect till today?",
+                            "a":"Akali Movement"
+                        },
+                        {
+                            "q":"In which congress session was equality talked about for the first time instead of caste and distinction under the resolution on Fundamental Rights?",
+                            "a":"Karachi Session in 1931"
+                        },
+                        {
+                            "q":"Mahatma Gandhi founded the 'All-India Anti-untouchability League' on 30 September 1932, the first president of which was the famous industrialist Ghanshyamdas Birla. What was it renamed as on September 13, 1933?",
+                            "a":"Harijan Sevak Sangh"
+                        },
+                        {
+                            "q":"Who founded 'The Servant of India Society' in Bombay in 1905 AD?",
+                            "a":"Gopal Krishna Gokhale"
+                        },
+                        {
+                            "q":"Which movement was launched between upper castes and lower castes regarding temple entry in Kerala?",
+                            "a":"Vaikom Satyagraha"
                         }
                     ]
                 }
