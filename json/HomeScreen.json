@@ -14,24 +14,30 @@
         },
         {
             "id":"3",
+            "title":"One Liner QnA",
+            "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/qna-128.png",
+            "cta":"One_Liner_QnA"
+        },
+        {
+            "id":"4",
             "title":"Short Notes",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/short_notes-128.png",
             "cta":"Short_Notes"
         },
         {
-            "id":"4",
+            "id":"5",
             "title":"Syllabus",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/syllabus-128.png",
             "cta":"Syllabus"
         },
         {
-            "id":"5",
+            "id":"6",
             "title":"NCERT Books",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/ncert_books-128.png",
             "cta":"NCERT_Books"
         },
         {
-            "id":"6",
+            "id":"7",
             "title":"Notes PDF",
             "icon":"https://raw.githubusercontent.com/qnape/qnape_files/main/icons/notes-128.png",
             "cta":"Notes_PDF"
