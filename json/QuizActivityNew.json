@@ -229,6 +229,42 @@
                     "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_GS004_ArtCulture_10.json"
                 },
                 {
+                    "title": "BPSC - Biology Quiz 05",
+                    "category":"NCERT",
+                    "total": "10",
+                    "correct_points": "1",
+                    "negative_points": "0",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "5",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_GS005_Biology_10.json"
+                },
+                {
+                    "title": "BPSC - Biology Quiz 06",
+                    "category":"NCERT",
+                    "total": "10",
+                    "correct_points": "1",
+                    "negative_points": "0",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "5",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_GS006_Biology_10.json"
+                },
+                {
+                    "title": "BPSC - Biology Quiz 07",
+                    "category":"NCERT",
+                    "total": "10",
+                    "correct_points": "1",
+                    "negative_points": "0",
+                    "quiz_ui": "one",
+                    "level": "Easy",
+                    "option_count": "5",
+                    "multiLang": "yes",
+                    "quiz_link": "https://raw.githubusercontent.com/qnape/qnape_files/main/QuizItems/BPSC/Quiz_BPSC_GS007_Biology_10.json"
+                },
+                {
                     "title": "BPSC - Bihar State History Quiz 01",
                     "category":"Subjective",
                     "total": "25",
